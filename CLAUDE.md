@@ -60,6 +60,7 @@ Proyecto de vida/
 - **No asumir — preguntar.** Si hay ambigüedad sobre qué documento actualizar o en qué área cae algo, preguntar primero.
 - **Perspectiva integradora.** Este workspace ve la vida completa. Las decisiones en un área afectan las demás.
 - **Documentación continua.** En cualquier sesión donde surja información nueva, una decisión tomada, o un cambio de estado relevante al sistema de vida, proponer concretamente qué archivo actualizar y con qué texto. No esperar a que Felipe lo pida — señalarlo en el momento en que aparece.
+- **Sincronización multi-dispositivo.** El workspace vive en GitHub (`FelipeFQ/proyecto-de-vida`, privado) y se usa desde el computador y desde Claude Code en web/móvil. Al iniciar una sesión local: `git pull`. Al cerrar cualquier sesión con cambios (local o en la nube): commit + push a `main`. Las sesiones en la nube no ven la memoria local de Claude (`~/.claude/.../memory/`): la fuente de verdad es siempre el contenido de este repo.
 
 ## Regla de documentos estables vs actualizables
 
