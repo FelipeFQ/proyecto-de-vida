@@ -74,3 +74,5 @@
 | Uriel | 2 o 3 | ❌ Perdido | 2026-10-03 | Mudanza 17 oct, pasó su WhatsApp; ante las opciones de hora dijo "ya le confirmo" y no volvió a responder |
 | Carlos | 2 o 3 | ❌ Perdido | 2026-10-03 | Pidió visita con insistencia ("???"), no confirmó hora |
 | Jesús | — | ❌ Perdido | 2026-10-03 | Buscaba 1 mes; plazo mínimo 3 meses |
+
+Prueba de sincronización desde el celular (2026-10-04)
