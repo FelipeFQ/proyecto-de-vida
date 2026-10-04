@@ -1,0 +1,19 @@
+# Apps con repo propio (FelipeFQ/cimientos-app, finanzas-app, ultimate-app)
+cimientos/app/
+finanzas/app/
+ultimate/app-v2/
+
+# Dependencias y builds
+node_modules/
+dist/
+__pycache__/
+*.pyc
+
+# Locales / sistema
+.claude/settings.local.json
+.env
+.env.*
+*.swp
+.DS_Store
+~$*
+.~lock.*

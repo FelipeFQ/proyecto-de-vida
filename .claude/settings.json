@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '{\"systemMessage\": \"¿Esta sesión tuvo decisiones o información nueva? Ejecuta /consolidar antes de cerrar.\"}'"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+CIMIENTOS — Snapshot cliente para contexto IA
+════════════════════════════════════════════════════
+
+PERFIL
+────────────────────────────────────────────────────
+Cliente    : Felipe Sosa Patiño
+Inicio     : 2026-04-14
+Fase actual: 1 — Diagnóstico
+Precio/mes : $150.000 COP
+Día sesión : Mar
+
+HÁBITOS
+────────────────────────────────────────────────────
+Activos (4):
+  • [Sin capa] Consolidación Siliencio  (tracking desde 2026-04-22)
+  • [Sin capa] Reflexión sobre el pasado  (tracking desde 2026-04-22)
+  • [Sin capa] Momentos de presencia  (tracking desde 2026-04-22)
+  • [Sin capa] Priorizar sueño  (tracking desde 2026-04-22)
+
+COMPLIANCE POR HÁBITO — ÚLTIMAS SEMANAS
+────────────────────────────────────────────────────
+Hábito                    |   21/4 |   28/4
+───────────────────────────────────────────
+Consolidación Siliencio   |    25% |    29%
+Reflexión sobre el pasado |    50% |    43%
+Momentos de presencia     |   100% |   100%
+Priorizar sueño           |    50% |    36%
+
+ÚLTIMAS SESIONES
+────────────────────────────────────────────────────
+Semana: Mar 21 – Lun 27 · Abr 2026
+  Progresión   : retrocedió
+  Foco sig.    : - Explorar silencio
+- Una pregunta diaria 
+- Retomar horarios de sueño
+  Notas        : - Solo una respuesta de las preguntas de al semana
+- Dificualtad del trabajo
+- Responsabilidades de la universidad (Falta de orden en el tiempo y planeacion)
+- Asistencia a eventos de caracter social. "Los necesitaba"
+- Llegada de mama de monica. Esperar hasta tarde.
+- No sentirse mal. Resultados: Amigos, skate, monica.
+- Clausula del trabajo.
+- Sueño del sushi
+
+Paso 1 — Establecer el norte (10-15 min)
+
+Antes de revisar la semana. Sin esto, todo lo demás queda sin ancla:
+
+"Antes de arrancar, quiero hacer algo que nos saltamos al inicio. ¿Qué tiene que haber cambiado en tu vida al final de este proceso para que tú digas que esto funcionó?"
+
+Escucha sin interrumpir. Lo que diga se convierte en el ancla de todo lo que sigue.
+
+Paso 2 — Nombrar la tensión (sin entregar el diagnóstico completo)
+
+Después de que articule su norte:
+
+"Hay algo que quiero nombrarte antes de revisar la semana. Veo que tienes una vida fuera del trabajo que es genuinamente valiosa — la música, los amigos, la conexión. No estoy cuestionando eso. Lo que sí noto es que cada vez que el proceso pide algo, hay algo de esa vida que compite. Esas dos cosas existen al mismo tiempo y son reales las dos. No tengo que convencerte de nada. Pero necesito que me digas tú: ¿qué quieres hacer con eso?"
+
+Después de esa pregunta — silencio. Que él hable primero.
+
+Paso 3 — Leer la reacción
+
+Lo que hace	Lo que significa	Lo que sigue
+Se detiene, reflexiona, responde desde un lugar honesto	Resistencia temporal — hay algo con qué trabajar	Continuar el proceso, ajustar el foco
+Defiende de nuevo con argumentos	Resistencia estructural confirmada	Conversación de no-fit
+No puede articular un norte en el Paso 1	Sin motivación real identificable	Conversación de no-fit
+Si la reacción confirma no-fit — conversación de cierre:
+
+"Quiero ser honesto contigo sobre algo que noté en nuestra conversación. Varias veces, cuando exploramos por qué las cosas no han funcionado, la respuesta llegó rápido a justificar lo que pasó. Lo entiendo — tienes razones reales para proteger lo que tienes. Pero el proceso que ofrezco parte exactamente de cuestionar esas protecciones, y para que funcione necesito que tú también estés dispuesto a hacerlo. En este momento no veo esa apertura, y prefiero decírtelo antes que seguir en algo que no va a tener el impacto que los dos esperamos. ¿Eso resuena con algo que tú mismo hayas notado?"
+
+Lo que NO hacer en ningún momento
+No mencionar el sueño, el silencio ni las preguntas sin responder como tema central
+No entregar el diagnóstico completo ("tu trabajo te sostiene una vida que proteges")
+No seguir el hilo de WhatsApp si responde antes del martes
+No usar lenguaje evaluativo — nada de "retroceso", "incumplimiento", "no avanzaste"
+Después de la sesión
+Si hay movimiento real → documentar el norte que definió y usarlo como ancla going forward
+Si confirmas no-fit → cerrar el proceso con honestidad, dejar la puerta abierta para cuando esté listo
+
+Semana: Mar 14 – Lun 20 · Abr 2026
+  Progresión   : se mantuvo
+  Resistencia  : - El trabajo parece estar siendo el mayor freno actualmente, no hay un balance para comenzar a priorizar las cosas que tiene por arreglar en su vida.
+- Igualmente no hay proposición activa, cuando hay obstáculo.
+  Facilidad    : La falta de experimentación no permite visualizar cual es la mayor facilidad de si mismo o de su entorno.
+  Factores ext.: Facilidades:
+1. Ir a la universidad parece ser un buen instrumento como entorno de adopción de habitos.
+
+Resistencias:
+1. Trabajo
+2. Falta de acción
+  Foco sig.    : 1. Consolidación del silencio.
+2. Identificación de momentos de total presncia
+  Notas        : Primer sesión de método cimientos. (Sosa estaba en la universidad)
+
+Estructura:
+1. Disculpa.
+2. Contrato inicial. Apertura, honestidad, vulnerabilidad, agencia del coach y registro diario.
+3. Explicación de las fases del programa y métricas de avance.
+
+Los habitos se están convirtiendo en el tratamiento a los síntomas, no están atacando la raíz del problema. Solo están funcionando como una forma de mantener la carga y la vida en automático. Esta cada vez mas cómodo en la montaña rusa que le da su trabajo. malestar durante 5 días a la semana y pico de bienestar los fines de semana. No hay avance real
+
+════════════════════════════════════════════════════
+Generado por Cimientos · 2026-05-05
