@@ -1,6 +1,6 @@
 # INTERESADOS — Coliving La Clarita
 *Solo se registran interesados calificados (respondieron después del primer mensaje o agendaron visita). Los chats que solo enviaron "¿sigue disponible?" no entran.*
-*Última actualización: 2026-10-04*
+*Última actualización: 2026-10-04 (Oscar confirmó)*
 
 **Etapas:** Calificado → Visita agendada → Visita hecha → Documentos → Contrato → ✅ Firmado / ❌ Perdido
 
@@ -14,12 +14,12 @@
 | Nombre | WhatsApp | Hab | Etapa | Último contacto | Próxima acción | Fecha |
 |---|---|---|---|---|---|---|
 | Fabián | (recibido) | 2 o 3 | Visita confirmada | 2026-10-03 — confirmó "Sí claro" lun 5 oct 16:00; dirección + Maps enviados | Recordatorio dom 4 noche; revisar antes de salir de Tenjo (~14:15) | 2026-10-05 16:00 |
-| Oscar | — | 2 o 3 | Visita por agendar | 2026-10-03 — se le enviaron zona, requisitos, reglas y opciones lun 5 a las 15:00 o 17:00 | Esperar hora; pedir WhatsApp y enviar dirección | 2026-10-04 |
-| Juan David | — | 2 o 3 | Visita por agendar | 2026-10-03 — opciones lun 5 / mar 6, 15:00–16:00; "déjame y te confirmo". Recibió por error el mensaje para Fabián (aclarado) | Si no responde: ofrecer la hora libre del lun 5 | 2026-10-04 |
+| Oscar | (pendiente) | 2 o 3 | Visita confirmada | 2026-10-04 08:33 — eligió lun 5 a las 17:00 (Marketplace). Se le pide WhatsApp | Al recibir el número: dirección + Maps (plantilla 3) y pedir confirmación esta noche. Sin número ni confirmación antes de salir de Tenjo → no cuenta | 2026-10-05 17:00 |
+| Juan David | — | 2 o 3 | Visita por agendar | 2026-10-03 — opciones lun 5 / mar 6, 15:00–16:00; "déjame y te confirmo". Recibió por error el mensaje para Fabián (aclarado) | Si no responde: ofrecer lun 5 a las 15:00 (única hora libre) | 2026-10-04 |
 | Ronald | 3044888021 | 2 o 3 | Documentos | 2026-10-01 — follow-up de documentos, sin respuesta | Cierre (plantilla 7) con información nueva: $1.400.000 por 6+ meses + garantía con pagaré sin depósito. Sin respuesta al 8–9 oct → ❌ | 2026-10-05 AM |
 | Mark | — | 2 o 3 | Calificado (sin respuesta) | 2026-10-02 — preguntó documentos; se le enviaron requisitos + resumen. No respondió | Sin follow-up. Si reaparece, plantilla 1c | — |
 
-**Agenda lun 5 oct:** 15:00 libre (Oscar o Juan David) · 16:00 Fabián · 17:00 libre (Oscar o Juan David). El primero que confirma elige.
+**Agenda lun 5 oct:** 15:00 libre (Juan David) · 16:00 Fabián · 17:00 Oscar.
 
 ---
 
