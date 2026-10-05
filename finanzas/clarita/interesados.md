@@ -14,13 +14,13 @@
 | Nombre | WhatsApp | Hab | Etapa | Último contacto | Próxima acción | Fecha |
 |---|---|---|---|---|---|---|
 | Fabián | (recibido) | 2 o 3 | Visita confirmada | 2026-10-03 — confirmó "Sí claro" lun 5 oct 16:00; dirección + Maps enviados | Recordatorio dom 4 noche; revisar antes de salir de Tenjo (~14:15) | 2026-10-05 16:00 |
-| Oscar | (pendiente) | 2 o 3 | Visita confirmada | 2026-10-04 08:33 — eligió lun 5 a las 17:00 (Marketplace). Se le pide WhatsApp | Al recibir el número: dirección + Maps (plantilla 3) y pedir confirmación esta noche. Sin número ni confirmación antes de salir de Tenjo → no cuenta | 2026-10-05 17:00 |
+| Oscar | — | 2 o 3 | Visita sin confirmar | 2026-10-04 10:21 — se le pidió WhatsApp (Marketplace); lo leyó y no respondió | Lun 5 AM: una sola confirmación por Marketplace, plazo 14:00. Sin respuesta → no se le espera a las 17:00 y pasa a ❌ (si reaparece, una reprogramación) | 2026-10-05 14:00 |
 | Juan David | — | 2 o 3 | Visita por agendar | 2026-10-03 — opciones lun 5 / mar 6, 15:00–16:00; "déjame y te confirmo". Recibió por error el mensaje para Fabián (aclarado) | Si no responde: ofrecer lun 5 a las 15:00 (única hora libre) | 2026-10-04 |
 | Ronald | 3044888021 | 2 o 3 | Documentos | 2026-10-01 — follow-up de documentos, sin respuesta | Cierre (plantilla 7) con información nueva: $1.400.000 por 6+ meses + garantía con pagaré sin depósito. Sin respuesta al 8–9 oct → ❌ | 2026-10-05 AM |
 | Diego | — | 2 o 3 | Calificado | 2026-10-05 09:53 — vive solo, le sirve el 14 oct, pregunta parqueadero de moto. Se le envía 1d + moto $65.000 + opciones lun 5 15:00 / mar 6 16:00 | Esperar hora; pedir WhatsApp y enviar dirección | 2026-10-05 |
 | Mark | — | 2 o 3 | Calificado (sin respuesta) | 2026-10-02 — preguntó documentos; se le enviaron requisitos + resumen. No respondió | Sin follow-up. Si reaparece, plantilla 1c | — |
 
-**Agenda lun 5 oct:** 15:00 libre (Juan David o Diego; el primero que confirme) · 16:00 Fabián · 17:00 Oscar.
+**Agenda lun 5 oct:** 15:00 libre (Juan David o Diego; el primero que confirme) · 16:00 Fabián · 17:00 Oscar (sin confirmar).
 
 ---
 
