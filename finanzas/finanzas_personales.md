@@ -49,18 +49,18 @@
 | 2 | — | Plomero, mano de obra instalación bomba presurizadora | $300.000 |
 | 3 | mismo día | Materiales plomería | $64.800 |
 | 4 | mismo día | Materiales (cheque Grival, 7 codos, semicodo, 2 m tubo PVC, soldadura, silicona, tapones) | $59.800 |
-| | | Subtotal adecuaciones | $523.600 |
-| 5 | jul–ago (pagado sep) | Acueducto | $157.090 |
-| 6 | sep | Electricidad | $170.460 |
-| 7 | sep | Gas Vanti | $46.990 |
-| 8 | sep | Internet | $99.790 |
-| 9 | oct | Electricidad | $169.260 |
-| 10 | oct | Gas Vanti | $46.840 |
-| 11 | oct | Internet (incluye ~$22k DirecTV Go — cancelar) | $155.810 |
-| | | Subtotal servicios | $846.240 |
-| | | **TOTAL** | **$1.369.840** |
+| 5 | semana del 28 sep | Aseo (señora de limpieza) | $160.000 |
+| | | Subtotal adecuaciones y aseo | $683.600 |
+| 6 | jul–ago (pagado sep) | Acueducto | $157.090 |
+| 7 | oct | Electricidad | $169.260 |
+| 8 | oct | Gas Vanti | $46.840 |
+| 9 | oct | Internet (incluye ~$22k DirecTV Go — cancelar) | $155.810 |
+| | | Subtotal servicios | $529.000 |
+| | | **TOTAL** | **$1.212.600** |
 
-Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa directamente. Con reembolso, colchón ≈ $4.37M.
+Excluidos por decisión de Felipe (considera que se cubrieron con el arriendo de Javier): electricidad sep $170.460, gas sep $46.990, internet sep $99.790 = $317.240. ⚠️ Verificar: según `finanzas/clarita/inquilinos.md`, el arriendo de sep ($1.25M) se usó casi completo en la 1.ª cuota de muebles ($1.190.248), lo que deja ~$60k; si Felipe pagó esos servicios desde su cuenta, son reembolsables.
+
+Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa directamente. Con reembolso, colchón ≈ $4.21M.
 
 **Pagos personales hacia La Clarita (nombrado 2026-09-30):** Felipe pagó con su cuenta y sus tarjetas compras y gastos de la casa, en parte con dinero del pagaré de $33M. Sin cuantificar. Pendiente: reconstruir con extractos y acordar con los abuelos si es reembolso o aporte. Los pagos desde la cuenta Nu ••6045 de $1M (contratista, 29 sep) y $1.78M (cámaras, 29 sep) eran dinero del préstamo de mamá en tránsito, y el de $1.25M (eléctrico, 25 jul) era dinero del abuelo: no cuentan como aporte de Felipe.
 
