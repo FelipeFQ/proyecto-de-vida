@@ -51,6 +51,15 @@
 
 Desde la línea base del 2 oct (970 clics) → +184 clics al 3 oct. Entre 2 y 3 oct: +184 clics, +12 chats (6,5/100). Para medir el exp. 2: (chats − 63) / (clics − 1.154) en la fecha de lectura, vs. base 5,3–5,5 por cada 100 clics.
 
+**Seguimiento exp. 1 — chats nuevos 5–6 oct (entrega ya anunciada como 1 nov):**
+
+| Chat | Hora | Primer mensaje | Respuesta enviada | ¿Siguió? |
+|---|---|---|---|---|
+| Jeison | 5 oct 22:38 | ¿Sigue disponible? | Plantilla 1 | Pendiente |
+| Andrés | 6 oct 00:43 | ¿Sigue disponible? | Plantilla 1 | Pendiente |
+| Christian | 6 oct 09:00 | ¿Cuánto para contrato de 1 año? | 1b: $1.400.000 (12 m) + todo incluido + entrega 1 nov + "¿solo para ti o dos personas? el valor cambia" | Pendiente |
+| Rick | 6 oct 10:19 | ¿Sigue disponible? | Plantilla 1 | ✅ "Sí, solo para mí" |
+
 ## Ideas en espera (una a la vez, después del experimento 1)
 
 - ~~Cambiar el título~~ → Marketplace arma el título desde los campos; se ejecuta como cambio de categoría (exp. 2, 2026-10-03).

@@ -14,6 +14,7 @@
 | Nombre | WhatsApp | Hab | Etapa | Último contacto | Próxima acción | Fecha |
 |---|---|---|---|---|---|---|
 | Fabián | (recibido) | 2 o 3 | Reprogramación | 2026-10-06 11:53 — le fue bien en la entrevista; espera un documento que define su contratación | Esperar su respuesta a "¿cómo vas con la búsqueda?". Si quiere ver: lun 12, 16:00 o el día que proponga + avisarle que la entrega pasó al 1 nov | — |
+| Rick | — | 2 o 3 | Calificado | 2026-10-06 — respondió a la plantilla 1: "sí, solo para mí" | Preguntar fecha de mudanza (entrega 1 nov) | 2026-10-06 |
 | Ronald | 3044888021 | 2 o 3 | Documentos | 2026-10-05 AM — follow-up de cierre enviado, sin respuesta | Sin más contactos. Sin respuesta al 8–9 oct → ❌ | 2026-10-09 |
 | Mark | — | 2 o 3 | Calificado (sin respuesta) | 2026-10-02 — preguntó documentos; se le enviaron requisitos + resumen. No respondió | Sin follow-up. Si reaparece, plantilla 1c | — |
 
@@ -59,6 +60,9 @@
 
 ### Diego
 - Origen: Marketplace, 5 oct. Vive solo, fecha de entrega le sirve. Tiene moto (parqueadero $65.000/mes, sujeto a disponibilidad).
+
+### Rick
+- Origen: Marketplace, 6 oct 10:19 ("¿sigue disponible?"). Recibió la plantilla 1 (6+ meses = $1.400.000 → se le respeta). Vive solo.
 
 ### Mark
 - Origen: Marketplace, 2 oct. Primer mensaje: "¿cuáles son los documentos?". Recibió requisitos ("garantía por el amoblado y el cumplimiento del contrato") + resumen. No respondió.

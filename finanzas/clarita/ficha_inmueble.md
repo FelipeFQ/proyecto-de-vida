@@ -51,7 +51,7 @@
 | Contrato de 3 a 5 meses | $1.500.000 fijo, sin negociación |
 | Contrato de 6 a 11 meses | $1.450.000/mes — **vigente para conversaciones nuevas desde 2026-10-09** |
 | Contrato de 12 meses | $1.400.000/mes — **vigente desde 2026-10-09** |
-| Hasta el 2026-10-08 (y para quien ya recibió esa oferta) | 6 meses o más = $1.400.000. Se respeta para: Ronald, Angie, Uriel, Carlos, Mark, Juan David, Fabián |
+| Hasta el 2026-10-08 (y para quien ya recibió esa oferta) | 6 meses o más = $1.400.000. Se respeta para: Ronald, Angie, Uriel, Carlos, Mark, Juan David, Fabián, Jeison, Andrés, Rick |
 | Reliquidación por terminación anticipada | PENDIENTE (revisar con abogado junto con la garantía): si se termina antes del plazo que dio el descuento, se reliquida la diferencia con el canon del escalón realmente cumplido |
 | Segundo ocupante | +$300.000/mes fijo (= 20% del canon pleno), sin importar el escalón: pareja paga $1.800.000 (3–5 m), $1.750.000 (6–11 m), $1.700.000 (12 m). Hasta el 9 oct: $1.700.000 con 6+ meses. Coherente con la pernoctación: $300.000/30 = $10.000/día |
 | Pernoctación de visitante | $10.000/noche (equivale al costo diario del segundo ocupante), máx. 5 noches/mes, previo aviso. Si pasa de 5 noches/mes → se registra como segundo ocupante (+20%) con los mismos requisitos. *Cambiado 2026-10-03 desde $35.000/noche (era 3,5× el costo diario del segundo ocupante).* |
