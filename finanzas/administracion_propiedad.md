@@ -15,7 +15,7 @@ Remodelación terminada. La casa opera como **Coliving La Clarita** (Carrera 84A
 |---|---|
 | Habitaciones arrendadas | 1 de 6 habilitables (Hab 1, $1.250.000) |
 | Canon publicado Tipo A | $1.500.000 (3–5 meses). Desde 2026-10-09: $1.450.000 (6–11 m) / $1.400.000 (12 m). Plazo mínimo 3 meses. Segunda persona +$300.000. Garantía: pagaré, sin depósito |
-| En comercialización | Hab 2 y 3 — entrega 14 oct 2026 |
+| En comercialización | Hab 2 y 3 — entrega tentativa 1 nov 2026 (cambiada 2026-10-06) |
 | Comisión de Felipe | Por definir con los abuelos — escenarios 10/20/30% en la rendición |
 
 Operación diaria, precios, interesados y marketing: ver `finanzas/clarita/` y la skill `/clarita`. Finanzas de la casa: `finanzas/clarita/Rendicion_Cuentas_La_Clarita.xlsx`.

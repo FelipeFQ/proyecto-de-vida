@@ -13,7 +13,8 @@
 
 | Nombre | WhatsApp | Hab | Etapa | Último contacto | Próxima acción | Fecha |
 |---|---|---|---|---|---|---|
-| Fabián | (recibido) | 2 o 3 | Visita cancelada | 2026-10-05 ~12:00 — canceló la visita de las 16:00 por una entrevista de trabajo; no propuso otra fecha | Mar 6 AM: un solo follow-up ofreciendo lun 12 oct en la tarde | 2026-10-06 |
+| Fabián | (recibido) | 2 o 3 | Reprogramación | 2026-10-06 11:53 — le fue bien en la entrevista; espera un documento que define su contratación | Esperar su respuesta a "¿cómo vas con la búsqueda?". Si quiere ver: lun 12, 16:00 o el día que proponga + avisarle que la entrega pasó al 1 nov | — |
+| Rick | — | 2 o 3 | Calificado | 2026-10-06 — respondió a la plantilla 1: "sí, solo para mí" | Preguntar fecha de mudanza (entrega 1 nov) | 2026-10-06 |
 | Ronald | 3044888021 | 2 o 3 | Documentos | 2026-10-05 AM — follow-up de cierre enviado, sin respuesta | Sin más contactos. Sin respuesta al 8–9 oct → ❌ | 2026-10-09 |
 | Mark | — | 2 o 3 | Calificado (sin respuesta) | 2026-10-02 — preguntó documentos; se le enviaron requisitos + resumen. No respondió | Sin follow-up. Si reaparece, plantilla 1c | — |
 
@@ -21,7 +22,7 @@
 
 ---
 
-**Hab 2 y 3 se entregan el 14 oct.** Una habitación solo se separa con contrato firmado: el primero que firma, elige.
+**Hab 2 y 3: entrega tentativa 1 nov** (cambiada 2026-10-06; antes 14 oct). Una habitación solo se separa con contrato firmado: el primero que firma, elige.
 
 **Demanda no atendida:** en septiembre se rechazaron interesados que necesitaban mudarse a inicios de octubre (fecha de entrega incompatible).
 
@@ -49,6 +50,7 @@
 - Pareja de visita ocasional: se le explicó pernoctación $10.000/noche, máx. 5/mes; si pasa de eso, 2 ocupantes con +20%.
 - Prefería antes del 14; se le dijo que depende de los proveedores de muebles, sin promesa.
 - Pendiente en la visita: plazo exacto, frecuencia de la pareja, fecha de envío de documentos.
+- 6 oct: secuencia "primero la persona" (exp. 3): 11:37 "¿cómo te fue en la entrevista?" → respondió en 16 min: le fue bien, espera un documento que define la contratación (empleo aún no en firme → carta laboral pendiente; no pedirla todavía). En la visita: empresa, fecha del documento, desde cuándo puede demostrar ingresos. Se le dijo 14 oct: avisarle que la entrega pasó al 1 nov.
 
 ### Oscar
 - Origen: Marketplace, 3 oct (antes de las 19:26 → cuenta para exp. 1). Vive solo, le sirve desde el 14. Preguntó la dirección; se le dio la zona.
@@ -58,6 +60,9 @@
 
 ### Diego
 - Origen: Marketplace, 5 oct. Vive solo, fecha de entrega le sirve. Tiene moto (parqueadero $65.000/mes, sujeto a disponibilidad).
+
+### Rick
+- Origen: Marketplace, 6 oct 10:19 ("¿sigue disponible?"). Recibió la plantilla 1 (6+ meses = $1.400.000 → se le respeta). Vive solo.
 
 ### Mark
 - Origen: Marketplace, 2 oct. Primer mensaje: "¿cuáles son los documentos?". Recibió requisitos ("garantía por el amoblado y el cumplimiento del contrato") + resumen. No respondió.

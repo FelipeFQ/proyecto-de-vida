@@ -1,6 +1,6 @@
 # FICHA DEL INMUEBLE — Coliving La Clarita
 *Fuente única de datos de la propiedad. Toda respuesta a interesados sale de aquí — si un dato cambia, se cambia aquí primero.*
-*Última actualización: 2026-10-04*
+*Última actualización: 2026-10-06*
 
 ---
 
@@ -22,8 +22,8 @@
 | Hab | Tipo | Estado | Canon |
 |---|---|---|---|
 | 1 | A | ✅ Arrendada — Javier Roa, desde 15 sep 2026 (inquilino de ~3 años, tarifa especial) | $1.250.000 |
-| 2 | A | En comercialización — entrega **14 oct 2026** (es la que se muestra en visitas) | $1.500.000 |
-| 3 | A | En comercialización — entrega **14 oct 2026** | $1.500.000 |
+| 2 | A | En comercialización — entrega tentativa **1 nov 2026** (es la que se muestra en visitas) | $1.500.000 |
+| 3 | A | En comercialización — entrega tentativa **1 nov 2026** | $1.500.000 |
 | 4 | A | Disponible — fecha de entrega por definir | $1.500.000 publicado (rendición asume mínimo $1.350.000) |
 | 5 | B | Por adecuar — se habilita tras arrendar las Tipo A | ~$1.100.000 (proyectado) |
 | 6 | B | Por adecuar — se habilita tras arrendar las Tipo A | ~$1.100.000 (proyectado) |
@@ -33,6 +33,8 @@
 - **Tipo B:** ~9 m², baño de uso exclusivo fuera de la habitación, cocina compartida solo entre habitaciones Tipo B.
 
 **Decisión 2026-10-02:** Hab 2 y 3 se amoblan para el 14 oct aunque no haya contrato firmado. Cambia la regla anterior ("amoblar solo con contrato firmado") por evidencia de demanda: se rechazaron interesados que necesitaban mudarse a inicios de octubre.
+
+**Decisión 2026-10-06:** la entrega del 14 oct no es realista (compra de muebles rechazada por cupo de la tarjeta; Felipe en Bogotá solo después del 12 oct). Nueva fecha tentativa: **1 nov 2026**. En mensajes: "con entrega desde el 1 de noviembre", sin más detalle. A quien ya recibió el 14 oct (Fabián) se le avisa del cambio antes de la visita.
 
 **Dotación Tipo A:** cama semidoble (colchón pullman + protector), mesa de noche + lámpara, escritorio 120 cm + silla ergonómica + lámpara, clóset 120 cm, TV 32" smart con soporte, nevera minibar, microondas, filtro de agua, vajilla 2 puestos y utensilios, mesón abatible, baño con accesorios completos. Inventario y costos reales: hoja *Mobiliario* de `Rendicion_Cuentas_La_Clarita.xlsx`.
 
@@ -49,7 +51,7 @@
 | Contrato de 3 a 5 meses | $1.500.000 fijo, sin negociación |
 | Contrato de 6 a 11 meses | $1.450.000/mes — **vigente para conversaciones nuevas desde 2026-10-09** |
 | Contrato de 12 meses | $1.400.000/mes — **vigente desde 2026-10-09** |
-| Hasta el 2026-10-08 (y para quien ya recibió esa oferta) | 6 meses o más = $1.400.000. Se respeta para: Ronald, Angie, Uriel, Carlos, Mark, Juan David, Fabián |
+| Hasta el 2026-10-08 (y para quien ya recibió esa oferta) | 6 meses o más = $1.400.000. Se respeta para: Ronald, Angie, Uriel, Carlos, Mark, Juan David, Fabián, Jeison, Andrés, Rick |
 | Reliquidación por terminación anticipada | PENDIENTE (revisar con abogado junto con la garantía): si se termina antes del plazo que dio el descuento, se reliquida la diferencia con el canon del escalón realmente cumplido |
 | Segundo ocupante | +$300.000/mes fijo (= 20% del canon pleno), sin importar el escalón: pareja paga $1.800.000 (3–5 m), $1.750.000 (6–11 m), $1.700.000 (12 m). Hasta el 9 oct: $1.700.000 con 6+ meses. Coherente con la pernoctación: $300.000/30 = $10.000/día |
 | Pernoctación de visitante | $10.000/noche (equivale al costo diario del segundo ocupante), máx. 5 noches/mes, previo aviso. Si pasa de 5 noches/mes → se registra como segundo ocupante (+20%) con los mismos requisitos. *Cambiado 2026-10-03 desde $35.000/noche (era 3,5× el costo diario del segundo ocupante).* |
@@ -90,18 +92,20 @@
 
 *Principios: respuesta corta, la información que filtra va primero y se cierra con UNA pregunta fácil de responder. El tono es de administrador que evalúa encaje, no de vendedor que necesita cerrar.*
 
+*Regla de trato humano (2026-10-06): un tema por mensaje; se responde lo que la persona preguntó, sin agregar información que no pidió; primero la persona, después la agenda (la visita se propone solo cuando el interesado quiere conocer el espacio). Lo que filtra se da de a poco, pero completo antes de confirmar una visita.*
+
 **1. Respuesta a "¿Sigue disponible?"**
 *[fecha] = la fecha de entrega de la próxima habitación SIN contrato firmado (ver tabla de unidades). Una habitación solo se separa con contrato firmado: mientras Ronald/Angie no firmen, Hab 2 y 3 siguen libres para quien firme primero.*
 > ¡Hola [Nombre]! Sí, aún está disponible, con entrega desde el [fecha].
 >
 > En resumen: mini apartaestudio amoblado de 18 m² con baño y cocina privada, por $1.500.000 todo incluido (agua, luz, gas, internet 900 Mb y aseo). Con contrato de 6 meses o más queda en $1.400.000.
 >
-> ¿Vivirías solo/a o con alguien más?
+> ¿El espacio sería solo para ti o para dos personas?
 
 **1b. Primer mensaje con una pregunta concreta** (ej. "¿incluye servicios?", "¿aceptan mascotas?")
 > ¡Hola [Nombre]! [Respuesta directa a su pregunta en 1 línea]. Está disponible con entrega desde el [fecha]: $1.500.000 todo incluido, o $1.400.000 con contrato de 6+ meses.
 >
-> ¿Vivirías solo/a o con alguien más?
+> ¿El espacio sería solo para ti o para dos personas?
 
 **1c. Segundo mensaje según la respuesta**
 - Solo/a: "Perfecto. ¿Para qué fecha necesitarías mudarte?"
@@ -112,14 +116,11 @@
 - Visitas de pareja: "Sin problema. Las visitas son hasta las 10:00 p.m.; si se queda a dormir se avisa antes y tiene un costo de $10.000 por noche para cubrir servicios (máximo 5 noches al mes). Si son más, se ajusta el contrato a 2 ocupantes con un recargo del 20%."
 - Plazo menor a 3 meses: "Por ahora arrendamos con contratos de mínimo 3 meses, así que por [X] no sería posible. Si más adelante necesitas algo por más tiempo, con gusto me escribes."
 
-**1d. Antes de agendar (fecha compatible): zona + requisitos + reglas + visita**
-> Queda en el barrio La Clarita, Engativá, sobre la Av. Ciudad de Cali con Calle 72, con transporte directo al aeropuerto, la Calle 26 y la Calle 80. La dirección exacta te la paso por WhatsApp cuando agendemos la visita.
->
-> Los requisitos son: copia de tu documento de identidad, carta laboral o contrato de trabajo, extractos bancarios de los últimos 3 meses y dos referencias personales. Al firmar se paga el primer mes por adelantado y se acuerda una garantía con pagaré (sin depósito).
->
-> Y para que no pierdas el viaje: no se permite el consumo de sustancias psicoactivas en la propiedad (tabaco, alcohol, marihuana, vapes u otras) y no recibimos mascotas, ya que el espacio no es adecuado para su tenencia.
->
-> Si esas condiciones te sirven, podemos coordinar una visita para conocernos mejor: tengo disponibilidad el [día] a las [hora] o a las [hora]. ¿Cuál te queda mejor?
+**1d. Antes de agendar — en piezas, no en un bloque** (2026-10-06: reemplaza el mensaje único de zona + requisitos + reglas + visita). Cada pieza va sola, cuando el tema aparece en la conversación o como paso aparte. Antes de confirmar una visita, la persona debe haber recibido las cuatro.
+- **Casa compartida** (cuando pregunten por el espacio, o al hablar de su rutina): "Es un apartaestudio independiente dentro de una casa coliving: tu baño y tu cocina son privados, y la terraza, la lavandería y las zonas comunes se comparten con los demás inquilinos."
+- **Reglas** (cuando hablen de rutina, visitas o hábitos): "Algo importante para la convivencia: no se permite el consumo de sustancias psicoactivas en la casa (tabaco, alcohol, marihuana, vapes u otras) y no recibimos mascotas."
+- **Requisitos** (cuando quiera conocerlo): "Para el contrato pedimos documento de identidad, carta laboral o contrato de trabajo, extractos de los últimos 3 meses y dos referencias. La garantía es con pagaré, sin depósito."
+- **Zona + visita** (al final): "Queda en La Clarita, sobre la Av. Ciudad de Cali con Calle 72. La dirección exacta te la paso por WhatsApp cuando agendemos." + una hora concreta.
 
 **Desde 2026-10-09 — plantillas 1 y 1b:** reemplazar "Con contrato de 6 meses o más queda en $1.400.000" por "Con contrato de 12 meses queda en $1.400.000 (6 meses: $1.450.000)".
 

@@ -1,6 +1,6 @@
 # MARKETING — Coliving La Clarita
 *Embudo semanal y registro de experimentos. Regla: UN cambio por semana, medido contra el embudo, para saber qué funcionó.*
-*Última actualización: 2026-10-03*
+*Última actualización: 2026-10-06*
 
 ---
 
@@ -13,7 +13,7 @@
 | Portales (Fincaraíz, Metrocuadrado, Ciencuadras) | No usados | Decisión: no invertir mientras Marketplace genere demanda |
 | Letrero físico | No usado | Pospuesto mientras se prueban los medios digitales |
 
-**Anuncio actual:** título "1 habitación 1 baño Solo habitación" · $1.500.000/mes · disponible 2026/10/14 · descripción "¡MINI APARTAESTUDIO TODO INCLUIDO EN LA CALI CON 72 (ENGATIVÁ)!" (menciona "Depósito de garantía").
+**Anuncio actual (2026-10-06):** categoría "Departamento/condominio" · $1.500.000/mes · disponible 2026/11/01 (cambiar en el anuncio; antes 2026/10/14) · estacionamiento: "Disponible" (en el texto: solo moto $65.000/mes, bicicleta sin costo, sin carro) · descripción "¡MINI APARTAESTUDIO TODO INCLUIDO EN LA CALI CON 72 (ENGATIVÁ)!" con garantía con pagaré (sin depósito) y lavadora con fichas ($7.000/ciclo) aclarada.
 
 ---
 
@@ -37,7 +37,7 @@
 
 **Diagnóstico 2026-10-05 (0 cierres en ~15 días):** 0 de 3 visitas el lun 5. Hipótesis de Felipe: (1) falta de calidez — se pasa directo a "elige hora" sin interesarse por la persona (referencia: experiencia propia buscando habitación por Marketplace, donde preguntaron a qué se dedicaba y quién respondía por el pago); (2) la habitación de las fotos no es la que se muestra en la visita y se pide esperar — posible causa con Ronald; (3) quien busca habitación suele necesitarla en menos de una semana. Contraevidencia: Diego aceptaba el 14 oct y se fue por el costo de la moto, así que no estar lista no explica todas las caídas.
 
-**Correcciones de información (no son experimento):** aclarar en el anuncio el parqueadero (solo moto, $65.000/mes; bicicleta sin costo; sin carro — un amigo de Felipe no lo entendió en el post) y la zona de ropas (lavadora con fichas en la terraza).
+**Correcciones de información (no son experimento):** ✅ hechas 2026-10-06 (parqueadero en "Precio y condiciones"; lavadora con costo por ciclo). Antes: aclarar en el anuncio el parqueadero (solo moto, $65.000/mes; bicicleta sin costo; sin carro — un amigo de Felipe no lo entendió en el post) y la zona de ropas (lavadora con fichas en la terraza).
 
 **Nota exp. 2:** incluye la corrección "sin depósito" (obligatoria, no se pudo separar). La retención del exp. 1 en los días posteriores al 3 oct puede estar influida por la nueva categoría. Precio por escalones desde 9 oct = decisión de negocio, no experimento.
 
@@ -50,6 +50,15 @@
 | Últimos 14 días | 1.154 | 5 | 7 | — |
 
 Desde la línea base del 2 oct (970 clics) → +184 clics al 3 oct. Entre 2 y 3 oct: +184 clics, +12 chats (6,5/100). Para medir el exp. 2: (chats − 63) / (clics − 1.154) en la fecha de lectura, vs. base 5,3–5,5 por cada 100 clics.
+
+**Seguimiento exp. 1 — chats nuevos 5–6 oct (entrega ya anunciada como 1 nov):**
+
+| Chat | Hora | Primer mensaje | Respuesta enviada | ¿Siguió? |
+|---|---|---|---|---|
+| Jeison | 5 oct 22:38 | ¿Sigue disponible? | Plantilla 1 | Pendiente |
+| Andrés | 6 oct 00:43 | ¿Sigue disponible? | Plantilla 1 | Pendiente |
+| Christian | 6 oct 09:00 | ¿Cuánto para contrato de 1 año? | 1b: $1.400.000 (12 m) + todo incluido + entrega 1 nov + "¿solo para ti o dos personas? el valor cambia" | Pendiente |
+| Rick | 6 oct 10:19 | ¿Sigue disponible? | Plantilla 1 | ✅ "Sí, solo para mí" |
 
 ## Ideas en espera (una a la vez, después del experimento 1)
 
