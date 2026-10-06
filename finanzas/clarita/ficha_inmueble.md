@@ -92,6 +92,8 @@
 
 *Principios: respuesta corta, la información que filtra va primero y se cierra con UNA pregunta fácil de responder. El tono es de administrador que evalúa encaje, no de vendedor que necesita cerrar.*
 
+*Regla de trato humano (2026-10-06): un tema por mensaje; se responde lo que la persona preguntó, sin agregar información que no pidió; primero la persona, después la agenda (la visita se propone solo cuando el interesado quiere conocer el espacio). Lo que filtra se da de a poco, pero completo antes de confirmar una visita.*
+
 **1. Respuesta a "¿Sigue disponible?"**
 *[fecha] = la fecha de entrega de la próxima habitación SIN contrato firmado (ver tabla de unidades). Una habitación solo se separa con contrato firmado: mientras Ronald/Angie no firmen, Hab 2 y 3 siguen libres para quien firme primero.*
 > ¡Hola [Nombre]! Sí, aún está disponible, con entrega desde el [fecha].
@@ -114,14 +116,11 @@
 - Visitas de pareja: "Sin problema. Las visitas son hasta las 10:00 p.m.; si se queda a dormir se avisa antes y tiene un costo de $10.000 por noche para cubrir servicios (máximo 5 noches al mes). Si son más, se ajusta el contrato a 2 ocupantes con un recargo del 20%."
 - Plazo menor a 3 meses: "Por ahora arrendamos con contratos de mínimo 3 meses, así que por [X] no sería posible. Si más adelante necesitas algo por más tiempo, con gusto me escribes."
 
-**1d. Antes de agendar (fecha compatible): zona + requisitos + reglas + visita**
-> Queda en el barrio La Clarita, Engativá, sobre la Av. Ciudad de Cali con Calle 72, con transporte directo al aeropuerto, la Calle 26 y la Calle 80. La dirección exacta te la paso por WhatsApp cuando agendemos la visita.
->
-> Los requisitos son: copia de tu documento de identidad, carta laboral o contrato de trabajo, extractos bancarios de los últimos 3 meses y dos referencias personales. Al firmar se paga el primer mes por adelantado y se acuerda una garantía con pagaré (sin depósito).
->
-> Y para que no pierdas el viaje: no se permite el consumo de sustancias psicoactivas en la propiedad (tabaco, alcohol, marihuana, vapes u otras) y no recibimos mascotas, ya que el espacio no es adecuado para su tenencia.
->
-> Si esas condiciones te sirven, podemos coordinar una visita para conocernos mejor: tengo disponibilidad el [día] a las [hora] o a las [hora]. ¿Cuál te queda mejor?
+**1d. Antes de agendar — en piezas, no en un bloque** (2026-10-06: reemplaza el mensaje único de zona + requisitos + reglas + visita). Cada pieza va sola, cuando el tema aparece en la conversación o como paso aparte. Antes de confirmar una visita, la persona debe haber recibido las cuatro.
+- **Casa compartida** (cuando pregunten por el espacio, o al hablar de su rutina): "Es un apartaestudio independiente dentro de una casa coliving: tu baño y tu cocina son privados, y la terraza, la lavandería y las zonas comunes se comparten con los demás inquilinos."
+- **Reglas** (cuando hablen de rutina, visitas o hábitos): "Algo importante para la convivencia: no se permite el consumo de sustancias psicoactivas en la casa (tabaco, alcohol, marihuana, vapes u otras) y no recibimos mascotas."
+- **Requisitos** (cuando quiera conocerlo): "Para el contrato pedimos documento de identidad, carta laboral o contrato de trabajo, extractos de los últimos 3 meses y dos referencias. La garantía es con pagaré, sin depósito."
+- **Zona + visita** (al final): "Queda en La Clarita, sobre la Av. Ciudad de Cali con Calle 72. La dirección exacta te la paso por WhatsApp cuando agendemos." + una hora concreta.
 
 **Desde 2026-10-09 — plantillas 1 y 1b:** reemplazar "Con contrato de 6 meses o más queda en $1.400.000" por "Con contrato de 12 meses queda en $1.400.000 (6 meses: $1.450.000)".
 

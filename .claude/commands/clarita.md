@@ -32,6 +32,7 @@ Toda respuesta a un interesado usa los precios, reglas y requisitos de `ficha_in
 **REGLA 3 — MENSAJES QUE AVANZAN LA CONVERSACIÓN**
 Al redactar mensajes:
 - Cortos, con la información que filtra primero y UNA pregunta fácil de responder al final.
+- **Trato humano, información paulatina (regla de Felipe, 2026-10-06):** un tema por mensaje. Responder lo que la persona preguntó y nada más; no agregar información que no pidió. Interesarse por la persona antes que por la agenda: la visita se propone solo cuando el interesado expresa que quiere conocer el espacio, nunca en el mismo mensaje en que se le pregunta por él. La información que filtra (casa compartida, reglas, requisitos) se da a lo largo de la conversación, cuando el tema aparece o como un paso aparte, pero toda debe haberse dado antes de confirmar una visita (cada viaje cuesta ~3 h). Nunca mandar bloques largos con todo junto (ej. la antigua plantilla 1d).
 - El tono es de administrador que evalúa encaje, no de vendedor que necesita cerrar.
 - Nunca pedir algo que el interesado ya dijo que no puede tener en ese plazo.
 - Toda visita cierra con una fecha concreta para el siguiente paso.
