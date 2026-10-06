@@ -183,7 +183,7 @@
 
 | Ítem | Estado |
 |---|---|
-| **Lesión activa** | SLAP hombro derecho + tendinopatía bicipital — **6/10 al 3 oct 2026** (bajó desde 9/10 en mayo). Molestia escapular nueva + regreso de dolores de lesiones pasadas tras ~4 meses sin entrenar. Valoración de fisio pendiente (contacto vía entrenador, mar 6 oct). |
+| **Lesión activa** | SLAP hombro derecho + tendinopatía bicipital — **6/10 al 3 oct 2026** (bajó desde 9/10 en mayo). Molestia escapular nueva + regreso de dolores de lesiones pasadas tras ~4 meses sin entrenar. Valoración de fisio pendiente: ✅ contacto de la fisio de Tenjo conseguido y primer mensaje enviado (mar 6 oct). Meta: valoración antes del 20 oct (ideal 13–16 oct, después del viaje). |
 | **Rehab** | Rampa Q4: semanas 1–2 solo movilidad/rehab matutina + grupo sin volumen alto de lanzamientos; fuerza desde la semana 3 según la valoración. |
 | **Entrenamiento** | ~Jun–sep 2026: prácticamente sin entrenar. Retomó con el grupo de Tenjo (entrenador nuevo, mar/jue/vie 19:00–21:00) a fines de sep — volvió la pubalgia derecha por entrar sin preparación. Semana 6–11 oct: sin entreno grupal (evento del Instituto de Deportes) → rehab/movilidad al despertar mar, mié, vie y sáb. Felipe ya conoce al entrenador (buen trato); el contacto de la fisio probablemente es el mismo de antes — confirmar con él. |
 | **Equipo** | Makawua (grupo administrativo). **Decisión (25 mayo): no retomar entrenamientos con Makawua en 2026.** Metas competitivas a replantear — sesión dedicada pendiente. |

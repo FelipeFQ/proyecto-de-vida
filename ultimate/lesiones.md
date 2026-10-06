@@ -14,7 +14,7 @@
 | **Mecanismo** | Sesión prolongada de lanzamientos forehand |
 | **Test O'Brien** | Positivo (dolor con pulgar abajo, mejora con palma arriba) |
 | **Inicio aproximado** | Anterior a abril 2026 |
-| **Estado actual** | **Regresión — 6/10 al 3 oct 2026** (desde 9/10 en mayo) tras ~4 meses sin entrenar. Molestia nueva en escápula. Regresaron dolores de lesiones pasadas. Valoración de fisioterapia pendiente (contacto vía entrenador de Tenjo, mar 6 oct; valoración antes del 20 oct). |
+| **Estado actual** | **Regresión — 6/10 al 3 oct 2026** (desde 9/10 en mayo) tras ~4 meses sin entrenar. Molestia nueva en escápula. Regresaron dolores de lesiones pasadas. Valoración de fisioterapia pendiente (contacto de la fisio de Tenjo conseguido y mensaje enviado mar 6 oct; valoración antes del 20 oct — llevar hombro SLAP/tendinopatía, escápula y pubalgia). |
 | **Lanzamiento derecho** | Backhand activo. Forehand activo (recuperado ~mayo 2026). |
 | **Estrategia paralela** | Desarrollo del lanzamiento con brazo izquierdo mientras se recupera el derecho |
 | **Acceso médico** | Limitado. Resonancia difícil por EPS. Fisioterapia en Tenjo vía entrenador de la escuela (oct 2026). |
