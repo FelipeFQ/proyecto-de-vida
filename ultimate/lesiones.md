@@ -51,6 +51,7 @@ Antes de inscribirse formalmente a halterofilia en el instituto de Tenjo (planea
 | Fecha | Zona | Descripción | Estado | Notas |
 |---|---|---|---|---|
 | Ant. abr 2026 | Hombro derecho | Posible SLAP + tendinopatía bicipital proximal | 🔴 Activa | Ver sección arriba |
+| ~Oct 2026 | Pubis / pierna derecha | Pubalgia (recidiva). Volvió al retomar Ultimate con el grupo de Tenjo (1 sesión a fines de sep + 3 la semana del 29 sep) directo, sin calentamiento, estiramiento ni fortalecimiento por fuera del entreno | 🔴 Activa | Evidencia de que la rampa Q4 es necesaria. Llevar a la valoración de fisio junto con hombro y escápula |
 
 ---
 

@@ -96,6 +96,8 @@ Felipe tiende a subestimar el tiempo que toma ejecutar cosas, especialmente en p
 
 ---
 
+**Instancia (2026-10-05):** entrega de Hab 2 el 14 oct sostenida mientras dependía de compras sin cupo confirmado en la tarjeta y de un viaje de 3 días en medio. La dependencia apareció al revisar el calendario día por día. **Lo que funcionó:** Felipe mismo nombró que no era realista y propuso fijar una fecha honesta en vez de correrla. Regla: una fecha de entrega solo se publica cuando las compras ya llegaron.
+
 ### 6. No confiar en la tasa de interés anunciada al evaluar crédito
 Al evaluar una oferta de crédito o refinanciación (jul 2026, caso compra de cartera en neobanco), la tasa "anunciada" (1,46% M.V.) no correspondió a la tasa real aplicada (~2,6% M.V. implícita en las cuotas reales cotizadas). El costo real solo se revela calculando cuota × plazo = costo total, y comparando ese número contra las alternativas — nunca comparando tasas anunciadas entre sí.
 
@@ -178,7 +180,7 @@ Ante cualquier idea o decisión nueva:
 | Coaching | Fecha de charla con la administración del conjunto |
 | YouTube | Día de publicación anunciado en el canal |
 | La Clarita | Visitas agendadas con interesados |
-| Revisión semanal | Sesión de lunes con `/consejero` + mensaje de 3 líneas a un amigo (qué cumplí / qué no / qué me comprometo) |
+| Revisión semanal | Sesión de lunes con `/consejero` + audio de 3 puntos a **Simón** (qué cumplí / qué no / qué me comprometo). Simón aceptó el 2026-10-05; él pregunta el lunes siguiente por los compromisos. Plan B si deja de funcionar: otro amigo que Felipe ya tiene identificado. |
 
 **Reglas operativas:**
 1. **Cada bloque de deep work se asigna en la revisión del lunes con una tarea específica**, no con una categoría ("Coaching" no basta; "escribir los 3 minutos de apertura de la charla" sí). Regla identificada el 2026-06-02 — si llega al bloque sin saber qué hacer, el bloque ya falló.
@@ -188,6 +190,8 @@ Ante cualquier idea o decisión nueva:
 5. **Sprint 5–14 oct:** la tabla no aplica completa. Mínimos: movimiento al despertar, entrenos de grupo, 1 acción de captación. Jue 8 oct (viaje a Carmen de Apicalá) se pierde el entreno — compensar con movilidad el viernes.
 
 **Historial:** la revisión de domingo (Modo Bogotá) nunca se ejecutó; el autocoaching de lunes en solitario (desde 2026-07-13) se ejecutó 1 vez en ~12 semanas. Por eso la revisión semanal Q4 tiene dos anclas externas en lugar de depender de disciplina propia.
+
+**Primera revisión semanal Q4:** ejecutada lun 5 oct en la noche (21:15–22:10, no a las 7:30). Cumplió su función: semana asignada día por día y compromisos enviados a Simón.
 
 El Consejero no debe proponer viajes a La Clarita fuera de lun PM / sáb AM, ni deep work fuera de 8:00–11:00, ni carga física fuera de la rampa, salvo excepción explícita.
 
@@ -204,6 +208,9 @@ El Consejero no debe proponer viajes a La Clarita fuera de lun PM / sáb AM, ni 
 ---
 
 ## Comportamientos confirmados — lo que el Consejero debe reforzar
+
+### YouTube: el copy y los temas son de Felipe (2026-10-05)
+Felipe no quiere que Claude escriba guiones, títulos ni miniaturas, ni que sugiera temas de videos. Razón: desarrollar su propia habilidad de copywriting y mantener la originalidad en una época en que el contenido con IA suena genérico. Los temas salen de lo que él ha vivido; el contenido es evergreen, así que no hay prisa por usar un tema. **El Consejero solo ayuda con calendario y producción** (cuándo escribir, grabar, editar, publicar). No aplica al copy de Marketplace de La Clarita.
 
 ### Visitas de inquilinos = sesión diagnóstico (2026-10-02)
 

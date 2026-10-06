@@ -94,7 +94,7 @@ Detalle completo, reglas y anclas en `_perfil/manual_operativo.md` → "Cadencia
 - **Entreno grupal Tenjo:** mar, jue, vie 19:00–21:00 (entrenador nuevo).
 - **Deep work 8:00–11:00** L–V, con tarea asignada en la revisión del lunes.
 - **La Clarita:** lunes PM + sábado AM (trayecto real 1–2 h por sentido).
-- **Juana:** miércoles (hora estable por confirmar en reunión del 4 oct).
+- **Juana:** miércoles 15:00 (confirmado 2026-10-05).
 - **Revisión semanal:** lunes 7:30 con `/consejero` + mensaje de 3 líneas a un amigo (qué cumplí / qué no / qué me comprometo).
 - **Holgura nombrada:** viernes PM + sábado PM (~7–8 h).
 - **Sprint 5–14 oct (amoblado Hab 2–3):** la tabla no aplica completa — solo movimiento al despertar, entrenos de grupo y 1 acción de captación. La tabla completa arranca el jue 15 oct.
