@@ -1,6 +1,6 @@
 # FICHA DEL INMUEBLE — Coliving La Clarita
 *Fuente única de datos de la propiedad. Toda respuesta a interesados sale de aquí — si un dato cambia, se cambia aquí primero.*
-*Última actualización: 2026-10-04*
+*Última actualización: 2026-10-06*
 
 ---
 
@@ -22,8 +22,8 @@
 | Hab | Tipo | Estado | Canon |
 |---|---|---|---|
 | 1 | A | ✅ Arrendada — Javier Roa, desde 15 sep 2026 (inquilino de ~3 años, tarifa especial) | $1.250.000 |
-| 2 | A | En comercialización — entrega **14 oct 2026** (es la que se muestra en visitas) | $1.500.000 |
-| 3 | A | En comercialización — entrega **14 oct 2026** | $1.500.000 |
+| 2 | A | En comercialización — entrega tentativa **1 nov 2026** (es la que se muestra en visitas) | $1.500.000 |
+| 3 | A | En comercialización — entrega tentativa **1 nov 2026** | $1.500.000 |
 | 4 | A | Disponible — fecha de entrega por definir | $1.500.000 publicado (rendición asume mínimo $1.350.000) |
 | 5 | B | Por adecuar — se habilita tras arrendar las Tipo A | ~$1.100.000 (proyectado) |
 | 6 | B | Por adecuar — se habilita tras arrendar las Tipo A | ~$1.100.000 (proyectado) |
@@ -33,6 +33,8 @@
 - **Tipo B:** ~9 m², baño de uso exclusivo fuera de la habitación, cocina compartida solo entre habitaciones Tipo B.
 
 **Decisión 2026-10-02:** Hab 2 y 3 se amoblan para el 14 oct aunque no haya contrato firmado. Cambia la regla anterior ("amoblar solo con contrato firmado") por evidencia de demanda: se rechazaron interesados que necesitaban mudarse a inicios de octubre.
+
+**Decisión 2026-10-06:** la entrega del 14 oct no es realista (compra de muebles rechazada por cupo de la tarjeta; Felipe en Bogotá solo después del 12 oct). Nueva fecha tentativa: **1 nov 2026**. En mensajes: "con entrega desde el 1 de noviembre", sin más detalle. A quien ya recibió el 14 oct (Fabián) se le avisa del cambio antes de la visita.
 
 **Dotación Tipo A:** cama semidoble (colchón pullman + protector), mesa de noche + lámpara, escritorio 120 cm + silla ergonómica + lámpara, clóset 120 cm, TV 32" smart con soporte, nevera minibar, microondas, filtro de agua, vajilla 2 puestos y utensilios, mesón abatible, baño con accesorios completos. Inventario y costos reales: hoja *Mobiliario* de `Rendicion_Cuentas_La_Clarita.xlsx`.
 
@@ -96,12 +98,12 @@
 >
 > En resumen: mini apartaestudio amoblado de 18 m² con baño y cocina privada, por $1.500.000 todo incluido (agua, luz, gas, internet 900 Mb y aseo). Con contrato de 6 meses o más queda en $1.400.000.
 >
-> ¿Vivirías solo/a o con alguien más?
+> ¿El espacio sería solo para ti o para dos personas?
 
 **1b. Primer mensaje con una pregunta concreta** (ej. "¿incluye servicios?", "¿aceptan mascotas?")
 > ¡Hola [Nombre]! [Respuesta directa a su pregunta en 1 línea]. Está disponible con entrega desde el [fecha]: $1.500.000 todo incluido, o $1.400.000 con contrato de 6+ meses.
 >
-> ¿Vivirías solo/a o con alguien más?
+> ¿El espacio sería solo para ti o para dos personas?
 
 **1c. Segundo mensaje según la respuesta**
 - Solo/a: "Perfecto. ¿Para qué fecha necesitarías mudarte?"

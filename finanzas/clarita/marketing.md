@@ -13,7 +13,7 @@
 | Portales (Fincaraíz, Metrocuadrado, Ciencuadras) | No usados | Decisión: no invertir mientras Marketplace genere demanda |
 | Letrero físico | No usado | Pospuesto mientras se prueban los medios digitales |
 
-**Anuncio actual (2026-10-06):** categoría "Departamento/condominio" · $1.500.000/mes · disponible 2026/10/14 · estacionamiento: "Disponible" (en el texto: solo moto $65.000/mes, bicicleta sin costo, sin carro) · descripción "¡MINI APARTAESTUDIO TODO INCLUIDO EN LA CALI CON 72 (ENGATIVÁ)!" con garantía con pagaré (sin depósito) y lavadora con fichas ($7.000/ciclo) aclarada.
+**Anuncio actual (2026-10-06):** categoría "Departamento/condominio" · $1.500.000/mes · disponible 2026/11/01 (cambiar en el anuncio; antes 2026/10/14) · estacionamiento: "Disponible" (en el texto: solo moto $65.000/mes, bicicleta sin costo, sin carro) · descripción "¡MINI APARTAESTUDIO TODO INCLUIDO EN LA CALI CON 72 (ENGATIVÁ)!" con garantía con pagaré (sin depósito) y lavadora con fichas ($7.000/ciclo) aclarada.
 
 ---
 
