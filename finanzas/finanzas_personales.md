@@ -41,6 +41,27 @@
 
 **Reestructuración formalizada (corregido 2026-08-28):** pagaré único firmado el 15 jul 2026 por **$33,000,000 COP** (TC $8.6M + familiar $10M + capital contenido para producción de video ~$4-5M + colchón de riesgo ~$8.9M + anualidad prepagada mentoría YouTube ~$1M). Año de gracia, primer pago 15 ago 2027. Ver detalle completo en `vida/estado_actual.md`, sección FINANZAS.
 
+**Reembolso a pedir a los abuelos (cuantificado 2026-10-06, conversación mar 6 oct):** pagos de Felipe con dinero propio para La Clarita. Soportes: recibos de ferretería y comprobantes de pago.
+
+| # | Periodo | Concepto | Monto |
+|---|---|---|---|
+| 1 | — | Lavado de cortinas | $99.000 |
+| 2 | — | Plomero, mano de obra instalación bomba presurizadora | $300.000 |
+| 3 | mismo día | Materiales plomería | $64.800 |
+| 4 | mismo día | Materiales (cheque Grival, 7 codos, semicodo, 2 m tubo PVC, soldadura, silicona, tapones) | $59.800 |
+| | | Subtotal adecuaciones | $523.600 |
+| 5 | jul–ago (pagado sep) | Acueducto | $157.090 |
+| 6 | sep | Electricidad | $170.460 |
+| 7 | sep | Gas Vanti | $46.990 |
+| 8 | sep | Internet | $99.790 |
+| 9 | oct | Electricidad | $169.260 |
+| 10 | oct | Gas Vanti | $46.840 |
+| 11 | oct | Internet (incluye ~$22k DirecTV Go — cancelar) | $155.810 |
+| | | Subtotal servicios | $846.240 |
+| | | **TOTAL** | **$1.369.840** |
+
+Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa directamente. Con reembolso, colchón ≈ $4.37M.
+
 **Pagos personales hacia La Clarita (nombrado 2026-09-30):** Felipe pagó con su cuenta y sus tarjetas compras y gastos de la casa, en parte con dinero del pagaré de $33M. Sin cuantificar. Pendiente: reconstruir con extractos y acordar con los abuelos si es reembolso o aporte. Los pagos desde la cuenta Nu ••6045 de $1M (contratista, 29 sep) y $1.78M (cámaras, 29 sep) eran dinero del préstamo de mamá en tránsito, y el de $1.25M (eléctrico, 25 jul) era dinero del abuelo: no cuentan como aporte de Felipe.
 
 **[Obsoleto — TC absorbida por el pagaré] Verificación pendiente (2026-07-06):** hay sospecha sin confirmar de amortización negativa en la tarjeta refinanciada (que el interés real no se esté cubriendo con la cuota y el saldo no baje al ritmo esperado). Pendiente: comparar saldo mes anterior vs. actual, y pedir tabla de amortización de la refinanciación al banco. También pendiente aclarar un cargo de $312,070.3 mostrado para el 17 de julio que no coincide con el pago combinado esperado ($242,418.68) — posible confusión con la pantalla del simulador del neobanco.

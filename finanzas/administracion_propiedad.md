@@ -72,7 +72,9 @@ Nota: la rendición asume Hab 3–4 a $1.35M. El precio publicado hoy es $1.5M (
 - [ ] Decidir la compra del monedero + lavadora (14 o 20 kg).
 - [ ] Decidir el destino de los objetos de la Hab 7 (trasladar / vender).
 - [ ] Pagar el saldo del eléctrico ($1.25M) cuando Enel cambie el contador.
-- [ ] Reconstruir con extractos los pagos personales de Felipe a la casa y definir si son reembolso o aporte.
+- [x] Cuantificar los pagos personales de Felipe a la casa → $1.369.840 (2026-10-06), detalle en `finanzas/finanzas_personales.md`. Pendiente: aprobación del abuelo como reembolso.
+- [ ] Cancelar la suscripción DirecTV Go Flex en la factura de internet (~$22k/mes extra).
+- [ ] Los servicios públicos los paga la casa directamente (no Felipe para reembolso) — proponer al abuelo 2026-10-06.
 - [ ] Entregar la rendición al abuelo Jorge Quintero (impresa + correo) y presentar la propuesta en persona.
 - [x] Definir presupuesto y cronograma de remodelación → obra terminada.
 - [x] Establecer perfil de inquilino ideal y proceso de selección → criterios objetivos, requisitos y guion de visita en `finanzas/clarita/ficha_inmueble.md` (2026-10-02).
