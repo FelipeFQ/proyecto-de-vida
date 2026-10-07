@@ -1,11 +1,25 @@
 {
+  "permissions": {
+    "allow": [
+      "Bash(git pull)",
+      "Bash(git pull *)",
+      "Bash(git fetch *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git merge *)",
+      "Bash(git push)",
+      "Bash(git push origin main)",
+      "Bash(git push origin HEAD:main)"
+    ]
+  },
   "hooks": {
     "Stop": [
       {
         "hooks": [
           {
             "type": "command",
-            "command": "echo '{\"systemMessage\": \"¿Esta sesión tuvo decisiones o información nueva? Ejecuta /consolidar antes de cerrar.\"}'"
+            "command": "\"$CLAUDE_PROJECT_DIR\"/.claude/hooks/autosync.sh",
+            "timeout": 15
           }
         ]
       }

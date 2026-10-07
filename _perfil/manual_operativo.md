@@ -226,6 +226,8 @@ Primera visita (Ronald, 30 sep): Felipe la vivió con nervios, sin estructura y 
 
 **A reforzar — revisión de reglas con números (2026-10-03):** en una sola sesión recalibró tres reglas propias al ver los cálculos (pernoctación $35.000 → $10.000 al compararla con el costo diario del segundo ocupante; descuento a 6 meses → escalones que premian los 12 meses; plazo mínimo de 3 meses). También corrigió supuestos con datos de primera mano (el mensaje de control, la fachada, las cámaras y Javier como apoyo). Mismo patrón de recalibración con evidencia ya documentado.
 
+**A reforzar — criterio propio sobre el tono de los chats (2026-10-06):** Felipe corrigió tres veces en la misma sesión los borradores del asesor, que metían en un solo mensaje la pregunta por la persona y la propuesta de visita, o mandaban toda la información junta (plantilla 1d). Su argumento: quien va a compartir casa busca un administrador humano, no uno cuadriculado. Lo convirtió en regla escrita: un tema por mensaje, sin información no pedida, la visita solo cuando el interesado quiere ir. Aceptó el límite del asesor: toda la información que filtra debe darse antes de confirmar una visita. Primera evidencia: Fabián respondió en 16 min al "¿cómo te fue?" aislado. Diferencia con el sesgo "dar información útil = persuadir": aquí no evita información, la dosifica. Vigilar que lo paulatino no termine en visitas sin la información completa.
+
 ---
 
 ### Protocolo fit — prospecto con meta de peso y variable médica activa

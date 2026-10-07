@@ -70,6 +70,7 @@ Nota: la rendición asume Hab 3–4 a $1.35M. El precio publicado hoy es $1.5M (
 - [x] Abuelo decide la comisión → **25% de la ganancia neta desde nov 2026** (2026-10-06). Pendiente: definir por escrito qué entra en el neto.
 - [ ] Abuelo decide la Opción B (muebles desde ahorros).
 - [ ] Decidir la compra del monedero + lavadora (14 o 20 kg).
+- [ ] Decidir el esquema de cobro para contratos que inician a mitad de mes (propuesta 2026-10-06: entrada cualquier día, primer pago proporcional a $50.000/día y luego todos pagan del 1 al 5; opcional: si entra después del 20, paga también el mes siguiente al firmar). Si se aprueba, incluirlo en la plantilla del contrato antes de la firma de Hab 2.
 - [ ] Decidir el destino de los objetos de la Hab 7 (trasladar / vender).
 - [ ] Pagar el saldo del eléctrico ($1.25M) cuando Enel cambie el contador.
 - [x] Cuantificar los pagos personales de Felipe a la casa → $1.212.600 (2026-10-06), detalle en `finanzas/finanzas_personales.md`. ✅ Aprobado como reembolso (2026-10-06); pago esperado antes del 11 oct.
