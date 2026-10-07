@@ -1,6 +1,6 @@
 # FICHA DEL INMUEBLE — Coliving La Clarita
 *Fuente única de datos de la propiedad. Toda respuesta a interesados sale de aquí — si un dato cambia, se cambia aquí primero.*
-*Última actualización: 2026-10-06*
+*Última actualización: 2026-10-07*
 
 ---
 
@@ -49,11 +49,11 @@
 | Canon Tipo A | $1.500.000/mes |
 | Plazo mínimo de contrato | 3 meses (decisión 2026-10-03; no se arrienda por 1 mes) |
 | Contrato de 3 a 5 meses | $1.500.000 fijo, sin negociación |
-| Contrato de 6 a 11 meses | $1.450.000/mes — **vigente para conversaciones nuevas desde 2026-10-09** |
-| Contrato de 12 meses | $1.400.000/mes — **vigente desde 2026-10-09** |
-| Hasta el 2026-10-08 (y para quien ya recibió esa oferta) | 6 meses o más = $1.400.000. Se respeta para: Ronald, Angie, Uriel, Carlos, Mark, Juan David, Fabián, Jeison, Andrés, Rick |
+| Contrato de 6 a 11 meses | $1.450.000/mes — **vigente para conversaciones nuevas desde 2026-10-07** (adelantado del 9 oct) |
+| Contrato de 12 meses | $1.400.000/mes — **vigente desde 2026-10-07** |
+| Hasta el 2026-10-06 (y para quien ya recibió esa oferta) | 6 meses o más = $1.400.000. Se respeta para: Ronald, Angie, Uriel, Carlos, Mark, Juan David, Fabián, Jeison, Andrés, Rick |
 | Reliquidación por terminación anticipada | PENDIENTE (revisar con abogado junto con la garantía): si se termina antes del plazo que dio el descuento, se reliquida la diferencia con el canon del escalón realmente cumplido |
-| Segundo ocupante | +$300.000/mes fijo (= 20% del canon pleno), sin importar el escalón: pareja paga $1.800.000 (3–5 m), $1.750.000 (6–11 m), $1.700.000 (12 m). Hasta el 9 oct: $1.700.000 con 6+ meses. Coherente con la pernoctación: $300.000/30 = $10.000/día |
+| Segundo ocupante | +$300.000/mes fijo (= 20% del canon pleno), sin importar el escalón: pareja paga $1.800.000 (3–5 m), $1.750.000 (6–11 m), $1.700.000 (12 m). Quien recibió la oferta anterior: $1.700.000 con 6+ meses. Coherente con la pernoctación: $300.000/30 = $10.000/día |
 | Pernoctación de visitante | $10.000/noche (equivale al costo diario del segundo ocupante), máx. 5 noches/mes, previo aviso. Si pasa de 5 noches/mes → se registra como segundo ocupante (+20%) con los mismos requisitos. *Cambiado 2026-10-03 desde $35.000/noche (era 3,5× el costo diario del segundo ocupante).* |
 | Lavadora | $7.000/ciclo con fichas que vende Javier (Hab 1) en la casa |
 | Parqueadero moto | $65.000/mes, sujeto a disponibilidad. Bicicleta sin costo |
@@ -92,20 +92,22 @@
 
 *Principios: respuesta corta, la información que filtra va primero y se cierra con UNA pregunta fácil de responder. El tono es de administrador que evalúa encaje, no de vendedor que necesita cerrar.*
 
+*Estilo de chat (2026-10-07): sin signos de apertura (¡ ¿) — suenan a mensaje automático o escrito con IA. Saludo cercano ("cómo estás?") antes de la información.*
+
 *Regla de trato humano (2026-10-06): un tema por mensaje; se responde lo que la persona preguntó, sin agregar información que no pidió; primero la persona, después la agenda (la visita se propone solo cuando el interesado quiere conocer el espacio). Lo que filtra se da de a poco, pero completo antes de confirmar una visita.*
 
 **1. Respuesta a "¿Sigue disponible?"**
 *[fecha] = la fecha de entrega de la próxima habitación SIN contrato firmado (ver tabla de unidades). Una habitación solo se separa con contrato firmado: mientras Ronald/Angie no firmen, Hab 2 y 3 siguen libres para quien firme primero.*
-> ¡Hola [Nombre]! Sí, aún está disponible, con entrega desde el [fecha].
+> Hola [Nombre], cómo estás? Sí, aún está disponible, con entrega a partir del [fecha].
 >
-> En resumen: mini apartaestudio amoblado de 18 m² con baño y cocina privada, por $1.500.000 todo incluido (agua, luz, gas, internet 900 Mb y aseo). Con contrato de 6 meses o más queda en $1.400.000.
+> Es un mini apartaestudio amoblado de 18 m² con baño y cocina privada, por $1.500.000 todo incluido (agua, luz, gas, internet 900 Mb y aseo). Con contrato de 12 meses queda en $1.400.000 (6 meses: $1.450.000).
 >
-> ¿El espacio sería solo para ti o para dos personas?
+> El espacio sería solo para ti o para dos personas?
 
 **1b. Primer mensaje con una pregunta concreta** (ej. "¿incluye servicios?", "¿aceptan mascotas?")
-> ¡Hola [Nombre]! [Respuesta directa a su pregunta en 1 línea]. Está disponible con entrega desde el [fecha]: $1.500.000 todo incluido, o $1.400.000 con contrato de 6+ meses.
+> Hola [Nombre], cómo estás? [Respuesta directa a su pregunta en 1 línea]. Está disponible con entrega a partir del [fecha]: $1.500.000 todo incluido, o $1.400.000 con contrato de 12 meses (6 meses: $1.450.000).
 >
-> ¿El espacio sería solo para ti o para dos personas?
+> El espacio sería solo para ti o para dos personas?
 
 **1c. Segundo mensaje según la respuesta**
 - Solo/a: "Perfecto. ¿Para qué fecha necesitarías mudarte?"
@@ -122,7 +124,6 @@
 - **Requisitos** (cuando quiera conocerlo): "Para el contrato pedimos documento de identidad, carta laboral o contrato de trabajo, extractos de los últimos 3 meses y dos referencias. La garantía es con pagaré, sin depósito."
 - **Zona + visita** (al final): "Queda en La Clarita, sobre la Av. Ciudad de Cali con Calle 72. La dirección exacta te la paso por WhatsApp cuando agendemos." + una hora concreta.
 
-**Desde 2026-10-09 — plantillas 1 y 1b:** reemplazar "Con contrato de 6 meses o más queda en $1.400.000" por "Con contrato de 12 meses queda en $1.400.000 (6 meses: $1.450.000)".
 
 **2. Agendar visita** (ofrecer citas en las próximas 48 h, dentro de la ventana de visitas)
 > ¡Perfecto! Puedo mostrártelo [día] a las [hora] o [día] a las [hora]. ¿Cuál te sirve? Me compartes tu WhatsApp y por ahí te confirmo la dirección.
@@ -169,7 +170,7 @@
    - ¿A qué te dedicas y qué horario tienes?
    - ¿Dónde vives ahora y por qué te mudas?
    - ¿Vivirías solo/a? ¿Recibes visitas seguido?
-   - ¿Para cuándo necesitas mudarte y por cuánto tiempo? → si son 6+ meses, mencionar los $1.400.000
+   - ¿Para cuándo necesitas mudarte y por cuánto tiempo? → si son 6+ meses, mencionar la escala: $1.450.000 a 6 meses, $1.400.000 a 12 (a quien recibió la oferta anterior se le respetan $1.400.000 con 6+)
    - ¿Qué no toleras en una convivencia?
    - ¿Qué te pareció? ¿Algo te genera duda?
 4. **Cierre (3 min).** "¿Te ves viviendo acá?"
