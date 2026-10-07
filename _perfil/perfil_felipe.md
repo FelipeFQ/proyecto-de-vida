@@ -42,7 +42,7 @@ La identidad que lo define no es un título ni un rol de mercado — es una mane
 
 - **Vive en Tenjo** con los abuelos. La obra de la casa de los abuelos en Bogotá (La Clarita, Engativá) terminó; opera como coliving y Felipe la administra (trayecto 1–2 h por sentido).
 - Trabajo activo: programa de coaching de hábitos **Método Cimientos** — 1 cliente (Juana, $300k/mes). Captación en cambio de canal: charlas en salón social / valor gratuito → sesión diagnóstico.
-- Administración Coliving La Clarita: comisión por formalizar con los abuelos (20% planeado sobre ingreso neto).
+- Administración Coliving La Clarita: comisión acordada con el abuelo (2026-10-06): **25% de la ganancia neta desde nov 2026**.
 - Deuda: pagaré familiar único de $33M (firmado 15 jul 2026), año de gracia, primera cuota 15 ago 2027. Colchón restante ~$3M (~$4M con reembolso).
 - Cuerpo: hombro 6/10 (oct 2026) tras ~4 meses sin entrenar — molestia escapular y regreso de lesiones pasadas. Retoma con el grupo de Tenjo (entrenador nuevo, mar/jue/vie 19–21) y valoración de fisio.
 - Canal de YouTube en exploración de nicho (1 video publicado), con curso de comunidad/mentor prepagado.
@@ -64,6 +64,6 @@ La identidad que lo define no es un título ni un rol de mercado — es una mane
 | Área | Decisión | Estado |
 |---|---|---|
 | Carrera | Priorizar coaching sobre búsqueda de empleo tech | Activo — **gatillo (2026-10-03): 30 abr 2027 con <8 clientes activos → búsqueda de empleo remoto.** Lectura intermedia 31 ene 2027 (≥4 clientes; si no, actualizar CV/LinkedIn en febrero). Alarma de caja: colchón <$1.5M adelanta el gatillo. Reemplaza al umbral original (10 clientes en 12 meses) y al checkpoint de mayo 2027. |
-| Bienes Raíces | Administrar Coliving La Clarita (6 hab habilitables) | Obra terminada. Hab 1 arrendada (sep 2026). Meta Q4: ≥4/6. Comisión 20% planeada (~$0.96M/mes con 6/6) |
+| Bienes Raíces | Administrar Coliving La Clarita (6 hab habilitables) | Obra terminada. Hab 1 arrendada (sep 2026). Meta Q4: ≥4/6. Comisión 25% desde nov 2026 (~$1.2M/mes con 6/6) |
 | Bienes Raíces | Cerrar venta apartamento Carmen de Apicalá | En proceso — comisión proyectada $6–$7.5M COP |
 | Tech | Reactivar entrada a industria | Condicionado al gatillo de abril 2027 |

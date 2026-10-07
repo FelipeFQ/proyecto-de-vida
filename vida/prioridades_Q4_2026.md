@@ -38,7 +38,7 @@ Todo lo demás es secundario o se alimenta de esos dos.
 ### La Clarita — Prioridad 1
 - **Meta al 31 dic:** 6/6 habitaciones arrendadas (aspiración) · **mínimo 4/6** (compromiso — coincide con el ritmo base del modelo: Hab 2 oct, Hab 3 nov, Hab 4 dic).
 - Hab 2 y 3 con contrato firmado antes del 31 oct.
-- Conversación de comisión con los abuelos antes del 31 oct (planear con 20% — ~$0.96M/mes con 6 hab según la rendición).
+- ~~Conversación de comisión con los abuelos antes del 31 oct~~ ✅ 2026-10-06: **25% de la ganancia neta desde nov 2026**.
 - Fecha realista de entrega de Hab 4 antes del 15 oct.
 - Embudo de Marketplace registrado semanalmente (`finanzas/clarita/marketing.md`).
 - Operación diaria: skill `/clarita`.
@@ -111,7 +111,7 @@ Decidido en esta sesión. Reemplaza al "checkpoint mayo 2027" anterior.
 | **Lectura intermedia** | 31 ene 2027: ≥4 clientes (ritmo necesario para llegar a 8) | Si hay menos: no se activa nada, solo se actualizan CV y LinkedIn en febrero para que la búsqueda de abril arranque lista |
 | **Alarma de caja** | Colchón < $1.5M en cualquier fecha | Se adelanta el gatillo |
 
-**Por qué 8:** 8 × $300k = $2.4M + comisión La Clarita al 20% con 6 hab (~$0.96M) ≈ $3.4M/mes. Desde agosto 2027 se necesitan ~$4.3M/mes (cuota del pagaré ~$3.3M + vida). Incluso con el gatillo cumplido queda una brecha de ~$0.9M/mes — pendiente de cerrar (precio, formato, Carmen de Apicalá, o renegociación del calendario del pagaré).
+**Por qué 8:** 8 × $300k = $2.4M + comisión La Clarita al 25% con 6 hab (~$1.2M, acordado 2026-10-06) ≈ $3.6M/mes. Desde agosto 2027 se necesitan ~$4.3M/mes (cuota del pagaré ~$3.3M + vida). Incluso con el gatillo cumplido queda una brecha de ~$0.7M/mes (antes ~$0.9M con el 20%) — pendiente de cerrar (precio, formato, Carmen de Apicalá, o renegociación del calendario del pagaré).
 
 **Contradicción abierta:** 8 clientes no caben en el cupo declarado de 4–5 clientes 1:1 (`cimientos/NEGOCIO.md`). Decidir en la sesión de oferta: subir cupo, oferta corta, formato grupal o mezcla.
 
@@ -123,4 +123,4 @@ Decidido en esta sesión. Reemplaza al "checkpoint mayo 2027" anterior.
 |---|---|
 | Fecha de revisión | Enero 2027 (inicio de Q1) — coincide con la lectura intermedia del gatillo (31 ene) |
 | Criterio de éxito del trimestre | ≥4/6 habitaciones La Clarita · comisión formalizada · 3 clientes de coaching pagando · 3 charlas ejecutadas · ≥3 sesiones/semana de entrenamiento sostenidas + hombro ≥8/10 · ~6 videos publicados + sesión con mentor · Carmen de Apicalá con anuncio reactivado |
-| Decisiones pendientes clave | Cupo/formato de coaching para 8 clientes · cómo cerrar la brecha de ~$0.9M/mes de agosto 2027 · ventana de visitas del martes en La Clarita (choca con entreno de 19:00) |
+| Decisiones pendientes clave | Cupo/formato de coaching para 8 clientes · cómo cerrar la brecha de ~$0.7M/mes de agosto 2027 · ventana de visitas del martes en La Clarita (choca con entreno de 19:00) |

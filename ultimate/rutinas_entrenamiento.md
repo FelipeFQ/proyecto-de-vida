@@ -20,6 +20,28 @@ Contexto: regreso tras ~4 meses sin entrenar, hombro 6/10. Entrenador nuevo en T
 
 *Semanas 1–2: fuerza reemplazada por movilidad/rehab. Desde la semana 3, rutina de fuerza según valoración de fisio (se define después de la valoración, no antes). En el grupo: sin volumen alto de lanzamientos hasta la valoración.
 
+**Rutina de movilidad/rehab Q4 (definida 2026-10-06, hasta la valoración de fisio) — ~20 min:**
+
+*Hombro y escápula (~12 min)*
+| Ejercicio | Dosis |
+|---|---|
+| Isométrico de bíceps contra marco de puerta (codo 90°, ~40% esfuerzo) | 3 × 30 s |
+| Rotación externa con banda, codo pegado (toalla entre codo y costado) | 2 × 15 por lado |
+| Rotación interna con banda | 2 × 15 por lado |
+| Remo con banda, retracción escapular | 2 × 15 |
+| Push-ups escapulares en pared (solo escápulas) | 2 × 12 |
+| Sleeper stretch (cápsula posterior, suave) | 2 × 30 s por lado |
+
+*Pubalgia (~8 min)*
+| Ejercicio | Dosis |
+|---|---|
+| Isométrico de aductores: almohada entre rodillas, boca arriba, ~50% | 5 × 10 s |
+| Glute bridge | 2 × 15 |
+| Dead bug | 2 × 8 por lado |
+| 90/90 de cadera | 1 min por lado |
+
+Regla: dolor ≤3/10 durante y no peor al día siguiente. Sin carga overhead ni Copenhagen hasta la valoración.
+
 ---
 
 ## Distribución Semanal — Tenjo (hasta 20 mayo 2026)

@@ -8,7 +8,7 @@
 
 | Hab | Inquilino | Documento | Teléfono | Canon | Inicio | Duración | Fin | Día de pago | Garantía |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Javier Roa (nombre legal: Yeimberth Javier Roa Martínez — siempre llamarlo **Javier**) | Pasaporte 198700535 | 3003446634 | $1.250.000 | 2026-09-15 | Por decidir: 6 o 12 meses (él aún no decide) | — | 15–20 de cada mes | $0 — trato especial por ~3 años de arriendo con la familia |
+| 1 | Javier Roa (nombre legal: Yeimberth Javier Roa Martínez — siempre llamarlo **Javier**) | Pasaporte 198700535 | 3003446634 | $1.250.000 | 2026-09-15 | Por decidir: 6 o 12 meses (él aún no decide). **Contrato sin firmar** — fecha de inicio 15 sep; borrador ajustado mié 7 oct, firma en la próxima visita | — | 15–20 de cada mes | $0 — trato especial por ~3 años de arriendo con la familia |
 
 ---
 

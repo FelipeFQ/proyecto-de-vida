@@ -10,7 +10,7 @@
 | Restricción | Detalle | Implicación |
 |---|---|---|
 | **Cuerpo** | Hombro 6/10 (bajó desde 9/10 en mayo), molestia escapular, regreso de dolores de lesiones pasadas tras ~4 meses sin entrenar. Sin valoración profesional aún. | Rampa obligatoria: semanas 1–2 solo movilidad/rehab + grupo sin volumen alto de lanzamientos; fuerza solo tras valoración de fisio. No proponer carga overhead ni volumen alto antes de la valoración. |
-| **Caja** | Colchón real $3M (~$4M con reembolso del abuelo). Ingreso personal hoy: $300k (Juana) + comisión La Clarita aún no cobrada (20% planeado, ~$0.96M/mes solo con 6/6 hab). Gastos fijos Tenjo ~$660k + transporte. Sin cuota TC. | Cada gasto no planificado requiere justificación. Alarma de caja: colchón < $1.5M adelanta el gatillo del plan B. No poner plata propia en La Clarita sin registrarla para reembolso. |
+| **Caja** | Colchón real $3M (~$4M con reembolso del abuelo). Ingreso personal hoy: $300k (Juana) + comisión La Clarita 25% del neto desde nov 2026 (poco con solo Javier; ~$1.2M/mes con 6/6 hab) + reembolso aprobado $1.21M (pago esperado antes del 11 oct). Gastos fijos Tenjo ~$660k + transporte. Sin cuota TC. | Cada gasto no planificado requiere justificación. Alarma de caja: colchón < $1.5M adelanta el gatillo del plan B. No poner plata propia en La Clarita sin registrarla para reembolso. |
 | **Carga simultánea** | 1 cliente + captación por charlas + La Clarita (6 hab, embudo activo) + Carmen de Apicalá + serie YouTube + curso del mentor + reconstrucción física | Cinco frentes. La cadencia Modo Tenjo Q4 con ancla externa por frente es el mecanismo de control. |
 | **Distancia La Clarita** | Tenjo ↔ Engativá: 1 h mínimo, 2 h en hora pico, por sentido. | Solo lun PM + sáb AM (excepción: sprint de amoblado hasta 14 oct). Ningún viaje sin visita confirmada. Martes 15–17 h choca con el entreno de 19:00 — no proponer sin decisión explícita de Felipe. |
 | **Gatillo plan B** | Empleo pausado por decisión de enfoque. Gatillo: 30 abr 2027 con <8 clientes → búsqueda de empleo remoto. Lectura intermedia 31 ene 2027 (≥4). Alarma de caja <$1.5M. | No reabrir búsqueda de empleo antes del gatillo, pero sí nombrarlo si la lectura de enero o la alarma de caja se activan. Ver `vida/prioridades_Q4_2026.md`, sección 6. |
@@ -82,6 +82,17 @@ La captación activa (conversaciones 1:1, letreros, charla en conjunto) tiene me
 **Pregunta correctiva:** *¿Cuál fue la última conversación donde podrías haber hecho la transición y no lo hiciste? ¿Qué te detuvo en ese momento específico?*
 
 **Nueva evidencia (2026-10-03):** cuarta ventana consecutiva en cero (septiembre, ya en Tenjo y sin obra). Felipe sí tuvo conversaciones casuales con extraños sobre hábitos y su trabajo, pero sin transición a prospectos. Su propio diagnóstico: una conversación casual no da suficiente valor inicial para generar confianza — propone charlas en salones sociales o valor gratuito antes de ofrecer la sesión diagnóstico. Diagnóstico válido y aceptado como cambio de canal. Variante a vigilar: contar YouTube como captación cuando todavía no tiene nicho, audiencia ni oferta conectada — en Q4 YouTube es práctica, no captación. Felipe lo aceptó explícitamente: *"eso no se me puede volver excusa para no hacerlo."*
+
+---
+
+### 4b. Redes sociales como fuga de tiempo (observado 2026-10-06)
+Felipe reportó ~3–4 h de redes sociales en un solo día con siete pendientes abiertos; justo lo que faltó para la rehab y el guion del Ep. 1. Es el mismo mecanismo que enseña en la charla (el entorno decide el hábito) y que Juana practica con él (phone fasting) — material encarnado si lo resuelve, contradicción de credibilidad si no.
+
+**Experimento (desde mié 7 oct):** celular fuera del cuarto 8:00–11:00 y desde las 21:30; pendientes del día en papel + pantalla de bloqueo (sin notificaciones visibles). Medir tiempo de pantalla diario como línea base. Ancla externa: incluirlo en el audio semanal a Simón.
+
+**Pregunta abierta:** ¿en qué momentos se va el tiempo (al despertar, entre tareas, en la cama)? La intervención depende de la respuesta.
+
+**Pregunta correctiva:** *¿Dónde estaba el celular cuando se fue el bloque?*
 
 ---
 
