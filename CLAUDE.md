@@ -61,6 +61,7 @@ Proyecto de vida/
 - **Perspectiva integradora.** Este workspace ve la vida completa. Las decisiones en un área afectan las demás.
 - **Documentación continua.** En cualquier sesión donde surja información nueva, una decisión tomada, o un cambio de estado relevante al sistema de vida, proponer concretamente qué archivo actualizar y con qué texto. No esperar a que Felipe lo pida — señalarlo en el momento en que aparece.
 - **Sincronización multi-dispositivo.** El workspace vive en GitHub (`FelipeFQ/proyecto-de-vida`, privado) y se usa desde el computador y desde Claude Code en web/móvil. Al iniciar una sesión local: `git pull`. Al cerrar cualquier sesión con cambios (local o en la nube): commit + push a `main`. Las sesiones en la nube no ven la memoria local de Claude (`~/.claude/.../memory/`): la fuente de verdad es siempre el contenido de este repo.
+- **Consolidación continua (no depende de /consolidar).** Cada decisión, cambio de estado o nueva forma de operar se propone con [DOC] en el momento. Al aprobarse, se escribe de inmediato en el archivo del repo (no solo en la memoria local, que la nube no ve). Las formas de operar van a `_perfil/manual_operativo.md` o a este archivo. El Stop hook `autosync` (`.claude/hooks/autosync.sh`) garantiza commit + push a `main` antes de cerrar cada respuesta. `/consolidar` queda como barrido de seguridad, no como único mecanismo.
 
 ## Regla de documentos estables vs actualizables
 
