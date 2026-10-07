@@ -9,7 +9,7 @@
 | Fuente | Monto aprox. | Frecuencia | Estado |
 |---|---|---|---|
 | Coaching — Método Cimientos | $300,000 COP | Mensual | Activo (solo Juana) |
-| Comisión administración La Clarita | $0 hoy · planeado 20% del neto (~$0.96M/mes con 6/6 hab) | Mensual | Por formalizar con los abuelos (antes del 31 oct). El $440k anterior ya no aplica |
+| Comisión administración La Clarita | **25% de la ganancia neta desde nov 2026** (acordado 2026-10-06). Con solo Javier es poco; ~$1.2M/mes con 6/6 hab | Mensual | Formalizado verbalmente con el abuelo |
 | Comisión venta inmueble (Carmen de Apicalá) | $6M–$7.5M COP | Único / eventual | Reactivación con viaje 8 oct 2026 |
 | **TOTAL INGRESO RECURRENTE** | **~$300,000 COP** | | |
 
@@ -41,7 +41,7 @@
 
 **Reestructuración formalizada (corregido 2026-08-28):** pagaré único firmado el 15 jul 2026 por **$33,000,000 COP** (TC $8.6M + familiar $10M + capital contenido para producción de video ~$4-5M + colchón de riesgo ~$8.9M + anualidad prepagada mentoría YouTube ~$1M). Año de gracia, primer pago 15 ago 2027. Ver detalle completo en `vida/estado_actual.md`, sección FINANZAS.
 
-**Reembolso a pedir a los abuelos (cuantificado 2026-10-06, conversación mar 6 oct):** pagos de Felipe con dinero propio para La Clarita. Soportes: recibos de ferretería y comprobantes de pago.
+**Reembolso aprobado por el abuelo (2026-10-06) — pago esperado antes del 11 oct:** pagos de Felipe con dinero propio para La Clarita. Soportes: recibos de ferretería y comprobantes de pago.
 
 | # | Periodo | Concepto | Monto |
 |---|---|---|---|

@@ -1,6 +1,6 @@
 # ESTADO ACTUAL — Sistema de Vida Felipe Fajardo
 *Snapshot vivo del sistema. Se actualiza cuando algo cambia — no tiene histórico.*
-*Última actualización: 2026-10-05 (revisión semanal lun 5 — La Clarita, Carmen de Apicalá, charla, Ep. 1, Juana, pubalgia). Anterior: 2026-10-04 (sesión Consejero — acceso multi-dispositivo vía GitHub + Claude Code móvil). Anterior: 2026-10-03 (sesión Consejero — cierre Q3 y planeación Q4: prioridades Q4, gatillo plan B, cadencia Modo Tenjo Q4, colchón real, hombro 6/10). La sección de La Clarita la mantiene la skill `/clarita` (última edición 2026-10-04). Anterior: 2026-10-02 (sesión Clarita).*
+*Última actualización: 2026-10-07 (sesión Consejero mar 6 — conversación con el abuelo: comisión 25%, tarjetas, reembolso, servicios; guion Carmen de Apicalá; contacto fisio). Anterior: 2026-10-05 (revisión semanal lun 5 — La Clarita, Carmen de Apicalá, charla, Ep. 1, Juana, pubalgia). Anterior: 2026-10-04 (sesión Consejero — acceso multi-dispositivo vía GitHub + Claude Code móvil). Anterior: 2026-10-03 (sesión Consejero — cierre Q3 y planeación Q4: prioridades Q4, gatillo plan B, cadencia Modo Tenjo Q4, colchón real, hombro 6/10). La sección de La Clarita la mantiene la skill `/clarita` (última edición 2026-10-04). Anterior: 2026-10-02 (sesión Clarita).*
 
 ---
 
@@ -158,7 +158,12 @@
 - Obra terminada. Modelo coliving: 4 habitaciones Tipo A (18 m², baño y cocina privada) + 2 Tipo B (9 m², baño exclusivo exterior, cocina compartida) + Hab 7 bodega (1–2 años). Lavandería compartida en terraza.
 - Hab 1: ✅ arrendada a Javier desde 15 sep 2026 — $1.250.000, sin depósito (inquilino de ~3 años con la familia). Duración 6 o 12 meses por decidir.
 - Hab 2 y 3: en comercialización, amoblándose sin contrato. **Entrega del 14 oct ya no es realista (2026-10-05):** la compra del resto de muebles en Mercado Libre fue rechazada por falta de cupo en la tarjeta (se resuelve con el abuelo, mar 6), y Felipe no vuelve a Bogotá hasta después del 12 oct (viaje a Carmen de Apicalá 8–10 oct). Nueva fecha = llegada de las compras + siguiente lun PM/sáb AM en La Clarita (estimado ~19–21 oct). Pendiente en la terraza: lavadora nueva + monedero. Anuncio se mantiene, con fotos reales y fecha honesta (propuesta: "disponible desde el 1 nov"). Embudo al 5 oct: 0 de 3 visitas; activos Fabián (reagendar) y Ronald (cierre, ❌ al 8–9 oct). Perdidos: Luis, Angie, Uriel, Carlos, Jesús, Oscar, Juan David, Diego.
-- Comisión: se plantea al abuelo el mar 6 junto con lo de la tarjeta — acordar 20% de los arriendos, con cobro desde que esté arrendada la Hab 3 (intuición de Felipe: el ingreso real empieza con la tercera habitación). Mencionar lo puesto de bolsillo propio para reembolso.
+- **Conversación con el abuelo (mar 6 oct) — decidido:**
+  - **Comisión: 25% de la ganancia neta de la casa, desde noviembre** (sobre el neto con solo Javier por ahora). Reemplaza el plan de 20% desde Hab 3. Pendiente: dejar escrito qué entra en el "neto" (propuesta: arriendos − gastos de operación; cuotas de muebles = inversión, fuera del neto, como en la Opción B de la rendición).
+  - **Muebles Hab 2:** compra dividida en 3 tarjetas — Occidente (~$700k de cupo), Nu abuela ($1.8M), Nu abuelo ($1.2M). Carrito ~$3.28–3.35M.
+  - **Hab 3:** se decide después de arrendar la Hab 2 (posible abono de ~$5M a Occidente para liberar cupo). Aumento de cupo de Occidente: llamada mié 7; si no, ir al banco la semana siguiente.
+  - **Reembolso a Felipe ($1.212.600):** aprobado. Cuenta enviada al abuelo por imagen; pago esperado a más tardar el fin de semana del 10–11 oct.
+  - **Servicios (aseo, internet, gas, luz, acueducto):** desde ahora los paga la casa con los arriendos, no Felipe.
 - Hab 4: Tipo A, fecha de entrega por definir.
 - Precio: $1.500.000 (3–5 meses); desde 9 oct $1.450.000 (6–11 m) / $1.400.000 (12 m). Plazo mínimo 3 meses. Segunda persona +$300.000. Pernoctación $10.000/noche.
 - Marketing: solo FB Marketplace desde 23 sep. Línea base a 9 días: 970 clics → 51 mensajes → 15 siguen conversando (29%) → 4 piden visita → 1 visita → 0 cierres. Hay demanda; la fuga está en la conversión. Experimento 1 (nueva primera respuesta, desde 2 oct): 6/6 conversaciones siguieron. Experimento 2 desde 3 oct 19:26: categoría "Departamento" + descripción corregida (línea base 1.154 clics, 63 chats = 5,5/100).

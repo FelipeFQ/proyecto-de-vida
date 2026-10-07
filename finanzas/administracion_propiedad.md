@@ -67,14 +67,17 @@ Nota: la rendición asume Hab 3–4 a $1.35M. El precio publicado hoy es $1.5M (
 - Desplazamiento: Tenjo-Bogotá, ~1.5 h por trayecto (~3 h ida y vuelta, corregido 2026-10-03). Visitas agrupadas en ventanas fijas (lun/mar 15–17h, sáb AM); ningún viaje sin confirmación previa.
 
 ## TEMAS PENDIENTES POR RESOLVER
-- [ ] Abuelo decide la comisión de administración (10/20/30% sobre neto).
+- [x] Abuelo decide la comisión → **25% de la ganancia neta desde nov 2026** (2026-10-06). Pendiente: definir por escrito qué entra en el neto.
 - [ ] Abuelo decide la Opción B (muebles desde ahorros).
 - [ ] Decidir la compra del monedero + lavadora (14 o 20 kg).
 - [ ] Decidir el destino de los objetos de la Hab 7 (trasladar / vender).
 - [ ] Pagar el saldo del eléctrico ($1.25M) cuando Enel cambie el contador.
-- [x] Cuantificar los pagos personales de Felipe a la casa → $1.212.600 (2026-10-06), detalle en `finanzas/finanzas_personales.md`. Pendiente: aprobación del abuelo como reembolso.
+- [x] Cuantificar los pagos personales de Felipe a la casa → $1.212.600 (2026-10-06), detalle en `finanzas/finanzas_personales.md`. ✅ Aprobado como reembolso (2026-10-06); pago esperado antes del 11 oct.
 - [ ] Cancelar la suscripción DirecTV Go Flex en la factura de internet (~$22k/mes extra).
-- [ ] Los servicios públicos los paga la casa directamente (no Felipe para reembolso) — proponer al abuelo 2026-10-06.
+- [x] Servicios (aseo, internet, gas, luz, acueducto) los paga la casa con los arriendos (acordado 2026-10-06).
+- [ ] Comprar muebles Hab 2 con 3 tarjetas (Occidente ~$700k + Nu abuela $1.8M + Nu abuelo $1.2M). Verificar si Nu cobra interés en cuotas.
+- [ ] Pedir aumento de cupo Occidente (llamada mié 7 oct; si no, banco la semana siguiente).
+- [ ] Hab 3: decidir tras arrendar Hab 2 (posible abono ~$5M a Occidente).
 - [ ] Entregar la rendición al abuelo Jorge Quintero (impresa + correo) y presentar la propuesta en persona.
 - [x] Definir presupuesto y cronograma de remodelación → obra terminada.
 - [x] Establecer perfil de inquilino ideal y proceso de selección → criterios objetivos, requisitos y guion de visita en `finanzas/clarita/ficha_inmueble.md` (2026-10-02).
