@@ -1,6 +1,6 @@
 # INTERESADOS — Coliving La Clarita
 *Solo se registran interesados calificados (respondieron después del primer mensaje o agendaron visita). Los chats que solo enviaron "¿sigue disponible?" no entran.*
-*Última actualización: 2026-10-05 (noche, revisión semanal)*
+*Última actualización: 2026-10-07*
 
 **Etapas:** Calificado → Visita agendada → Visita hecha → Documentos → Contrato → ✅ Firmado / ❌ Perdido
 
@@ -13,10 +13,16 @@
 
 | Nombre | WhatsApp | Hab | Etapa | Último contacto | Próxima acción | Fecha |
 |---|---|---|---|---|---|---|
-| Fabián | (recibido) | 2 o 3 | Reprogramación | 2026-10-06 11:53 — le fue bien en la entrevista; espera un documento que define su contratación | Esperar su respuesta a "¿cómo vas con la búsqueda?". Si quiere ver: lun 12, 16:00 o el día que proponga + avisarle que la entrega pasó al 1 nov | — |
-| Rick | — | 2 o 3 | Calificado | 2026-10-06 — respondió a la plantilla 1: "sí, solo para mí" | Preguntar fecha de mudanza (entrega 1 nov) | 2026-10-06 |
+| Fabián | (recibido) | 2 o 3 | Reprogramación | 2026-10-07 — sigue interesado, espera el documento de su contratación. Se le avisó entrega 1 nov y se le preguntó para cuándo espera el documento | Esperar fecha del documento. Visita lun 12 o mar 13, 16:00 si ya tiene noticias o si ese día hay otra visita | — |
+| Rick | — | 2 o 3 | Calificado | 2026-10-07 — dijo "lo antes posible"; se le preguntó si le sirve desde el 1 nov | Si sí → pieza "casa compartida" (1d). Si no → ❌ | — |
 | Ronald | 3044888021 | 2 o 3 | Documentos | 2026-10-05 AM — follow-up de cierre enviado, sin respuesta | Sin más contactos. Sin respuesta al 8–9 oct → ❌ | 2026-10-09 |
 | Mark | — | 2 o 3 | Calificado (sin respuesta) | 2026-10-02 — preguntó documentos; se le enviaron requisitos + resumen. No respondió | Sin follow-up. Si reaparece, plantilla 1c | — |
+
+**Lista de aviso Tipo B (~$1.100.000, sin fecha):**
+
+| Nombre | Canal | Presupuesto | Estado |
+|---|---|---|---|
+| Alejandra | Marketplace | $1.200.000 | 2026-10-07: se le dijo Tipo A $1.400.000 (12 m) y que vendrán habitaciones más sencillas ~$1.100.000; se le preguntó si quiere aviso. Pendiente respuesta |
 
 **Resultado lun 5 oct:** 0 de 3 visitas. Oscar no confirmó (17:00), Fabián canceló (16:00), Juan David no respondió (15:00). Diego dejó en visto tras el costo de la moto.
 
@@ -50,6 +56,7 @@
 - Pareja de visita ocasional: se le explicó pernoctación $10.000/noche, máx. 5/mes; si pasa de eso, 2 ocupantes con +20%.
 - Prefería antes del 14; se le dijo que depende de los proveedores de muebles, sin promesa.
 - Pendiente en la visita: plazo exacto, frecuencia de la pareja, fecha de envío de documentos.
+- 7 oct: "Sí claro que estoy interesado, a la espera de finalizar toda la documentación" (6 oct 14:11, respondido el 7). Se le avisó la entrega del 1 nov. Prioridad: su contratación, no la visita; él da la señal cuando salga el documento. **En la visita:** desde cuándo puede demostrar ingresos (extractos de 3 meses — si el empleo es nuevo puede no tenerlos).
 - 6 oct: secuencia "primero la persona" (exp. 3): 11:37 "¿cómo te fue en la entrevista?" → respondió en 16 min: le fue bien, espera un documento que define la contratación (empleo aún no en firme → carta laboral pendiente; no pedirla todavía). En la visita: empresa, fecha del documento, desde cuándo puede demostrar ingresos. Se le dijo 14 oct: avisarle que la entrega pasó al 1 nov.
 
 ### Oscar
@@ -62,7 +69,7 @@
 - Origen: Marketplace, 5 oct. Vive solo, fecha de entrega le sirve. Tiene moto (parqueadero $65.000/mes, sujeto a disponibilidad).
 
 ### Rick
-- Origen: Marketplace, 6 oct 10:19 ("¿sigue disponible?"). Recibió la plantilla 1 (6+ meses = $1.400.000 → se le respeta). Vive solo.
+- Origen: Marketplace, 6 oct 10:19 ("¿sigue disponible?"). Recibió la plantilla 1 (6+ meses = $1.400.000 → se le respeta). Vive solo. 6 oct 13:17: necesita mudarse "lo antes posible" → probable incompatibilidad con el 1 nov (respuesta del 7 oct).
 
 ### Mark
 - Origen: Marketplace, 2 oct. Primer mensaje: "¿cuáles son los documentos?". Recibió requisitos ("garantía por el amoblado y el cumplimiento del contrato") + resumen. No respondió.

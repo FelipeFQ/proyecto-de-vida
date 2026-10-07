@@ -70,7 +70,7 @@
 - Visitas hasta las 10:00 p.m.
 - No mascotas.
 - No se permite el consumo de sustancias psicoactivas en la propiedad, incluidas las habitaciones: tabaco, alcohol, marihuana, vapes u otras. Prohibidas las fiestas.
-- Solo adultos (sin niños).
+- Solo adultos (sin niños). *(Pendiente: validar redacción con abogado junto con la garantía — protección constitucional reforzada de los niños.)*
 - Lavadora 7:00 a.m. – 9:00 p.m.
 
 ---

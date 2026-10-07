@@ -1,6 +1,6 @@
 # MARKETING — Coliving La Clarita
 *Embudo semanal y registro de experimentos. Regla: UN cambio por semana, medido contra el embudo, para saber qué funcionó.*
-*Última actualización: 2026-10-06*
+*Última actualización: 2026-10-07*
 
 ---
 
@@ -39,7 +39,7 @@
 
 **Correcciones de información (no son experimento):** ✅ hechas 2026-10-06 (parqueadero en "Precio y condiciones"; lavadora con costo por ciclo). Antes: aclarar en el anuncio el parqueadero (solo moto, $65.000/mes; bicicleta sin costo; sin carro — un amigo de Felipe no lo entendió en el post) y la zona de ropas (lavadora con fichas en la terraza).
 
-**Nota exp. 2:** incluye la corrección "sin depósito" (obligatoria, no se pudo separar). La retención del exp. 1 en los días posteriores al 3 oct puede estar influida por la nueva categoría. Precio por escalones desde 9 oct = decisión de negocio, no experimento.
+**Nota exp. 2:** incluye la corrección "sin depósito" (obligatoria, no se pudo separar). La retención del exp. 1 en los días posteriores al 3 oct puede estar influida por la nueva categoría. Precio por escalones desde 7 oct (adelantado del 9) = decisión de negocio, no experimento.
 
 **Snapshot del anuncio ANTES de editar (2026-10-03, capturas de Felipe):**
 
@@ -58,7 +58,15 @@ Desde la línea base del 2 oct (970 clics) → +184 clics al 3 oct. Entre 2 y 3 
 | Jeison | 5 oct 22:38 | ¿Sigue disponible? | Plantilla 1 | Pendiente |
 | Andrés | 6 oct 00:43 | ¿Sigue disponible? | Plantilla 1 | Pendiente |
 | Christian | 6 oct 09:00 | ¿Cuánto para contrato de 1 año? | 1b: $1.400.000 (12 m) + todo incluido + entrega 1 nov + "¿solo para ti o dos personas? el valor cambia" | Pendiente |
-| Rick | 6 oct 10:19 | ¿Sigue disponible? | Plantilla 1 | ✅ "Sí, solo para mí" |
+| Rick | 6 oct 10:19 | ¿Sigue disponible? | Plantilla 1 | ✅ "Sí, solo para mí" → "lo antes posible" |
+| Alejandra | antes de oct (respondido 7 oct) | ¿Manejas uno con presupuesto de $1.200.000? | Tipo A $1.400.000 (12 m) + Tipo B futuras ~$1.100.000, ¿aviso? | Pendiente |
+| Lu | 6 oct 12:46 | ¿Está disponible? (ya descartada 25 sep: busca con bebé de 1 año) | Recomendado: reiterar "solo adultos" en una línea | — |
+| Dayana | 7 oct AM | ¿Sigue disponible? | Plantilla 1 nueva (12 m $1.400.000 / 6 m $1.450.000) | Pendiente |
+| Kevin Mauricio | 7 oct AM | ¿Sigue disponible? | Plantilla 1 nueva | Pendiente |
+
+**Ritmo de mensajes 7 oct:** 2 chats nuevos a mediodía (vs. ~5,7/día de la línea base). Pendiente: captura de estadísticas (clics y chats acumulados) para separar visibilidad (clics/día) de conversión del anuncio ((chats − 63)/(clics − 1.154)). Si bajan los clics → siguiente experimento: renovar el anuncio (semana del 12 oct). No tocar el anuncio esta semana (exp. 3 corriendo, fecha cambiada el 6 oct).
+
+**Demanda Tipo B:** aparecen interesados con presupuesto de $1.100.000–1.200.000 (Alejandra, oct 2026) → señal de demanda para las Tipo B. Lista de aviso en `interesados.md`.
 
 ## Ideas en espera (una a la vez, después del experimento 1)
 
