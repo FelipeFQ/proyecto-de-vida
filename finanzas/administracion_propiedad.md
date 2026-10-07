@@ -67,7 +67,7 @@ Nota: la rendición asume Hab 3–4 a $1.35M. El precio publicado hoy es $1.5M (
 - Desplazamiento: Tenjo-Bogotá, ~1.5 h por trayecto (~3 h ida y vuelta, corregido 2026-10-03). Visitas agrupadas en ventanas fijas (lun/mar 15–17h, sáb AM); ningún viaje sin confirmación previa.
 
 ## TEMAS PENDIENTES POR RESOLVER
-- [x] Abuelo decide la comisión → **25% de la ganancia neta desde nov 2026** (2026-10-06). Pendiente: definir por escrito qué entra en el neto.
+- [x] Abuelo decide la comisión → **25% de la ganancia neta desde nov 2026** (2026-10-06). Neto = arriendos del mes − servicios del mes (confirmado por el abuelo 2026-10-06); primera liquidación con las cuentas de octubre.
 - [ ] Abuelo decide la Opción B (muebles desde ahorros).
 - [ ] Decidir la compra del monedero + lavadora (14 o 20 kg).
 - [ ] Decidir el esquema de cobro para contratos que inician a mitad de mes (propuesta 2026-10-06: entrada cualquier día, primer pago proporcional a $50.000/día y luego todos pagan del 1 al 5; opcional: si entra después del 20, paga también el mes siguiente al firmar). Si se aprueba, incluirlo en la plantilla del contrato antes de la firma de Hab 2.

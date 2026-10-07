@@ -90,6 +90,8 @@ Felipe reportó ~3–4 h de redes sociales en un solo día con siete pendientes 
 
 **Experimento (desde mié 7 oct):** celular fuera del cuarto 8:00–11:00 y desde las 21:30; pendientes del día en papel + pantalla de bloqueo (sin notificaciones visibles). Medir tiempo de pantalla diario como línea base. Ancla externa: incluirlo en el audio semanal a Simón.
 
+**Día 1 (mié 7 oct):** ❌ no logró separarse del celular de 8 a 11; rehab hecha pero tarde. Ajuste pendiente: el celular fuera del cuarto no bastó como barrera.
+
 **Pregunta abierta:** ¿en qué momentos se va el tiempo (al despertar, entre tareas, en la cama)? La intervención depende de la respuesta.
 
 **Pregunta correctiva:** *¿Dónde estaba el celular cuando se fue el bloque?*
