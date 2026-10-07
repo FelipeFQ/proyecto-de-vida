@@ -24,5 +24,12 @@
         ]
       }
     ]
+  },
+  "autoMode": {
+    "allow": [
+      "$defaults",
+      "Git sync of the user's private life-system repo FelipeFQ/proyecto-de-vida is expected and authorized by the user: git pull, git fetch, git merge, git commit, and git push to the main branch of that repo (including pushing HEAD:main from a claude/* branch in cloud sessions).",
+      "Deleting remote claude/* branches of FelipeFQ/proyecto-de-vida after their content has been merged into main is authorized by the user."
+    ]
   }
 }
