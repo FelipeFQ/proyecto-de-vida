@@ -44,10 +44,10 @@ Llamadas y mensajes a la competencia del conjunto (9 oct): ver `finanzas/carmen_
 
 | Apto | Precio | m² | $/m² | Notas |
 |---|---|---|---|---|
-| T1 piso 8 (apto 805) — Century 21 | $200M | 57 | $3,51M | 1 parqueadero cubierto, 2020, balcón con vista, sin mención de amoblado. Precio de inmobiliaria (incluye su comisión). **Negociable** (dicho por la asesora). Administración $263k/mes. Incluye 1 aire acondicionado |
+| T1 piso 8 (apto 805) — Century 21 | $200M | 57 | $3,51M | 1 parqueadero cubierto, 2020, balcón con vista, sin mención de amoblado. Precio de inmobiliaria (incluye su comisión). **Negociable** (dicho por la asesora). Administración $263k/mes. Incluye 1 aire acondicionado. En venta hace **≥138 días** (última actualización de la publicación ~24 may 2026) |
 | **Nuestro** T1 piso 4 | $220M / $250M | 62,14 | $3,54M / $4,02M | Parqueadero doble, amoblado |
 
-Lectura preliminar (1 dato): el precio real de cierre de ese apto está por debajo de $200M (negociable) → ~$3,3–3,4M/m² si cierra en $190M. a $220M estamos al mismo $/m² con más área, parqueadero doble y muebles; a $250M quedaríamos ~15% por encima por m².
+Lectura preliminar (1 dato, actualizada 9 oct): ese apto lleva ≥4,5 meses sin venderse a $200M negociables, igual que el nuestro (~5 meses a $220M). El mercado del conjunto es lento incluso a ~$3,5M/m². Lectura anterior: el precio real de cierre de ese apto está por debajo de $200M (negociable) → ~$3,3–3,4M/m² si cierra en $190M. a $220M estamos al mismo $/m² con más área, parqueadero doble y muebles; a $250M quedaríamos ~15% por encima por m².
 
 ## ANÁLISIS DE MERCADO — Mayo 2026
 
