@@ -15,7 +15,8 @@ Actividad económica esporádica: mercadeo de propiedades para conocidos y famil
 | Conjunto | Piscina adultos + piscina niños, zona BBQ (por confirmar si se alquila o se pide permiso), portería y vigilancia 24 h. Permite arriendo vacacional (hay unidades en Airbnb) |
 | Ocupación y mobiliario | Desocupado. Se vende amoblado (preferido — no hay dónde guardar los muebles): camarotes, cama doble, closets, persianas, ventiladores, nevera, microondas, estufa, lavadora. Opción sin amoblar |
 | Conjunto (nombre) | Arenitas Riviera PH · **Estrato 3** (confirmado por ficha de un apto del mismo conjunto, 9 oct 2026) |
-| Pendientes de dato | Administración mensual · predial aproximado |
+| Administración | Referencia: $263k/mes en T1 piso 8 (57 m²). Estimado nuestro ~$287k si se cobra por coeficiente de área — confirmar |
+| Pendientes de dato | Administración exacta · predial aproximado |
 | Propietarios | Abuelos |
 | Precio de venta | $220,000,000 COP publicado (acordado con abuelo el 15 mayo 2026). ⚠️ **Dos precios en circulación (2026-10-06):** hace ~2 semanas los abuelos dijeron $250M amoblado a una pareja (instaladores de cortinas). Sin piso de negociación definido. Unificar con el abuelo antes de reactivar el anuncio con el video. |
 | Responsable del mercadeo | Felipe |
@@ -43,7 +44,7 @@ Llamadas y mensajes a la competencia del conjunto (9 oct): ver `finanzas/carmen_
 
 | Apto | Precio | m² | $/m² | Notas |
 |---|---|---|---|---|
-| T1 piso 8 (apto 805) — Century 21 | $200M | 57 | $3,51M | 1 parqueadero cubierto, 2020, balcón con vista, sin mención de amoblado. Precio de inmobiliaria (incluye su comisión). **Negociable** (dicho por la asesora) |
+| T1 piso 8 (apto 805) — Century 21 | $200M | 57 | $3,51M | 1 parqueadero cubierto, 2020, balcón con vista, sin mención de amoblado. Precio de inmobiliaria (incluye su comisión). **Negociable** (dicho por la asesora). Administración $263k/mes. Incluye 1 aire acondicionado |
 | **Nuestro** T1 piso 4 | $220M / $250M | 62,14 | $3,54M / $4,02M | Parqueadero doble, amoblado |
 
 Lectura preliminar (1 dato): el precio real de cierre de ese apto está por debajo de $200M (negociable) → ~$3,3–3,4M/m² si cierra en $190M. a $220M estamos al mismo $/m² con más área, parqueadero doble y muebles; a $250M quedaríamos ~15% por encima por m².
