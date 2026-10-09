@@ -45,13 +45,13 @@ Llamadas y mensajes a la competencia del conjunto (9 oct): ver `finanzas/carmen_
 | Apto | Precio | m² | $/m² | Notas |
 |---|---|---|---|---|
 | T1 piso 8 (apto 805) — Century 21 | $200M | 57 | $3,51M | 1 parqueadero cubierto, 2020, balcón con vista, sin mención de amoblado. Precio de inmobiliaria (incluye su comisión). **Negociable** (dicho por la asesora). Administración $263k/mes. Incluye 1 aire acondicionado. En venta hace **≥138 días** (última actualización de la publicación ~24 may 2026) |
-| Metrocuadrado MC6840778 (web, sin verificar) | $240M | 63,3 | $3,79M | 1 parqueadero cubierto. 0–5 años |
+| Metrocuadrado MC6840778 | ~~$240M~~ → **$220M** (re-publicado) | 63,3 | $3,48M | 1 parqueadero cubierto. 0–5 años. Rebajó $20M |
 | Metrocuadrado 2469-M6852417 (web, sin verificar) | $240M | 63 | $3,81M | Admin $300k. Acepta permuta |
-| Metrocuadrado 23253-M6984946 (web, sin verificar) | $250M | 63 | $3,97M | Piso 6, esquinero, **2 parqueaderos**. Admin $308k |
+| Metrocuadrado 23253-M6984946 | ~~$250M~~ — **ya no está publicado** | 63 | — | Piso 6, esquinero, 2 parqueaderos. Retirado (¿vendido?, desconocido) |
 | Mitula / Keeperomega (web, sin verificar) | $230M | 63 | $3,65M | Piso 5, 2022 |
 | **Nuestro** T1 piso 4 | $220M / $250M | 62,14 | $3,54M / $4,02M | Parqueadero doble, amoblado |
 
-**Recalibración (9 oct, con anuncios web):** los precios PEDIDOS en el conjunto van de $200M a $250M (promedio ~$3,75M/m² → ~$233M para nuestro apto). $250M está en el techo del rango pedido, no fuera de él; el comparable más cercano (2 parqueaderos, piso 6) pide $250M. Pero son precios pedidos, no de cierre: no hay evidencia de ventas cerradas. Lectura anterior (1 dato): ese apto lleva ≥4,5 meses sin venderse a $200M negociables, igual que el nuestro (~5 meses a $220M). El mercado del conjunto es lento incluso a ~$3,5M/m². Lectura anterior: el precio real de cierre de ese apto está por debajo de $200M (negociable) → ~$3,3–3,4M/m² si cierra en $190M. a $220M estamos al mismo $/m² con más área, parqueadero doble y muebles; a $250M quedaríamos ~15% por encima por m².
+**Segunda recalibración (9 oct, datos de Felipe):** el de $250M ya no está publicado y uno de $240M se re-publicó a $220M. Los precios vigentes verificados son $200M (negociable) y $220M → ~$3,5M/m². $220M es el precio de mercado; $250M no tiene un comparable vigente. Primera recalibración (superada): los precios PEDIDOS en el conjunto van de $200M a $250M (promedio ~$3,75M/m² → ~$233M para nuestro apto). $250M está en el techo del rango pedido, no fuera de él; el comparable más cercano (2 parqueaderos, piso 6) pide $250M. Pero son precios pedidos, no de cierre: no hay evidencia de ventas cerradas. Lectura anterior (1 dato): ese apto lleva ≥4,5 meses sin venderse a $200M negociables, igual que el nuestro (~5 meses a $220M). El mercado del conjunto es lento incluso a ~$3,5M/m². Lectura anterior: el precio real de cierre de ese apto está por debajo de $200M (negociable) → ~$3,3–3,4M/m² si cierra en $190M. a $220M estamos al mismo $/m² con más área, parqueadero doble y muebles; a $250M quedaríamos ~15% por encima por m².
 
 ## ANÁLISIS DE MERCADO — Mayo 2026
 
