@@ -36,7 +36,7 @@ Actividad económica esporádica: mercadeo de propiedades para conocidos y famil
 | Publicación MetroCuadrado | ✅ Publicada | Precio: $220M. Publicada el 15 mayo 2026. |
 | Publicación FincaRaíz | ❌ Pendiente | Abuelo aprobó solo un portal de pago — MetroCuadrado priorizado. |
 | Video del apto | ❌ Pendiente | Requiere viaje a Carmen de Apicalá coordinado con abuelos. |
-| Letrero físico en el apto | ❌ Pendiente | Mismo viaje que el video. |
+| Letrero físico en el apto | 🔄 Medidas tomadas (9 oct 2026): **2,50 m × 0,95 m** | Diseño después del viaje; instalado antes del 18 oct. |
 
 ## ANÁLISIS DE MERCADO — Octubre 2026 (en curso)
 
