@@ -1,6 +1,6 @@
 # FICHA DEL INMUEBLE — Coliving La Clarita
 *Fuente única de datos de la propiedad. Toda respuesta a interesados sale de aquí — si un dato cambia, se cambia aquí primero.*
-*Última actualización: 2026-10-07*
+*Última actualización: 2026-10-10*
 
 ---
 
@@ -56,7 +56,7 @@
 | Segundo ocupante | +$300.000/mes fijo (= 20% del canon pleno), sin importar el escalón: pareja paga $1.800.000 (3–5 m), $1.750.000 (6–11 m), $1.700.000 (12 m). Quien recibió la oferta anterior: $1.700.000 con 6+ meses. Coherente con la pernoctación: $300.000/30 = $10.000/día |
 | Pernoctación de visitante | $10.000/noche (equivale al costo diario del segundo ocupante), máx. 5 noches/mes, previo aviso. Si pasa de 5 noches/mes → se registra como segundo ocupante (+20%) con los mismos requisitos. *Cambiado 2026-10-03 desde $35.000/noche (era 3,5× el costo diario del segundo ocupante).* |
 | Lavadora | $7.000/ciclo con fichas que vende Javier (Hab 1) en la casa |
-| Parqueadero moto | $65.000/mes, sujeto a disponibilidad. Bicicleta sin costo |
+| Parqueadero moto | $65.000/mes. Capacidad: 4 motos (0 en uso al 8 oct). El cupo se asigna con el contrato firmado. Decir "sujeto a disponibilidad" solo cuando queden ≤1 cupos. Bicicleta sin costo |
 | Parqueadero carro | No disponible. El callejón enrejado frente a la casa es espacio público: no se ofrece ni se menciona como parte del arriendo |
 | Mora | Recargo fijo $50.000 desde el día 6. Mora > 10 días = causal de terminación |
 
@@ -100,14 +100,20 @@
 *[fecha] = la fecha de entrega de la próxima habitación SIN contrato firmado (ver tabla de unidades). Una habitación solo se separa con contrato firmado: mientras Ronald/Angie no firmen, Hab 2 y 3 siguen libres para quien firme primero.*
 > Hola [Nombre], cómo estás? Sí, aún está disponible, con entrega a partir del [fecha].
 >
-> Es un mini apartaestudio amoblado de 18 m² con baño y cocina privada, por $1.500.000 todo incluido (agua, luz, gas, internet 900 Mb y aseo). Con contrato de 12 meses queda en $1.400.000 (6 meses: $1.450.000).
+> Es un mini apartaestudio amoblado de 18 m² con baño y cocina privada, por $1.500.000 todo incluido (agua, luz, gas, internet 900 Mb y aseo). Con contrato de 12 meses queda en $1.400.000.
 >
 > El espacio sería solo para ti o para dos personas?
 
 **1b. Primer mensaje con una pregunta concreta** (ej. "¿incluye servicios?", "¿aceptan mascotas?")
-> Hola [Nombre], cómo estás? [Respuesta directa a su pregunta en 1 línea]. Está disponible con entrega a partir del [fecha]: $1.500.000 todo incluido, o $1.400.000 con contrato de 12 meses (6 meses: $1.450.000).
+> Hola [Nombre], cómo estás? [Respuesta directa a su pregunta en 1 línea]. Sí está disponible, con entrega a partir del [fecha].
+>
+> Es un mini apartaestudio amoblado de 18 m² con baño y cocina privada, por $1.500.000 todo incluido (agua, luz, gas, internet 900 Mb y aseo). Con contrato de 12 meses queda en $1.400.000.
 >
 > El espacio sería solo para ti o para dos personas?
+
+*Si preguntan la ubicación (1b), la respuesta directa es: "Queda en el barrio La Clarita, sobre la Av. Ciudad de Cali con Calle 72. La dirección exacta te la comparto cuando agendemos la visita." El precio de 6 meses ($1.450.000) no va en el primer mensaje: se da cuando pregunten o cuando se hable del plazo (2026-10-08).*
+
+*Fotos del anuncio = Hab 1 (arrendada). Cuando pregunten por fotos o por el espacio: "El de las fotos ya se arrendó; el que te mostraría es del mismo tipo (misma distribución y dotación). Las fotos te sirven de referencia." Si la visita es antes de amoblar, avisarlo antes.*
 
 **1c. Segundo mensaje según la respuesta**
 - Solo/a: "Perfecto. ¿Para qué fecha necesitarías mudarte?"

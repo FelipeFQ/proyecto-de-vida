@@ -1,6 +1,6 @@
 # INTERESADOS — Coliving La Clarita
 *Solo se registran interesados calificados (respondieron después del primer mensaje o agendaron visita). Los chats que solo enviaron "¿sigue disponible?" no entran.*
-*Última actualización: 2026-10-07*
+*Última actualización: 2026-10-10*
 
 **Etapas:** Calificado → Visita agendada → Visita hecha → Documentos → Contrato → ✅ Firmado / ❌ Perdido
 
@@ -15,7 +15,7 @@
 |---|---|---|---|---|---|---|
 | Fabián | (recibido) | 2 o 3 | Reprogramación | 2026-10-07 — sigue interesado, espera el documento de su contratación. Se le avisó entrega 1 nov y se le preguntó para cuándo espera el documento | Esperar fecha del documento. Visita lun 12 o mar 13, 16:00 si ya tiene noticias o si ese día hay otra visita | — |
 | Rick | — | 2 o 3 | Calificado | 2026-10-07 — dijo "lo antes posible"; se le preguntó si le sirve desde el 1 nov | Si sí → pieza "casa compartida" (1d). Si no → ❌ | — |
-| Ronald | 3044888021 | 2 o 3 | Documentos | 2026-10-05 AM — follow-up de cierre enviado, sin respuesta | Sin más contactos. Sin respuesta al 8–9 oct → ❌ | 2026-10-09 |
+| Pablo | — (no lo dio) | 2 o 3 | Calificado (sin respuesta) | 2026-10-08 16:42 — recibió casa compartida, fotos = Hab 1, reglas (aceptó), moto $65.000 (aceptó), requisitos + visita lun 12 15:00/16:00. Visto, sin respuesta | Sin follow-up. Si reaparece, retomar desde la hora de visita y pedir WhatsApp | — |
 | Mark | — | 2 o 3 | Calificado (sin respuesta) | 2026-10-02 — preguntó documentos; se le enviaron requisitos + resumen. No respondió | Sin follow-up. Si reaparece, plantilla 1c | — |
 
 **Lista de aviso Tipo B (~$1.100.000, sin fecha):**
@@ -71,6 +71,10 @@
 ### Rick
 - Origen: Marketplace, 6 oct 10:19 ("¿sigue disponible?"). Recibió la plantilla 1 (6+ meses = $1.400.000 → se le respeta). Vive solo. 6 oct 13:17: necesita mudarse "lo antes posible" → probable incompatibilidad con el 1 nov (respuesta del 7 oct).
 
+### Pablo
+- Origen: Marketplace, 8 oct. Recibió la plantilla 1 nueva (12 m = $1.400.000). Vive solo; pidió visita ("cuándo lo podría ver?").
+- Secuencia 1d en piezas (8 oct): casa compartida + fotos = Hab 1 + "lo verías sin todos los muebles" → "perfecto"; reglas → "sí perfecto"; preguntó parqueadero de moto → $65.000/mes → "sí gracias"; requisitos + lun 12 15:00/16:00 → visto, sin respuesta. Tercer caso que se calla después de los requisitos (ver `marketing.md`).
+
 ### Mark
 - Origen: Marketplace, 2 oct. Primer mensaje: "¿cuáles son los documentos?". Recibió requisitos ("garantía por el amoblado y el cumplimiento del contrato") + resumen. No respondió.
 
@@ -84,7 +88,8 @@
 | (2 sin nombre) | 2 | ❌ Perdido | sep 2026 | Agendaron visita y no la concretaron |
 | Luis | 2 o 3 | ❌ Perdido | 2026-10-02 | Necesita parqueadero para carro (Corolla Cross); la casa solo tiene para moto. No se le ofreció el callejón enrejado de enfrente (espacio público, sin garantía) |
 | Angie | 2 o 3 | ❌ Perdido | 2026-10-03 | Agendó sin preguntar nada (sáb 10:00); no respondió la confirmación. No se viajó |
-| Uriel | 2 o 3 | ❌ Perdido | 2026-10-03 | Mudanza 17 oct, pasó su WhatsApp; ante las opciones de hora dijo "ya le confirmo" y no volvió a responder |
+| Uriel | 2 o 3 | ❌ Perdido | 2026-10-03 | Mudanza 17 oct, pasó su WhatsApp; ante las opciones de hora dijo "ya le confirmo" y no volvió a responder. 7 oct reapareció por WhatsApp; se le dijo que el de las fotos ya se arrendó y los siguientes son desde el 1 nov → necesita mitad de oct. Cerrado con amabilidad |
+| Ronald | 2 o 3 | ❌ Perdido | 2026-10-09 | Visita 30 sep (sin cierre con fecha); no respondió follow-ups ni el cierre del 5 oct |
 | Carlos | 2 o 3 | ❌ Perdido | 2026-10-03 | Pidió visita con insistencia ("???"), no confirmó hora |
 | Jesús | — | ❌ Perdido | 2026-10-03 | Buscaba 1 mes; plazo mínimo 3 meses |
 | Oscar | 2 o 3 | ❌ Perdido | 2026-10-05 | No dio WhatsApp ni confirmó la visita de las 17:00 |

@@ -1,6 +1,6 @@
 # MARKETING — Coliving La Clarita
 *Embudo semanal y registro de experimentos. Regla: UN cambio por semana, medido contra el embudo, para saber qué funcionó.*
-*Última actualización: 2026-10-07*
+*Última actualización: 2026-10-10*
 
 ---
 
@@ -35,7 +35,11 @@
 | 2 | 2026-10-03 19:26 | Categoría "Solo habitación" → "Departamento/condominio" + descripción ajustada: línea de coliving en 2º lugar, "garantía con pagaré (sin depósito)" en lugar de "Depósito de garantía", Smart TV 32", sin "jóvenes", CTA sin "asegura tu espacio / cupos limitados" | La categoría lleva el anuncio a quien busca apartaestudio (para quien $1.5M es normal), no habitación barata → más mensajes por clic y mejor calidad | (a) mensajes por cada 100 clics (base 51/970 = 5,3%); (b) visitas donde el interesado esperaba un apartamento independiente (señal de que la línea de coliving no basta) | — |
 | 3 | 2026-10-06 | Guion de conversación más humano antes de agendar: (a) preguntar a qué se dedica, cómo es su rutina y quién responde por el pago; (b) contar que Felipe viaja desde Tenjo, para que la visita pese como compromiso mutuo. Anuncio con fotos reales del estado actual y fecha de entrega honesta | Las personas se caen en el momento de comprometerse (pedir WhatsApp, costo extra, confirmar hora), no por el precio. Interesarse por la persona y mostrar el esfuerzo del desplazamiento sube el compromiso con la visita | Visitas confirmadas → realizadas en los próximos 5 interesados | Parcial 2026-10-06: Fabián (reprogramación) — primero "¿cómo te fue en la entrevista?" en un mensaje aparte, sin propuesta de visita → respondió en 16 min con detalle. La visita se ofrece solo si él dice que quiere conocer el espacio. Regla derivada: trato humano e información paulatina (ver ficha, principios de las plantillas). |
 
-**Diagnóstico 2026-10-05 (0 cierres en ~15 días):** 0 de 3 visitas el lun 5. Hipótesis de Felipe: (1) falta de calidez — se pasa directo a "elige hora" sin interesarse por la persona (referencia: experiencia propia buscando habitación por Marketplace, donde preguntaron a qué se dedicaba y quién respondía por el pago); (2) la habitación de las fotos no es la que se muestra en la visita y se pide esperar — posible causa con Ronald; (3) quien busca habitación suele necesitarla en menos de una semana. Contraevidencia: Diego aceptaba el 14 oct y se fue por el costo de la moto, así que no estar lista no explica todas las caídas.
+**Diagnóstico 2026-10-05 (0 cierres en ~15 días):** 0 de 3 visitas el lun 5. Hipótesis de Felipe: (1) falta de calidez — se pasa directo a "elige hora" sin interesarse por la persona (referencia: experiencia propia buscando habitación por Marketplace, donde preguntaron a qué se dedicaba y quién respondía por el pago); (2) la habitación de las fotos no es la que se muestra en la visita y se pide esperar — posible causa con Ronald; (3) quien busca habitación suele necesitarla en menos de una semana. Contraevidencia: Diego aceptaba el 14 oct y se fue por el costo de la moto, así que no estar lista no explica todas las caídas. **Evidencia hipótesis 3 (2026-10-07):** Rick ("lo antes posible") y Uriel (necesita mitad de oct) — la demanda de mudanza inmediata se repite. Implicación: tener la habitación lista antes de anunciarla, no improvisar entregas parciales.
+
+**Observación 2026-10-10 — silencio después de los requisitos:** 3 de 3 se callan después de recibir la lista completa (Ronald 30 sep, Mark 2 oct, Pablo 8 oct). Dos lecturas no separables con 3 casos: (a) el filtro funciona (se retira quien no califica, sin costar viaje); (b) la lista completa antes de conocer el espacio asusta a quien sí califica. Candidato a exp. 4 si se repite en los próximos 5: requisitos resumidos en el chat ("documento, soporte de ingresos y referencias") y detalle en la visita.
+
+**Corrección pendiente (2026-10-07):** las fotos del anuncio son de la Hab 1 (arrendada). Hasta reemplazarlas por fotos de la Hab 2 amoblada, se aclara en la conversación que el de las fotos ya se arrendó y los siguientes son del mismo tipo (ver ficha). Reemplazar las fotos = corrección obligatoria, no experimento.
 
 **Correcciones de información (no son experimento):** ✅ hechas 2026-10-06 (parqueadero en "Precio y condiciones"; lavadora con costo por ciclo). Antes: aclarar en el anuncio el parqueadero (solo moto, $65.000/mes; bicicleta sin costo; sin carro — un amigo de Felipe no lo entendió en el post) y la zona de ropas (lavadora con fichas en la terraza).
 
@@ -63,6 +67,9 @@ Desde la línea base del 2 oct (970 clics) → +184 clics al 3 oct. Entre 2 y 3 
 | Lu | 6 oct 12:46 | ¿Está disponible? (ya descartada 25 sep: busca con bebé de 1 año) | Recomendado: reiterar "solo adultos" en una línea | — |
 | Dayana | 7 oct AM | ¿Sigue disponible? | Plantilla 1 nueva (12 m $1.400.000 / 6 m $1.450.000) | Pendiente |
 | Kevin Mauricio | 7 oct AM | ¿Sigue disponible? | Plantilla 1 nueva | Pendiente |
+| Uriel (reaparece, WhatsApp) | 7 oct 15:13 | ¿Aún sigue disponible? | "El de las fotos ya se arrendó; otros del mismo tipo desde 1 nov" | ❌ necesita mitad de oct |
+| Juan | 8 oct AM | ¿Sigue disponible? ¿Dirección exacta? | 1b: zona + plantilla 1 sin precio de 6 m | Pendiente |
+| Pablo | 8 oct | (respondió a la plantilla 1) | Secuencia 1d en piezas | ✅ siguió hasta requisitos → silencio |
 
 **Ritmo de mensajes 7 oct:** 2 chats nuevos a mediodía (vs. ~5,7/día de la línea base). Pendiente: captura de estadísticas (clics y chats acumulados) para separar visibilidad (clics/día) de conversión del anuncio ((chats − 63)/(clics − 1.154)). Si bajan los clics → siguiente experimento: renovar el anuncio (semana del 12 oct). No tocar el anuncio esta semana (exp. 3 corriendo, fecha cambiada el 6 oct).
 
