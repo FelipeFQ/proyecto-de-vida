@@ -109,6 +109,8 @@ Felipe tiende a subestimar el tiempo que toma ejecutar cosas, especialmente en p
 
 ---
 
+**Instancia (2026-10-08 a 10, viaje a Carmen de Apicalá):** de 12 pendientes en 3 días se cumplieron ~5 (movilidad jue/vie, video, medidas, datos del conjunto). Cayeron: guion del Ep. 1 (dos veces), mensaje al administrador (captación — olvidado), contrato de Javier, movilidad del sábado. Diagnóstico de Felipe: "subestimé la cantidad de tiempo y espacio que iba a tener". Un viaje familiar no es tiempo de trabajo: planear como máximo 1–2 tareas no ligadas al lugar.
+
 **Instancia (2026-10-05):** entrega de Hab 2 el 14 oct sostenida mientras dependía de compras sin cupo confirmado en la tarjeta y de un viaje de 3 días en medio. La dependencia apareció al revisar el calendario día por día. **Lo que funcionó:** Felipe mismo nombró que no era realista y propuso fijar una fecha honesta en vez de correrla. Regla: una fecha de entrega solo se publica cuando las compras ya llegaron.
 
 ### 6. No confiar en la tasa de interés anunciada al evaluar crédito
@@ -225,6 +227,9 @@ El Consejero no debe proponer viajes a La Clarita fuera de lun PM / sáb AM, ni 
 
 ### YouTube: el copy y los temas son de Felipe (2026-10-05)
 Felipe no quiere que Claude escriba guiones, títulos ni miniaturas, ni que sugiera temas de videos. Razón: desarrollar su propia habilidad de copywriting y mantener la originalidad en una época en que el contenido con IA suena genérico. Los temas salen de lo que él ha vivido; el contenido es evergreen, así que no hay prisa por usar un tema. **El Consejero solo ayuda con calendario y producción** (cuándo escribir, grabar, editar, publicar). No aplica al copy de Marketplace de La Clarita.
+
+### Investigación de mercado con criterio propio (2026-10-09)
+En Carmen de Apicalá, Felipe detectó por su cuenta 4 apartamentos en venta en el mismo conjunto y armó la investigación de competencia. Corrigió dos veces la lectura del Consejero con datos de primera mano (el anuncio de $250M ya no existía; el de $240M había bajado a $220M) y señaló que inferir que un apto "vendido" se vendió al precio pedido es un error. Eligió WhatsApp sobre llamadas para obtener datos verificables. **Refuerzo:** cuando Felipe trae datos de campo, priorizarlos sobre búsquedas web.
 
 ### Visitas de inquilinos = sesión diagnóstico (2026-10-02)
 

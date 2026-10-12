@@ -22,7 +22,7 @@ Actividad económica esporádica: mercadeo de propiedades para conocidos y famil
 | Responsable del mercadeo | Felipe |
 | Comisión acordada | 3% sobre precio final de venta |
 | Comisión estimada | $6,600,000 COP |
-| Estado | Sin interesados activos al 21 junio 2026 — publicado desde 15 mayo sin contactos confirmados |
+| Estado | Primer interesado real: Marketplace, 11 oct 2026. Video grabado (9 oct). Precio único $220M confirmado con el abuelo; piso ~$210M por cerrar |
 | Video y letrero físico | ❌ Congelados — requieren viaje presencial a Carmen de Apicalá imposible durante obra en Bogotá |
 | Timeline realista | Comisión no disponible antes de Q4 2026 — más probablemente 2027 |
 | Libre de hipoteca | Sí — escrituras a nombre de los abuelos, sin deudas de administración |
@@ -49,6 +49,7 @@ Llamadas y mensajes a la competencia del conjunto (9 oct): ver `finanzas/carmen_
 | Metrocuadrado 2469-M6852417 (web, sin verificar) | $240M | 63 | $3,81M | Admin $300k. Acepta permuta |
 | Metrocuadrado 23253-M6984946 | ~~$250M~~ — **ya no está publicado** | 63 | — | Piso 6, esquinero, 2 parqueaderos. Retirado (¿vendido?, desconocido) |
 | Mitula / Keeperomega (web, sin verificar) | $230M | 63 | $3,65M | Piso 5, 2022 |
+| T2 piso 6 (vendedora particular, WhatsApp) | "En descuento" — por confirmar | — | — | Llamada pendiente: precio actual vs anterior, m², parqueaderos, amoblado/aire, tiempo en venta, por qué el descuento |
 | **Nuestro** T1 piso 4 | $220M / $250M | 62,14 | $3,54M / $4,02M | Parqueadero doble, amoblado |
 
 **Segunda recalibración (9 oct, datos de Felipe):** el de $250M ya no está publicado y uno de $240M se re-publicó a $220M. Los precios vigentes verificados son $200M (negociable) y $220M → ~$3,5M/m². $220M es el precio de mercado; $250M no tiene un comparable vigente. Primera recalibración (superada): los precios PEDIDOS en el conjunto van de $200M a $250M (promedio ~$3,75M/m² → ~$233M para nuestro apto). $250M está en el techo del rango pedido, no fuera de él; el comparable más cercano (2 parqueaderos, piso 6) pide $250M. Pero son precios pedidos, no de cierre: no hay evidencia de ventas cerradas. Lectura anterior (1 dato): ese apto lleva ≥4,5 meses sin venderse a $200M negociables, igual que el nuestro (~5 meses a $220M). El mercado del conjunto es lento incluso a ~$3,5M/m². Lectura anterior: el precio real de cierre de ese apto está por debajo de $200M (negociable) → ~$3,3–3,4M/m² si cierra en $190M. a $220M estamos al mismo $/m² con más área, parqueadero doble y muebles; a $250M quedaríamos ~15% por encima por m².
@@ -101,6 +102,14 @@ Para agendar visita: 304 538 2746
 - ~~Timeline crítico (mayo 2026): oferta jul → cierre ago → dinero oct-nov 2026~~ — vencido. **Urgencia actualizada (2026-10-06):** el abuelo ya acepta que la casa de campo en Chaneque (Santander) no arranca en 2026 — primero se cierra La Clarita — pero quiere que la venta sea rápida. Tensión a nombrar: rápido y $250M no son compatibles con el mercado (unidades a $200–205M llevaban 8–10 meses sin vender en mayo).
 - **Forma de pago aceptada:** contado o crédito hipotecario (cierre 2–3 meses más). En ambos casos el dinero llega a la cuenta de ahorros del abuelo o la abuela.
 - **Visitas:** Felipe presenta todas. Los abuelos pueden asistir. Cada visita = viaje de 2–3 días (4 h por trayecto), con gastos a cargo de los abuelos.
+
+---
+
+## INTERESADOS
+
+| Fecha | Canal | Nombre | Uso | Plazo | Pago | Etapa | Próxima acción |
+|---|---|---|---|---|---|---|---|
+| 2026-10-11 | Marketplace | (por registrar) | — | — | — | Respuesta: datos clave + $220M + pregunta de uso | Si responde: pedir WhatsApp + llamada de 10 min |
 
 ---
 
@@ -179,3 +188,4 @@ Se agenda visita presencial solo si cumple **las cuatro**:
 - Junio 2026 (21): Sin interesados activos a 37 días de publicación. Video y letrero físico congelados — requieren viaje a Carmen de Apicalá imposible durante obra. Timeline de comisión ajustado: Q4 2026 en el mejor caso, probablemente 2027. Urgencia de abuelos (oct-nov 2026) sigue vigente pero difícilmente alcanzable.
 - Julio 2026 (13): viaje a Carmen de Apicalá confirmado en 4 horas por trayecto — una visita representa un día completo de trabajo. Plan de reactivación: un viaje dedicado (agosto/septiembre 2026, tras el fin de la obra en Bogotá) para grabar el video pendiente + instalar el letrero físico + reactivar el anuncio online. A partir de ahí, precalificación obligatoria por llamada/videollamada antes de agendar cualquier visita presencial — el costo de un viaje mal calificado es demasiado alto para no filtrar antes.
 - Octubre 2026 (06): Guion de precalificación escrito. Datos del inmueble completados (distribución, conjunto, amoblado, Airbnb permitido). Detectados dos precios en circulación ($220M vs $250M amoblado) — unificar con el abuelo en el viaje. Urgencia del abuelo actualizada.
+- Octubre 2026 (8–10): Viaje. Video grabado, medidas del letrero (baranda), datos de administración/estrato/predial/BBQ, porteros y farmacia reciben volantes. Investigación de competencia (5 anuncios). Precio único $220M. Primer interesado por Marketplace (11 oct).
