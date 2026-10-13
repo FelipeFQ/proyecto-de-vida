@@ -36,7 +36,7 @@ Todo lo demás es secundario o se alimenta de esos dos.
 ## 3. Metas Concretas del Trimestre
 
 ### La Clarita — Prioridad 1
-- **Meta al 31 dic:** 6/6 habitaciones arrendadas (aspiración) · **mínimo 4/6** (compromiso — coincide con el ritmo base del modelo: Hab 2 oct, Hab 3 nov, Hab 4 dic).
+- **Meta al 31 dic:** 6/6 habitaciones arrendadas (aspiración) · **mínimo 4/6** (compromiso — coincide con el ritmo base del modelo: Hab 2 oct, Hab 3 nov, Hab 4 dic). **Modelo de amoblado secuencial (2026-10-13):** cada habitación se compra cuando se arrienda la anterior (el abuelo abona a la tarjeta para liberar cupo); cada una toma 1–2 semanas de entregas con presencia diaria de Felipe entre semana (los sábados recibe Javier). 4/6 es la meta realista.
 - Hab 2 y 3 con contrato firmado antes del 31 oct.
 - ~~Conversación de comisión con los abuelos antes del 31 oct~~ ✅ 2026-10-06: **25% de la ganancia neta desde nov 2026**.
 - Fecha realista de entrega de Hab 4 antes del 15 oct.
@@ -45,7 +45,7 @@ Todo lo demás es secundario o se alimenta de esos dos.
 
 ### Coaching — Prioridad 1
 - **Meta al 31 dic: 3 clientes pagando.**
-- 1.ª charla en el salón social del conjunto propio: **agendada antes del 17 oct, ejecutada antes del 8 nov.** Tema: *los buenos y los malos hábitos tienen el mismo denominador común: el entorno.* Cierra con oferta concreta de sesión diagnóstico (cupo limitado).
+- 1.ª charla en el salón social del conjunto propio: ~~agendada antes del 17 oct, ejecutada antes del 8 nov~~ → **ajuste 2026-10-13: sábado PM (único horario compatible con las entregas de La Clarita y los entrenos). Pedir sáb 8 nov (respaldo sáb 15 nov) en reunión con el administrador sáb 17 oct 11:00.** Tema: *los buenos y los malos hábitos tienen el mismo denominador común: el entorno.* Cierra con oferta concreta de sesión diagnóstico (cupo limitado).
 - 3 charlas en Q4 (siguiente en el mismo conjunto o en el otro, según resultado de la primera) · 6 sesiones diagnóstico.
 - Amplificación por voz a voz: vecinos cercanos (padres de Esteban Chaves) — compartir la invitación entre vecinos. **No usar nombres ajenos como credencial en la promoción.**
 - Oferta de entrada corta (8–12 semanas, resultado concreto, protocolo más prescriptivo al inicio) diseñada antes de la 1.ª charla.
@@ -60,7 +60,7 @@ Todo lo demás es secundario o se alimenta de esos dos.
 
 ### YouTube — Prioridad 2
 - **Serie "el regreso":** un coach de hábitos que dejó de entrenar 4 meses y reconstruye el hábito en público usando su propio método.
-  - Ep. 1 — "Dejé de entrenar 4 meses siendo coach de hábitos" (por qué los hábitos se caen cuando cambia el entorno). **Publicado antes del 17 oct.**
+  - Ep. 1 — "Dejé de entrenar 4 meses siendo coach de hábitos" (por qué los hábitos se caen cuando cambia el entorno). ~~Publicado antes del 17 oct~~ → **~24 oct** (2026-10-13: la semana 13–17 se va en entregas de La Clarita, prioridad 1).
   - Ep. 2 — Valoración de fisio + nueva línea base (medir antes de cambiar).
   - Ep. 3 — Primeras 2 semanas: lo que tiene compromiso externo se cumple.
 - **Mínimo:** 1 video cada 2 semanas (~6 en Q4) + avance fijo del curso del mentor (bloque del miércoles).
