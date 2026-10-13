@@ -194,17 +194,17 @@
 |---|---|---|
 | **Mar 13** | Recibir · armar lo que llegue · rehab allá · contrato de Javier (empezar) · ☐ mensaje al administrador: cita sáb 17 11:00 | Entreno 19:00 |
 | **Mié 14** | Recibir · armar · contrato de Javier (terminar) · 15:00 Juana (desde allá si es virtual) | — |
-| **Jue 15** | Recibir · armar · organizar la casa | Entreno 19:00 |
+| **Jue 15** | Recibir · armar · organizar la casa · ☐ **diseño letrero (2,50 × 0,95) + volantes de Carmen** en Canva (máx. 2 h) | Entreno 19:00 |
 | **Vie 16** | Recibir · armar · ☐ Javier firma el contrato al llegar (~16:00) | Entreno 19:00 |
 | **Sáb 17** | (Javier recibe) · 11:00 ☐ **administrador en persona** → pedir charla sáb 8 nov PM (respaldo 15 nov) | Holgura |
 | **Dom 18** | Libre (guion Ep. 1 solo si apetece) | — |
 
 Todos los días: movilidad/rehab · Modo Concentración 8–11 · Marketplace 11/14/18 · si la fisio da fechas, agendar la más cercana. Salir de La Clarita ~16:00 para llegar al entreno.
-Fuera de esta semana (a propósito): Ep. 1 (→ ~24 oct), letrero y volantes de Carmen (→ semana del 20).
+Fuera de esta semana (a propósito): Ep. 1 (→ ~24 oct). Letrero y volantes de Carmen: **diseño jue 15** (en la espera de La Clarita); antes, el abuelo confirma con la administración de Carmen si se permite en la baranda; impresión e instalación por definir (¿quién lo pone sin viajar?).
 
 **Compromisos enviados a Simón:** (1) Hab 2 recibida y armada + contrato de Javier firmado el viernes; (2) administrador en persona sáb 17 → fecha de la charla; (3) 3 entrenos + rehab diaria. Ep. 1 se mueve a la semana siguiente.
 
-**Semana siguiente (20–24 oct):** estructura de la charla + 3 min de apertura (2 bloques deep work) · guion/grabación/edición Ep. 1 · diseño letrero y volantes de Carmen · valoración fisio (si hay fecha).
+**Semana siguiente (20–24 oct):** estructura de la charla + 3 min de apertura (2 bloques deep work) · guion/grabación/edición Ep. 1 · imprimir letrero y volantes de Carmen + definir instalación · valoración fisio (si hay fecha).
 
 ---
 
