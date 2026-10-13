@@ -15,8 +15,9 @@ Actividad económica esporádica: mercadeo de propiedades para conocidos y famil
 | Conjunto | Piscina adultos + piscina niños, zona BBQ (por confirmar si se alquila o se pide permiso), portería y vigilancia 24 h. Permite arriendo vacacional (hay unidades en Airbnb) |
 | Ocupación y mobiliario | Desocupado. Se vende amoblado (preferido — no hay dónde guardar los muebles): camarotes, cama doble, closets, persianas, ventiladores, nevera, microondas, estufa, lavadora. Opción sin amoblar |
 | Conjunto (nombre) | Arenitas Riviera PH · **Estrato 3** (confirmado por ficha de un apto del mismo conjunto, 9 oct 2026) |
-| Administración | Referencia: $263k/mes en T1 piso 8 (57 m²). Estimado nuestro ~$287k si se cobra por coeficiente de área — confirmar |
-| Pendientes de dato | Administración exacta · predial aproximado |
+| Administración | **$275.000/mes** (confirmado oct 2026) |
+| Predial | Especial: el conjunto (construcción ≤5 años, antes era un hotel) aún **no está desenglobado catastralmente** — se paga un predial global del terreno dividido entre ~194–195 aptos. Este año ~**$60.000** por apto, cobrado una vez al año como cuota extraordinaria o sumado a una administración. ⚠️ Decirlo al comprador: cuando se haga el desenglobe, el predial individual subirá |
+| Zona BBQ | Junto a la piscina, con parrilla, de uso de los residentes para eventos (por confirmar si se reserva o tiene costo) |
 | Propietarios | Abuelos |
 | Precio de venta | $220,000,000 COP publicado (acordado con abuelo el 15 mayo 2026). ⚠️ **Dos precios en circulación (2026-10-06):** hace ~2 semanas los abuelos dijeron $250M amoblado a una pareja (instaladores de cortinas). Sin piso de negociación definido. Unificar con el abuelo antes de reactivar el anuncio con el video. |
 | Responsable del mercadeo | Felipe |
@@ -168,9 +169,9 @@ Se agenda visita presencial solo si cumple **las cuatro**:
 - **Precio en la visita:** Felipe presenta. Nadie da cifras de descuento frente al comprador, tampoco los abuelos. Toda oferta se responde después: "lo hablamos y te respondo [fecha]". Acordarlo con los abuelos antes de la primera visita.
 
 ### Pendientes para el viaje del 8–10 oct
-- Administración, estrato y predial (portería/administración del conjunto).
-- Si la zona BBQ se alquila o solo se pide permiso.
-- Conversación de precio único + piso con el abuelo (rápido vs. $250M).
+- ✅ Administración ($275k), estrato (3) y predial (~$60k/año, conjunto sin desenglobar).
+- 🔄 Zona BBQ: existe junto a la piscina; falta saber si se reserva/cobra.
+- ✅ Precio único $220M. Piso ~$210M por cerrar con el abuelo.
 
 ---
 
