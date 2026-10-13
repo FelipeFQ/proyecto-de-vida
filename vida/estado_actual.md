@@ -192,7 +192,7 @@
 
 | Día | En La Clarita (≈9:00–16:00) | Noche |
 |---|---|---|
-| **Mar 13** | Recibir · armar lo que llegue · rehab allá · contrato de Javier (empezar) · ☐ mensaje al administrador: cita sáb 17 11:00 | Entreno 19:00 |
+| **Mar 13** | Recibir · armar lo que llegue · rehab allá · contrato de Javier (empezar) · ✅ mensaje al administrador (Diego Amortegui): cita sáb 17 11:00 pedida, sin respuesta aún | Entreno 19:00 |
 | **Mié 14** | Recibir · armar · contrato de Javier (terminar) · 15:00 Juana (desde allá si es virtual) | — |
 | **Jue 15** | Recibir · armar · organizar la casa · ☐ **diseño letrero (2,50 × 0,95) + volantes de Carmen** en Canva (máx. 2 h) | Entreno 19:00 |
 | **Vie 16** | Recibir · armar · ☐ Javier firma el contrato al llegar (~16:00) | Entreno 19:00 |

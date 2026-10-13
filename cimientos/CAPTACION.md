@@ -58,7 +58,8 @@ Al final de la charla se ofrece la sesión diagnóstico gratuita como continuaci
 - **Amplificación:** vecinos cercanos (padres de Esteban Chaves) por voz a voz en grupos del conjunto. Regla: no usar nombres ajenos como credencial en la promoción.
 - **Fechas (ajuste 2026-10-13):** reunión en persona con el administrador **sáb 17 oct, 11:00** (mensaje pidiendo la cita mar 13). Pedir **sábado 8 nov en la tarde**; respaldo sáb 15 nov (no más tarde: diciembre rinde la mitad y la lectura del gatillo es el 31 ene). Sábado porque entre semana las entregas de La Clarita son impredecibles. 3 charlas en Q4 sigue como aspiración.
 - **Preparación (contando hacia atrás desde el 8 nov):** 20–24 oct estructura + 3 min de apertura (2 bloques deep work) · 27–31 oct presentación (máx. 10 diapositivas) + afiche; afiche a la administración ~29 oct · 3–7 nov 2 ensayos en voz alta (uno con público: Simón o familia; se pueden hacer en las esperas de La Clarita). Cuidado con el sesgo 1: la primera charla es un experimento — idea clara, historia propia, oferta al final.
-- **Administrador:** atiende en persona lun 17–20, jue 9–12, sáb 11–13. Número de WhatsApp conseguido.
+- **Administrador:** Diego Amortegui ("Don Diego"; trato de usted/sumercé). Atiende en persona lun 17–20, jue 9–12, sáb 11–13. Contacto por WhatsApp. Felipe se presenta como residente de la casa K13.
+- **Contacto 13 oct:** saludo 3:31 p.m. → respondió 5:07 p.m. ("¿en qué le puedo colaborar?") → Felipe pidió cita en persona sáb 17 oct 11:00 para proponer "una actividad para los residentes". Sin respuesta aún. Pendiente: confirmación + recordatorio vie 16 en la noche (si no responde antes del vie, ir igual el sáb 11:00 — es su horario de atención).
 - **Embudo esperado (supuesto a validar):** 10–15 asistentes → 2–3 diagnósticos → ~1 cliente por charla.
 
 ---
