@@ -23,7 +23,7 @@
 |---|---|---|---|
 | 1 | A | ✅ Arrendada — Javier Roa, desde 15 sep 2026 (inquilino de ~3 años, tarifa especial) | $1.250.000 |
 | 2 | A | En comercialización — entrega **24 oct 2026** (decidido 2026-10-14; es la que se muestra en visitas) | $1.500.000 |
-| 3 | A | En comercialización — entrega tentativa **1 nov 2026** | $1.500.000 |
+| 3 | A | Por amoblar — nada comprado ni armado. Se amobla después de arrendar la Hab 2; entrega estimada **mediados de nov 2026** (no anunciar fecha) | $1.500.000 |
 | 4 | A | Disponible — fecha de entrega por definir | $1.500.000 publicado (rendición asume mínimo $1.350.000) |
 | 5 | B | Por adecuar — se habilita tras arrendar las Tipo A | ~$1.100.000 (proyectado) |
 | 6 | B | Por adecuar — se habilita tras arrendar las Tipo A | ~$1.100.000 (proyectado) |
@@ -36,7 +36,7 @@
 
 **Decisión 2026-10-06:** la entrega del 14 oct no es realista (compra de muebles rechazada por cupo de la tarjeta; Felipe en Bogotá solo después del 12 oct). Nueva fecha tentativa: **1 nov 2026**. En mensajes: "con entrega desde el 1 de noviembre", sin más detalle. A quien ya recibió el 14 oct (Fabián) se le avisa del cambio antes de la visita.
 
-**Decisión 2026-10-14:** Hab 2 se entrega desde el **24 oct**. Muebles comprados en Mercado Libre; escritorio y clóset ya armados. Faltan base cama, colchón, nevera y microondas (llegan 16–21 oct) + filtro de agua; Felipe arma en un día. Si el 21 oct falta algo, avisar ese mismo día a quien esté en proceso. En mensajes: "la entrega es a partir del 24 de octubre". Hab 3 sigue en 1 nov. Al armarla: tomar fotos para reemplazar las del anuncio (hoy son de la Hab 1).
+**Decisión 2026-10-14:** Hab 2 se entrega desde el **24 oct**. Muebles comprados en Mercado Libre; escritorio y clóset ya armados. Faltan base cama, colchón, nevera y microondas (llegan 16–21 oct) + filtro de agua; Felipe arma en un día. Si el 21 oct falta algo, avisar ese mismo día a quien esté en proceso. En mensajes: "la entrega es a partir del 24 de octubre". Hab 3: sin muebles; depende de arrendar la Hab 2 (estimado mediados de nov). Al armarla: tomar fotos para reemplazar las del anuncio (hoy son de la Hab 1).
 
 **Dotación Tipo A:** cama semidoble (colchón pullman + protector), mesa de noche + lámpara, escritorio 120 cm + silla ergonómica + lámpara, clóset 120 cm, TV 32" smart con soporte, nevera minibar, microondas, filtro de agua, vajilla 2 puestos y utensilios, mesón abatible, baño con accesorios completos. Inventario y costos reales: hoja *Mobiliario* de `Rendicion_Cuentas_La_Clarita.xlsx`.
 
