@@ -23,7 +23,7 @@
 |---|---|---|---|
 | 1 | A | ✅ Arrendada — Javier Roa, desde 15 sep 2026 (inquilino de ~3 años, tarifa especial) | $1.250.000 |
 | 2 | A | En comercialización — entrega **24 oct 2026** (decidido 2026-10-14; es la que se muestra en visitas) | $1.500.000 |
-| 3 | A | Por amoblar — nada comprado ni armado. Se amobla después de arrendar la Hab 2; entrega estimada **mediados de nov 2026** (no anunciar fecha) | $1.500.000 |
+| 3 | A | Por amoblar — nada comprado ni armado. **Decisión 2026-10-14: todo el mobiliario de la Hab 3 se compra apenas se firme el contrato de la Hab 2**; entrega estimada **mediados de nov 2026** (no anunciar fecha) | $1.500.000 |
 | 4 | A | Disponible — fecha de entrega por definir | $1.500.000 publicado (rendición asume mínimo $1.350.000) |
 | 5 | B | Por adecuar — se habilita tras arrendar las Tipo A | ~$1.100.000 (proyectado) |
 | 6 | B | Por adecuar — se habilita tras arrendar las Tipo A | ~$1.100.000 (proyectado) |
