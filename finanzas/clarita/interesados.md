@@ -1,6 +1,6 @@
 # INTERESADOS — Coliving La Clarita
 *Solo se registran interesados calificados (respondieron después del primer mensaje o agendaron visita). Los chats que solo enviaron "¿sigue disponible?" no entran.*
-*Última actualización: 2026-10-10*
+*Última actualización: 2026-10-14*
 
 **Etapas:** Calificado → Visita agendada → Visita hecha → Documentos → Contrato → ✅ Firmado / ❌ Perdido
 
@@ -16,12 +16,18 @@
 | Fabián | (recibido) | 2 o 3 | Reprogramación | 2026-10-07 — sigue interesado, espera el documento de su contratación. Se le avisó entrega 1 nov y se le preguntó para cuándo espera el documento | Esperar fecha del documento. Visita lun 12 o mar 13, 16:00 si ya tiene noticias o si ese día hay otra visita | — |
 | Rick | — | 2 o 3 | Calificado | 2026-10-07 — dijo "lo antes posible"; se le preguntó si le sirve desde el 1 nov | Si sí → pieza "casa compartida" (1d). Si no → ❌ | — |
 | Pablo | — (no lo dio) | 2 o 3 | Calificado (sin respuesta) | 2026-10-08 16:42 — recibió casa compartida, fotos = Hab 1, reglas (aceptó), moto $65.000 (aceptó), requisitos + visita lun 12 15:00/16:00. Visto, sin respuesta | Sin follow-up. Si reaparece, retomar desde la hora de visita y pedir WhatsApp | — |
+| Fabián A. (Avianca) | — | 2 | Calificado | 2026-10-10 — vive solo, plazo indefinido ("me tendré que quedar en Bogotá"), quiere mudarse ~24 oct. Sede Avianca a ~15 min (17 carro / 13 moto). Se le dijo $1.400.000 (12 m) y que el de las fotos ya se arrendó | Avisarle que la Hab 2 se entrega desde el 24 oct → piezas 1d → visita | — |
+| Ale | — | 2 | Calificado | 2026-10-14 — pareja (corrigió de 3 a 2 personas); 1 contrato laboral + 1 independiente con RUT 3 años, 2–3 SMLMV; codeudor con finca raíz; quería mudarse el 20 oct. Se le envió: máx. 2 personas, $1.700.000 (12 m) / $1.800.000 (cortos) por servicios de la 2ª persona, requisitos (RUT para independiente), entrega desde 24 oct | Esperar si le sirve el 24 → piezas casa compartida + reglas → visita | — |
+| Nath | — | 2 | Visita por agendar | 2026-10-12 — vive sola, 12 meses "súper bien", novio de visita ocasional (pasa más tiempo donde él); se le explicó pernoctación $10.000/noche (sin mencionar 2 ocupantes). Le sirve noviembre. Trabaja desde Pitalito esta semana; pidió ver el sábado → se le dijo sáb 17 en la tarde y se le preguntó a qué se dedica (exp. 3) | Piezas 1d durante la semana → hora sáb 17 (15:00) → confirmación vie noche | 2026-10-17 |
+| Amparo | — | 2 | Calificado | 2026-10-12 — pidió ver y dirección exacta. Se le envió 1b + zona + visitas sáb 17 en la tarde | Si responde: piezas 1d → hora sáb 17 (16:00 si Nath toma 15:00) | 2026-10-17 |
+| Juan | (tiene el WhatsApp de Felipe) | 2 | Calificado | 2026-10-11 — pidió visita "para hoy" y dirección; se le dio zona + link del barrio + WhatsApp + pieza casa compartida. Volvió a pedir el número (no leyó el mensaje largo) | Por WhatsApp, piezas cortas de a una. Observar si lee (en visita: preguntar qué entendió de las reglas). Descarte solo por criterios objetivos | — |
 | Mark | — | 2 o 3 | Calificado (sin respuesta) | 2026-10-02 — preguntó documentos; se le enviaron requisitos + resumen. No respondió | Sin follow-up. Si reaparece, plantilla 1c | — |
 
 **Lista de aviso Tipo B (~$1.100.000, sin fecha):**
 
 | Nombre | Canal | Presupuesto | Estado |
 |---|---|---|---|
+| (Publicación grupo FB, 14 oct) | Grupo de Facebook | $800.000–1.300.000, acepta compartir | No se le escribió: zona (Polo/Héroes/Barrios Unidos) y precio no encajan con Tipo A. Referencia para Tipo B |
 | Alejandra | Marketplace | $1.200.000 | 2026-10-07: se le dijo Tipo A $1.400.000 (12 m) y que vendrán habitaciones más sencillas ~$1.100.000; se le preguntó si quiere aviso. Pendiente respuesta |
 
 **Resultado lun 5 oct:** 0 de 3 visitas. Oscar no confirmó (17:00), Fabián canceló (16:00), Juan David no respondió (15:00). Diego dejó en visto tras el costo de la moto.

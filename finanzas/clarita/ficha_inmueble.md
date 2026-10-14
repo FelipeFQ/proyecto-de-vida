@@ -113,7 +113,7 @@
 >
 > El espacio sería solo para ti o para dos personas?
 
-*Si preguntan la ubicación (1b), la respuesta directa es: "Queda en el barrio La Clarita, sobre la Av. Ciudad de Cali con Calle 72. La dirección exacta te la comparto cuando agendemos la visita." El precio de 6 meses ($1.450.000) no va en el primer mensaje: se da cuando pregunten o cuando se hable del plazo (2026-10-08).*
+*Si preguntan la ubicación (1b) — respuesta rápida guardada (2026-10-12): "Hola [Nombre], cómo estás? Sí está disponible, con entrega a partir del [fecha]. Queda en el barrio La Clarita (Engativá), sobre la Calle 72 con Avenida Ciudad de Cali, con transporte directo a la Calle 80, la Calle 26 y el aeropuerto: https://maps.app.goo.gl/aPSMLYT1bQmjKnLZ9" + párrafo de precio de la plantilla 1 + "El espacio sería solo para ti?". Si preguntan si es "en las afueras": "No, queda dentro de Bogotá…" + "Hacia qué zona te mueves normalmente? Así te digo cómo te quedaría." Versión corta anterior: "Queda en el barrio La Clarita, sobre la Av. Ciudad de Cali con Calle 72. La dirección exacta te la comparto cuando agendemos la visita." El precio de 6 meses ($1.450.000) no va en el primer mensaje: se da cuando pregunten o cuando se hable del plazo (2026-10-08).*
 
 *Fotos del anuncio = Hab 1 (arrendada). Cuando pregunten por fotos o por el espacio: "El de las fotos ya se arrendó; el que te mostraría es del mismo tipo (misma distribución y dotación). Las fotos te sirven de referencia." Si la visita es antes de amoblar, avisarlo antes.*
 
@@ -130,7 +130,8 @@
 - **Casa compartida** (cuando pregunten por el espacio, o al hablar de su rutina): "Es un apartaestudio independiente dentro de una casa coliving: tu baño y tu cocina son privados, y la terraza, la lavandería y las zonas comunes se comparten con los demás inquilinos."
 - **Reglas** (cuando hablen de rutina, visitas o hábitos): "Algo importante para la convivencia: no se permite el consumo de sustancias psicoactivas en la casa (tabaco, alcohol, marihuana, vapes u otras) y no recibimos mascotas."
 - **Requisitos** (cuando quiera conocerlo): "Para el contrato pedimos documento de identidad, carta laboral o contrato de trabajo, extractos de los últimos 3 meses y dos referencias. La garantía es con pagaré, sin depósito."
-- **Zona + visita** (al final): "Queda en La Clarita, sobre la Av. Ciudad de Cali con Calle 72. La dirección exacta te la paso por WhatsApp cuando agendemos." + una hora concreta.
+- **Zona + visita** (al final): "Queda en La Clarita, sobre la Av. Ciudad de Cali con Calle 72. La dirección exacta te la paso por WhatsApp cuando agendemos." + una hora concreta. Si piden la dirección antes de agendar: enviar el link del barrio (https://maps.app.goo.gl/aPSMLYT1bQmjKnLZ9), sin dirección exacta.
+- **Segunda persona:** al dar el precio para pareja, justificarlo: "$300.000 más por la segunda persona para cubrir el consumo adicional de agua, luz, gas e internet". Con una visita de pareja ocasional, explicar solo la pernoctación ($10.000/noche, máx. 5); el ajuste a 2 ocupantes se explica en la visita si la frecuencia lo amerita, siempre con el número (nunca "un cargo adicional" sin cifra).
 
 
 **2. Agendar visita** (ofrecer citas en las próximas 48 h, dentro de la ventana de visitas)

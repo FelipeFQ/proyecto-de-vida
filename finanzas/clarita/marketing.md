@@ -1,6 +1,6 @@
 # MARKETING — Coliving La Clarita
 *Embudo semanal y registro de experimentos. Regla: UN cambio por semana, medido contra el embudo, para saber qué funcionó.*
-*Última actualización: 2026-10-10*
+*Última actualización: 2026-10-14*
 
 ---
 
@@ -33,7 +33,7 @@
 |---|---|---|---|---|---|
 | 1 | 2026-10-02 | Primera respuesta: de "Sí, el apartaestudio sigue disponible. ¿Te gustaría coordinar una visita para conocerlo o tienes alguna duda sobre la ubicación o las características del inmueble?" (control) a la plantilla 1 de la ficha: fecha + precio + qué incluye + "¿Vivirías solo/a o con alguien más?" | Más personas responden y las que siguen llegan mejor filtradas (ya conocen precio y fecha) | (a) % que sigue después del 1er mensaje (base 29%); (b) % que pide visita (base 4/51 = 8%) | Parcial 2026-10-03: 6/6 chats registrados siguieron (Luis, Uriel, Carlos, Juan David, Fabián, Oscar) + Mark y Jesús con preguntas concretas. Falta contar los que no respondieron para el % real. Cambian dos cosas a la vez (información + tipo de pregunta). Visitas: de 5 que pidieron visita, 1 confirmada (Fabián) |
 | 2 | 2026-10-03 19:26 | Categoría "Solo habitación" → "Departamento/condominio" + descripción ajustada: línea de coliving en 2º lugar, "garantía con pagaré (sin depósito)" en lugar de "Depósito de garantía", Smart TV 32", sin "jóvenes", CTA sin "asegura tu espacio / cupos limitados" | La categoría lleva el anuncio a quien busca apartaestudio (para quien $1.5M es normal), no habitación barata → más mensajes por clic y mejor calidad | (a) mensajes por cada 100 clics (base 51/970 = 5,3%); (b) visitas donde el interesado esperaba un apartamento independiente (señal de que la línea de coliving no basta) | — |
-| 3 | 2026-10-06 | Guion de conversación más humano antes de agendar: (a) preguntar a qué se dedica, cómo es su rutina y quién responde por el pago; (b) contar que Felipe viaja desde Tenjo, para que la visita pese como compromiso mutuo. Anuncio con fotos reales del estado actual y fecha de entrega honesta | Las personas se caen en el momento de comprometerse (pedir WhatsApp, costo extra, confirmar hora), no por el precio. Interesarse por la persona y mostrar el esfuerzo del desplazamiento sube el compromiso con la visita | Visitas confirmadas → realizadas en los próximos 5 interesados | Parcial 2026-10-06: Fabián (reprogramación) — primero "¿cómo te fue en la entrevista?" en un mensaje aparte, sin propuesta de visita → respondió en 16 min con detalle. La visita se ofrece solo si él dice que quiere conocer el espacio. Regla derivada: trato humano e información paulatina (ver ficha, principios de las plantillas). |
+| 3 | 2026-10-06 | Guion de conversación más humano antes de agendar: (a) preguntar a qué se dedica, cómo es su rutina y quién responde por el pago; (b) contar que Felipe viaja desde Tenjo, para que la visita pese como compromiso mutuo. Anuncio con fotos reales del estado actual y fecha de entrega honesta | Las personas se caen en el momento de comprometerse (pedir WhatsApp, costo extra, confirmar hora), no por el precio. Interesarse por la persona y mostrar el esfuerzo del desplazamiento sube el compromiso con la visita | Visitas confirmadas → realizadas en los próximos 5 interesados | Parcial 2026-10-06: Fabián (reprogramación) — primero "¿cómo te fue en la entrevista?" en un mensaje aparte, sin propuesta de visita → respondió en 16 min con detalle. La visita se ofrece solo si él dice que quiere conocer el espacio. Regla derivada: trato humano e información paulatina (ver ficha, principios de las plantillas). 2026-10-12: Nath — antes de las piezas de coliving se le preguntó por ella ("me da curiosidad, a qué te dedicas? sueles viajar con frecuencia?"), propuesta de Felipe. Medir si llega a la visita del sáb 17. |
 
 **Diagnóstico 2026-10-05 (0 cierres en ~15 días):** 0 de 3 visitas el lun 5. Hipótesis de Felipe: (1) falta de calidez — se pasa directo a "elige hora" sin interesarse por la persona (referencia: experiencia propia buscando habitación por Marketplace, donde preguntaron a qué se dedicaba y quién respondía por el pago); (2) la habitación de las fotos no es la que se muestra en la visita y se pide esperar — posible causa con Ronald; (3) quien busca habitación suele necesitarla en menos de una semana. Contraevidencia: Diego aceptaba el 14 oct y se fue por el costo de la moto, así que no estar lista no explica todas las caídas. **Evidencia hipótesis 3 (2026-10-07):** Rick ("lo antes posible") y Uriel (necesita mitad de oct) — la demanda de mudanza inmediata se repite. Implicación: tener la habitación lista antes de anunciarla, no improvisar entregas parciales.
 
@@ -70,10 +70,20 @@ Desde la línea base del 2 oct (970 clics) → +184 clics al 3 oct. Entre 2 y 3 
 | Uriel (reaparece, WhatsApp) | 7 oct 15:13 | ¿Aún sigue disponible? | "El de las fotos ya se arrendó; otros del mismo tipo desde 1 nov" | ❌ necesita mitad de oct |
 | Juan | 8 oct AM | ¿Sigue disponible? ¿Dirección exacta? | 1b: zona + plantilla 1 sin precio de 6 m | Pendiente |
 | Pablo | 8 oct | (respondió a la plantilla 1) | Secuencia 1d en piezas | ✅ siguió hasta requisitos → silencio |
+| Fabián A. (Avianca) | 10 oct | (tras plantilla 1) preguntó distancia a Avianca | Tiempo real (15 min) + solo/plazo + 12 m | ✅ solo, indefinido, ~24 oct |
+| Juan | 11 oct | Pidió visita "para hoy" + dirección | Zona + link barrio + WhatsApp + casa compartida | ✅ pidió número de nuevo |
+| Nath | 11–12 oct | ¿Sigue disponible? | Plantilla 1 → pernoctación → visita sáb 17 | ✅ sola, 12 m, noviembre |
+| Maria | 11 oct | ¿Dónde está ubicado? (tras plantilla 1) | 1b ubicación | Pendiente |
+| Dapi | 12 oct | ¿Queda en las afueras? (tras plantilla 1; solo) | Dentro de Bogotá + "hacia qué zona te mueves?" | Pendiente |
+| Amparo | 12 oct | ¿Disponible para verla? Dirección exacta | 1b + visitas sáb 17 | Pendiente |
+| Luisa | 12 oct | ¿Sigue disponible? ¿Dónde se ubica? | 1b ubicación | Pendiente |
+| Ale | 13–14 oct | Requisitos; pareja; quieren el 20 oct | Máx. 2, $1.700.000 (12 m), requisitos, entrega 24 oct | Pendiente |
+
+**Observación 2026-10-12:** 4 de los chats nuevos preguntan la ubicación en el primer o segundo mensaje (Juan, Maria, Dapi, Luisa). La 1b de ubicación queda como respuesta rápida guardada con el link del barrio. Errata: varios mensajes salieron con "En un mini apartaestudio" (versión vieja) → corregir la respuesta rápida guardada a "Es un".
 
 **Ritmo de mensajes 7 oct:** 2 chats nuevos a mediodía (vs. ~5,7/día de la línea base). Pendiente: captura de estadísticas (clics y chats acumulados) para separar visibilidad (clics/día) de conversión del anuncio ((chats − 63)/(clics − 1.154)). Si bajan los clics → siguiente experimento: renovar el anuncio (semana del 12 oct). No tocar el anuncio esta semana (exp. 3 corriendo, fecha cambiada el 6 oct).
 
-**Demanda Tipo B:** aparecen interesados con presupuesto de $1.100.000–1.200.000 (Alejandra, oct 2026) → señal de demanda para las Tipo B. Lista de aviso en `interesados.md`.
+**Demanda Tipo B:** aparecen interesados con presupuesto de $1.100.000–1.200.000 (Alejandra, oct 2026) → señal de demanda para las Tipo B. Lista de aviso en `interesados.md`. 2026-10-14: publicación en grupo de FB busca $800k–1,3M y acepta compartir espacio → más evidencia de demanda Tipo B. No se le escribió (zona y precio no encajan con Tipo A); los grupos quedan como idea de "publicar el anuncio", no de buscar personas, y solo si baja la demanda de Marketplace.
 
 ## Ideas en espera (una a la vez, después del experimento 1)
 
