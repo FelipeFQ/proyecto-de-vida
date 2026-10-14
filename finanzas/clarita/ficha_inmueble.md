@@ -57,7 +57,7 @@
 | Reliquidación por terminación anticipada | PENDIENTE (revisar con abogado junto con la garantía): si se termina antes del plazo que dio el descuento, se reliquida la diferencia con el canon del escalón realmente cumplido |
 | Segundo ocupante | +$300.000/mes fijo (= 20% del canon pleno), sin importar el escalón: pareja paga $1.800.000 (3–5 m), $1.750.000 (6–11 m), $1.700.000 (12 m). Quien recibió la oferta anterior: $1.700.000 con 6+ meses. Coherente con la pernoctación: $300.000/30 = $10.000/día |
 | Pernoctación de visitante | $10.000/noche (equivale al costo diario del segundo ocupante), máx. 5 noches/mes, previo aviso. Si pasa de 5 noches/mes → se registra como segundo ocupante (+20%) con los mismos requisitos. *Cambiado 2026-10-03 desde $35.000/noche (era 3,5× el costo diario del segundo ocupante).* |
-| Lavadora | $7.000/ciclo con fichas que vende Javier (Hab 1) en la casa |
+| Lavadora | **Hoy sin costo** (lavadora actual, sin monedero — 2026-10-14). Cuando se instalen la lavadora nueva y el monedero: $7.000/ciclo con fichas que vende Javier (Hab 1). En mensajes: "por ahora sin costo; cuando instalemos la lavadora nueva con monedero quedará en $7.000 por ciclo" |
 | Parqueadero moto | $65.000/mes. Capacidad: 4 motos (0 en uso al 8 oct). El cupo se asigna con el contrato firmado. Decir "sujeto a disponibilidad" solo cuando queden ≤1 cupos. Bicicleta sin costo |
 | Parqueadero carro | No disponible. El callejón enrejado frente a la casa es espacio público: no se ofrece ni se menciona como parte del arriendo |
 | Mora | Recargo fijo $50.000 desde el día 6. Mora > 10 días = causal de terminación |
