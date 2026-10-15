@@ -17,3 +17,7 @@ __pycache__/
 .DS_Store
 ~$*
 .~lock.*
+
+# Documentos con datos personales (cédulas, pasaportes, cuentas): solo en local
+finanzas/clarita/Contrato_*
+finanzas/clarita/Pagare_*
