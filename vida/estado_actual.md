@@ -1,6 +1,6 @@
 # ESTADO ACTUAL — Sistema de Vida Felipe Fajardo
 *Snapshot vivo del sistema. Se actualiza cuando algo cambia — no tiene histórico.*
-*Última actualización: 2026-10-14 (sesión `/clarita` 7–14 oct — Hab 2 al 24 oct, Hab 3 se compra al firmar Hab 2, embudo). Anterior: 2026-10-10 (sesión `/clarita` 7–10 oct — ronda de mensajes, escala de precios desde 7 oct, embudo). Anterior: 2026-10-07 (sesión Consejero mar 6 — conversación con el abuelo: comisión 25%, tarjetas, reembolso, servicios; guion Carmen de Apicalá; contacto fisio). Anterior: 2026-10-05 (revisión semanal lun 5 — La Clarita, Carmen de Apicalá, charla, Ep. 1, Juana, pubalgia). Anterior: 2026-10-04 (sesión Consejero — acceso multi-dispositivo vía GitHub + Claude Code móvil). Anterior: 2026-10-03 (sesión Consejero — cierre Q3 y planeación Q4: prioridades Q4, gatillo plan B, cadencia Modo Tenjo Q4, colchón real, hombro 6/10). La sección de La Clarita la mantiene la skill `/clarita` (última edición 2026-10-04). Anterior: 2026-10-02 (sesión Clarita).*
+*Última actualización: 2026-10-14 noche (sesión Consejero — contrato de Javier listo, pagaré + carta de instrucciones, Juana jue 15 presencial, letrero lo instala Felipe, comisión 25% corregida en FINANZAS). Anterior: 2026-10-14 (sesión `/clarita` 7–14 oct — Hab 2 al 24 oct, Hab 3 se compra al firmar Hab 2, embudo). Anterior: 2026-10-10 (sesión `/clarita` 7–10 oct — ronda de mensajes, escala de precios desde 7 oct, embudo). Anterior: 2026-10-07 (sesión Consejero mar 6 — conversación con el abuelo: comisión 25%, tarjetas, reembolso, servicios; guion Carmen de Apicalá; contacto fisio). Anterior: 2026-10-05 (revisión semanal lun 5 — La Clarita, Carmen de Apicalá, charla, Ep. 1, Juana, pubalgia). Anterior: 2026-10-04 (sesión Consejero — acceso multi-dispositivo vía GitHub + Claude Code móvil). Anterior: 2026-10-03 (sesión Consejero — cierre Q3 y planeación Q4: prioridades Q4, gatillo plan B, cadencia Modo Tenjo Q4, colchón real, hombro 6/10). La sección de La Clarita la mantiene la skill `/clarita` (última edición 2026-10-04). Anterior: 2026-10-02 (sesión Clarita).*
 
 ---
 
@@ -110,9 +110,9 @@
 
 | Ítem | Estado |
 |---|---|
-| **Ingreso arriendo** | En transición: Hab 1 paga $1.25M/mes a la casa (el de sep se fue a la 1ª cuota de muebles + servicios → $0 para Felipe). Ingreso futuro de Felipe = comisión por definir: 10/20/30% del neto ≈ $0.48 / $0.96 / $1.44M/mes con 6 hab. El $440k anterior ya no aplica. |
+| **Ingreso arriendo** | En transición: Hab 1 paga $1.25M/mes a la casa (el de sep se fue a la 1ª cuota de muebles + servicios → $0 para Felipe). Ingreso futuro de Felipe = **comisión del 25% de la ganancia neta desde nov 2026** (acordado 2026-10-06; neto = arriendos − servicios del mes) ≈ $1.2M/mes con 6/6 hab. El $440k anterior ya no aplica. |
 | **Ingreso coaching** | $300k/mes (solo Juana — Luisa terminó, no-fit) |
-| **Ingreso total** | ~$300k/mes personal hoy (Juana). La comisión de La Clarita aún no se cobra — planeada al 20% (~$0.96M/mes solo con 6/6 hab) |
+| **Ingreso total** | ~$300k/mes personal hoy (Juana). La comisión de La Clarita (25% del neto) se cobra desde nov 2026, con primera liquidación sobre las cuentas de octubre (~$1.2M/mes solo con 6/6 hab) |
 | **Flujo neto** | Negativo: gastos fijos Tenjo ~$660k + transporte a La Clarita vs ~$300k de ingreso. Mejora a medida que se llenan habitaciones |
 | **Deuda TC** | ✅ Ya no existe como deuda separada — absorbida por el pagaré de $33M (sin cuota mensual, confirmado 2026-10-03) |
 | **Deuda familiar** | Pagaré único $33M (incluye la antigua deuda familiar de $10M). Gracia hasta 15 ago 2027, luego 12 cuotas de ~$3.3M |
@@ -193,14 +193,14 @@
 | Día | En La Clarita (≈9:00–16:00) | Noche |
 |---|---|---|
 | **Mar 13** | Recibir · armar lo que llegue · rehab allá · contrato de Javier (empezar) · ✅ mensaje al administrador (Diego Amortegui): cita sáb 17 11:00 pedida, sin respuesta aún | Entreno 19:00 |
-| **Mié 14** | Recibir · armar · contrato de Javier (terminar) · 15:00 Juana (desde allá si es virtual) | — |
-| **Jue 15** | Recibir · armar · organizar la casa · ☐ **diseño letrero (2,50 × 0,95) + volantes de Carmen** en Canva (máx. 2 h) | Entreno 19:00 |
+| **Mié 14** | Recibir · armar · ✅ contrato de Javier terminado (`Contrato_Javier_Hab1.docx`, solo local) — enviar para que marque 6 o 12 meses y corregirle lo del reajuste (IPC cada 12 meses, no 15 ene/6%) | — |
+| **Jue 15** | Recibir · armar · organizar la casa · ☐ **diseño letrero (2,50 × 0,95) + volantes de Carmen** en Canva (máx. 2 h) · **15:00 Juana presencial en Bogotá** (movida desde el mié; revisar que alcance a llegar al entreno) | Entreno 19:00 |
 | **Vie 16** | Recibir · armar · ☐ Javier firma el contrato al llegar (~16:00) | Entreno 19:00 |
 | **Sáb 17** | (Javier recibe) · 11:00 ☐ **administrador en persona** → pedir charla sáb 8 nov PM (respaldo 15 nov) | Holgura |
 | **Dom 18** | Libre (guion Ep. 1 solo si apetece) | — |
 
 Todos los días: movilidad/rehab · Modo Concentración 8–11 · Marketplace 11/14/18 · si la fisio da fechas, agendar la más cercana. Salir de La Clarita ~16:00 para llegar al entreno.
-Fuera de esta semana (a propósito): Ep. 1 (→ ~24 oct). Letrero y volantes de Carmen: **diseño jue 15** (en la espera de La Clarita); antes, el abuelo confirma con la administración de Carmen si se permite en la baranda; impresión e instalación por definir (¿quién lo pone sin viajar?).
+Fuera de esta semana (a propósito): Ep. 1 (→ ~24 oct). Letrero y volantes de Carmen: **diseño jue 15** (en la espera de La Clarita); antes, el abuelo confirma con la administración de Carmen si se permite en la baranda; impresión por definir; **la instalación la hace Felipe en persona** (decidido 2026-10-14 — implica otro viaje a Carmen, fecha a definir en la revisión del lunes 19).
 
 **Compromisos enviados a Simón:** (1) Hab 2 recibida y armada + contrato de Javier firmado el viernes; (2) administrador en persona sáb 17 → fecha de la charla; (3) 3 entrenos + rehab diaria. Ep. 1 se mueve a la semana siguiente.
 
