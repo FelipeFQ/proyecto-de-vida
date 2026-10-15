@@ -77,7 +77,7 @@ Desde la línea base del 2 oct (970 clics) → +184 clics al 3 oct. Entre 2 y 3 
 | Dapi | 12 oct | ¿Queda en las afueras? (tras plantilla 1; solo) | Dentro de Bogotá + "hacia qué zona te mueves?" | Pendiente |
 | Amparo | 12 oct | ¿Disponible para verla? Dirección exacta | 1b + visitas sáb 17 | Pendiente |
 | Luisa | 12 oct | ¿Sigue disponible? ¿Dónde se ubica? | 1b ubicación | Pendiente |
-| Ale | 13–14 oct | Requisitos; pareja; quieren el 20 oct | Máx. 2, $1.700.000 (12 m), requisitos, entrega 24 oct | Pendiente |
+| Alejandro Barón | 13–14 oct | Requisitos; pareja; quieren el 20 oct | Máx. 2, $1.700.000 (12 m), requisitos, entrega 24 oct | Pendiente |
 
 **Observación 2026-10-12:** 4 de los chats nuevos preguntan la ubicación en el primer o segundo mensaje (Juan, Maria, Dapi, Luisa). La 1b de ubicación queda como respuesta rápida guardada con el link del barrio. Errata: varios mensajes salieron con "En un mini apartaestudio" (versión vieja) → corregir la respuesta rápida guardada a "Es un".
 
