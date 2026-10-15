@@ -133,6 +133,8 @@ Patrón más explicativo de Q3 2026 (identificado 2026-10-03). Felipe ejecuta co
 
 **Señal de alerta:** una meta importante cuyo único mecanismo de cumplimiento es "me voy a organizar mejor".
 
+**Instancia (2026-10-12 a 14):** el balance del lunes 12 a Simón no se envió, aunque la semana iba cumpliéndose (entregas adelantadas, contrato de Javier listo, rehab mar ✅ / mié ❌ — "tuve el tiempo pero fallé"). Así se apaga un ancla: en silencio, en una semana buena. Se retoma el lun 19 con el balance completo. **Señal:** el ancla externa se omite "porque igual estoy cumpliendo".
+
 ---
 
 ## Filtros de identidad — coherencia profunda
