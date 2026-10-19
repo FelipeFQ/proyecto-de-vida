@@ -166,6 +166,12 @@
   - **Servicios (aseo, internet, gas, luz, acueducto):** desde ahora los paga la casa con los arriendos, no Felipe.
   - **Contrato de Javier:** pagó sep pero no ha firmado. Fecha de inicio acordada 15 sep 2026; duración 6 o 12 meses por definir. **Contrato final listo (14 oct, sesión Consejero):** `Contrato_Javier_Hab1.docx/.pdf`, solo en local. Javier marca 6 o 12 meses. Reajuste IPC cada 12 meses (primero 15 sep 2027; se le corrige el "15 ene/6%" que se le dijo). Sin depósito ni penalidad, solo preaviso de 30 días. Hace el aseo de su habitación. Envío jue 15 en la mañana; **firma sáb 17** después de las visitas.
   - **DirecTV Go Flex (ETB, ~$22k/mes):** cancelar — llamada mié 7 oct (probablemente con el abuelo como titular).
+- **Pendientes de la casa (anotados 2026-10-19)** — pequeños pero acumulados; ir cerrándolos en cada visita:
+  - ☐ Pasar los muebles que quedan al primer piso para desocupar las habitaciones en arriendo (Hab 2 antes del 24 oct).
+  - ☐ Zonas comunes: canecas + **lavadora nueva con monedero** (hoy lavadora actual sin costo).
+  - ☐ **Bomba de presurización:** que vuelvan a arreglar el problema de instalación (se puso hace ~2 semanas).
+  - ☐ Candado para la caja del gas.
+  - ☐ **Enel: cita virtual mar 20 oct, 14:30** — verificar que la instalación del aumento de carga quedó bien (libera el saldo del eléctrico, $1.25M, atado a Enel).
 - Hab 4: Tipo A, fecha de entrega por definir.
 - Precio: $1.500.000 (3–5 meses); desde 7 oct (adelantado del 9) $1.450.000 (6–11 m) / $1.400.000 (12 m); a quien recibió la oferta anterior (6+ m = $1.400.000) se le respeta. Plazo mínimo 3 meses. Segunda persona +$300.000. Pernoctación $10.000/noche.
 - Marketing: solo FB Marketplace desde 23 sep. Línea base a 9 días: 970 clics → 51 mensajes → 15 siguen conversando (29%) → 4 piden visita → 1 visita → 0 cierres. Hay demanda; la fuga está en la conversión. Experimento 1 (nueva primera respuesta, desde 2 oct): 6/6 conversaciones siguieron. Experimento 2 desde 3 oct 19:26: categoría "Departamento" + descripción corregida (línea base 1.154 clics, 63 chats = 5,5/100).
@@ -193,7 +199,7 @@
 | Día | Bloque 8–11 | Resto del día | Noche |
 |---|---|---|---|
 | **Lun 19** (La Clarita → Tenjo) | Lectura: Hábitos Atómicos (diseño del entorno) + Wendy Wood → 3 hallazgos con fuente (8:00–10:30, o en el bus) | Antes de salir: audio balance a Simón · mensajes a Alejandro (codeudor + extractos Bancolombia + referencia del coliving), Diego (agregar al grupo), Juana (2 opciones: mar/jue 7:00 o sáb AM) · ~12:30 La Clarita: armar base cama Hab 2 + fotos nuevas · **13:00 visita Juanita** · salir ≤15:30 · **17:00 fisio** en Tenjo (historial hombro + pubalgia) = check-in Ultimate | — |
-| **Mar 20** | **Guion Ep. 1 = primer borrador de la estructura de la charla** | Plazo documentos Alejandro · transferir $130k (cuenta del abuelo) + comprobante a Diego | Entreno 19:00 |
+| **Mar 20** (La Clarita → Tenjo) | **Guion Ep. 1 = primer borrador de la estructura de la charla** (en casa o en el bus) | Plazo documentos Alejandro · transferir $130k (cuenta del abuelo) + comprobante a Diego · **14:30 cita virtual con Enel** (verificar la instalación del aumento de carga — estar en la casa) · avanzar pendientes de la casa · salir ≤17:00 | Entreno 19:00 |
 | **Mié 21** | Grabación Ep. 1 (una toma) | La Clarita: actualizar el anuncio con las fotos nuevas (tomadas el lun) · decisión Alejandro (referencias + codeudor) · Javier firma si no lo hizo | — |
 | **Jue 22** | Edición Ep. 1 (máx. 3 h) + título y thumbnail | Contrato Hab 2 con datos (revisado por el padrastro) | Entreno 19:00 |
 | **Vie 23** | 3 min de apertura de la charla | Firma Hab 2 + notaría del pagaré | Entreno 19:00 |
