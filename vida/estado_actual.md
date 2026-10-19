@@ -171,6 +171,8 @@
   - ☐ Zonas comunes: canecas + **lavadora nueva con monedero** (hoy lavadora actual sin costo).
   - ☐ **Bomba de presurización:** que vuelvan a arreglar el problema de instalación (se puso hace ~2 semanas).
   - ☐ Candado para la caja del gas.
+  - ☐ **Mesón abatible (cambio 2026-10-19):** ya no se compra por Amazon. Pie amigos plegables por Mercado Libre + tabla hecha en una carpintería (sale más barato que la mesa completa con envío). Tomar medidas y cotizar la tabla.
+  - ☐ Recoger los utensilios de cocina en la agencia de Mercado Libre (mar 20).
   - ☐ **Enel: visita virtual mar 20 oct, 12:30** — el electricista (se le deben $1.25M) va presencial y Enel revisa por video la caja de breakers y la acometida exterior del aumento de carga. Si queda aprobado, se le paga el saldo.
 - Hab 4: Tipo A, fecha de entrega por definir.
 - Precio: $1.500.000 (3–5 meses); desde 7 oct (adelantado del 9) $1.450.000 (6–11 m) / $1.400.000 (12 m); a quien recibió la oferta anterior (6+ m = $1.400.000) se le respeta. Plazo mínimo 3 meses. Segunda persona +$300.000. Pernoctación $10.000/noche.
@@ -199,7 +201,7 @@
 | Día | Bloque 8–11 | Resto del día | Noche |
 |---|---|---|---|
 | **Lun 19** (La Clarita → Tenjo) | Lectura: Hábitos Atómicos (diseño del entorno) + Wendy Wood → 3 hallazgos con fuente (8:00–10:30, o en el bus) | Antes de salir: audio balance a Simón · mensajes a Alejandro (codeudor + extractos Bancolombia + referencia del coliving), Diego (agregar al grupo), Juana (2 opciones: mar/jue 7:00 o sáb AM) · ~12:30 La Clarita: armar base cama Hab 2 + fotos nuevas · **13:00 visita Juanita** · salir ≤15:30 · **17:00 fisio** en Tenjo (historial hombro + pubalgia) = check-in Ultimate | — |
-| **Mar 20** (La Clarita → Tenjo) | **Guion Ep. 1 = primer borrador de la estructura de la charla** (en casa o en el bus) | Plazo documentos Alejandro · transferir $130k (cuenta del abuelo) + comprobante a Diego · **12:30 visita virtual de Enel** (el electricista al que se le deben $1.25M está presencial; Enel revisa por video la caja de breakers y la acometida exterior — Felipe en la casa) · avanzar pendientes de la casa · salir ≤17:00 | Entreno 19:00 |
+| **Mar 20** (La Clarita → Tenjo) | Salir temprano de Tenjo · **guion Ep. 1 en el bus** (si no alcanza → mié 8–11) | Agencia Mercado Libre: utensilios de cocina · pedir pie amigos plegables + medir/cotizar la tabla del mesón en carpintería · **12:30 visita virtual de Enel** (electricista presencial; pagar $1.25M solo si aprueba) · plazo documentos Alejandro · transferir $130k + comprobante a Diego · pendientes de la casa (muebles al 1er piso, bomba, candado gas) · salir ≤17:00 | Entreno 19:00 |
 | **Mié 21** | Grabación Ep. 1 (una toma) | La Clarita: actualizar el anuncio con las fotos nuevas (tomadas el lun) · decisión Alejandro (referencias + codeudor) · Javier firma si no lo hizo | — |
 | **Jue 22** | Edición Ep. 1 (máx. 3 h) + título y thumbnail | Contrato Hab 2 con datos (revisado por el padrastro) | Entreno 19:00 |
 | **Vie 23** | 3 min de apertura de la charla | Firma Hab 2 + notaría del pagaré | Entreno 19:00 |
