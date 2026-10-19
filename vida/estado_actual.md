@@ -192,9 +192,9 @@
 
 | Día | Bloque 8–11 | Resto del día | Noche |
 |---|---|---|---|
-| **Lun 19** (Tenjo) | Lectura: Hábitos Atómicos (diseño del entorno) + Wendy Wood → 3 hallazgos con fuente | Audio balance a Simón · mensajes: Alejandro (codeudor + extractos Bancolombia + referencia del coliving), Diego (agregar al grupo), Juana (2 opciones de horario: mar/jue 7:00 o sáb AM) · **17:00 fisio** (historial hombro + pubalgia) = check-in Ultimate | — |
+| **Lun 19** (La Clarita → Tenjo) | Lectura: Hábitos Atómicos (diseño del entorno) + Wendy Wood → 3 hallazgos con fuente (8:00–10:30, o en el bus) | Antes de salir: audio balance a Simón · mensajes a Alejandro (codeudor + extractos Bancolombia + referencia del coliving), Diego (agregar al grupo), Juana (2 opciones: mar/jue 7:00 o sáb AM) · ~12:30 La Clarita: armar base cama Hab 2 + fotos nuevas · **13:00 visita Juanita** · salir ≤15:30 · **17:00 fisio** en Tenjo (historial hombro + pubalgia) = check-in Ultimate | — |
 | **Mar 20** | **Guion Ep. 1 = primer borrador de la estructura de la charla** | Plazo documentos Alejandro · transferir $130k (cuenta del abuelo) + comprobante a Diego | Entreno 19:00 |
-| **Mié 21** | Grabación Ep. 1 (una toma) | La Clarita: armar base cama Hab 2 + fotos nuevas + actualizar anuncio · decisión Alejandro (referencias + codeudor) · Javier firma si no lo hizo | — |
+| **Mié 21** | Grabación Ep. 1 (una toma) | La Clarita: actualizar el anuncio con las fotos nuevas (tomadas el lun) · decisión Alejandro (referencias + codeudor) · Javier firma si no lo hizo | — |
 | **Jue 22** | Edición Ep. 1 (máx. 3 h) + título y thumbnail | Contrato Hab 2 con datos (revisado por el padrastro) | Entreno 19:00 |
 | **Vie 23** | 3 min de apertura de la charla | Firma Hab 2 + notaría del pagaré | Entreno 19:00 |
 | **Sáb 24** | — | **Entrega Hab 2** (inventario + llaves) · al firmar Hab 2 → compra Hab 3 | Holgura |
