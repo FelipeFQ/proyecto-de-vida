@@ -202,11 +202,11 @@
 
 | Día | Bloque 8–11 | Resto del día | Noche |
 |---|---|---|---|
-| **Lun 19** (La Clarita → Tenjo) | Lectura: Hábitos Atómicos (diseño del entorno) + Wendy Wood → 3 hallazgos con fuente (8:00–10:30, o en el bus) | Antes de salir: audio balance a Simón · mensajes a Alejandro (codeudor + extractos Bancolombia + referencia del coliving), Diego (agregar al grupo), Juana (2 opciones: mar/jue 7:00 o sáb AM) · ~12:30 La Clarita: armar base cama Hab 2 + fotos nuevas · **13:00 visita Juanita** · salir ≤15:30 · **17:00 fisio** en Tenjo (historial hombro + pubalgia) = check-in Ultimate | — |
-| **Mar 20** (La Clarita → Tenjo) | Salir temprano de Tenjo · **guion Ep. 1 en el bus** (si no alcanza → mié 8–11) | Agencia Mercado Libre: utensilios de cocina · recoger las cortinas · pedir pie amigos plegables + medir/cotizar la tabla del mesón en carpintería · **12:30 visita virtual de Enel** (electricista presencial; pagar $1.25M solo si aprueba) · plazo documentos Alejandro · transferir $130k + comprobante a Diego · pendientes de la casa (muebles al 1er piso, bomba, candado gas) · salir ≤17:00 | Entreno 19:00 |
-| **Mié 21** | Grabación Ep. 1 (una toma) | La Clarita: actualizar el anuncio con las fotos nuevas (tomadas el lun) · decisión Alejandro (referencias + codeudor) · Javier firma si no lo hizo | — |
-| **Jue 22** | Edición Ep. 1 (máx. 3 h) + título y thumbnail | Contrato Hab 2 con datos (revisado por el padrastro) | Entreno 19:00 |
-| **Vie 23** | 3 min de apertura de la charla | Firma Hab 2 + notaría del pagaré | Entreno 19:00 |
+| **Lun 19** (La Clarita → Tenjo) | ~~Lectura~~ ❌ no se hizo → pasa al mar 20 (bus) | Antes de salir: audio balance a Simón · mensajes a Alejandro (codeudor + extractos Bancolombia + referencia del coliving), Diego (agregar al grupo), Juana (2 opciones: mar/jue 7:00 o sáb AM) · ~12:30 La Clarita: armar base cama Hab 2 + fotos nuevas · **13:00 visita Juanita** · salir ≤15:30 · **17:00 fisio** en Tenjo (historial hombro + pubalgia) = check-in Ultimate | — |
+| **Mar 20** (La Clarita → Tenjo) | Salir 8:30 · **lectura en el bus: Hábitos Atómicos cap. 2, 6 y 12 (+ Wood: Neal et al. 2006; Wood, Tam & Witt 2005) → 3 fichas** | Agencia Mercado Libre: utensilios de cocina · recoger las cortinas · pedir pie amigos plegables + medir/cotizar la tabla del mesón en carpintería · **12:30 visita virtual de Enel** (electricista presencial; pagar $1.25M solo si aprueba) · plazo documentos Alejandro · transferir $130k + comprobante a Diego · pendientes de la casa (muebles al 1er piso, bomba, candado gas) · salir ≤17:00 | Entreno 19:00 |
+| **Mié 21** | **Guion Ep. 1 = primer borrador de la estructura de la charla** | La Clarita: actualizar el anuncio con las fotos nuevas (tomadas el lun) · decisión Alejandro (referencias + codeudor) · Javier firma si no lo hizo | — |
+| **Jue 22** | Grabación Ep. 1 (una toma) | Contrato Hab 2 con datos (revisado por el padrastro) | Entreno 19:00 |
+| **Vie 23** | Edición Ep. 1 (máx. 3 h) + título y thumbnail · 3 min de apertura de la charla → semana del 26 si no alcanza | Firma Hab 2 + notaría del pagaré | Entreno 19:00 |
 | **Sáb 24** | — | **Entrega Hab 2** (inventario + llaves) · al firmar Hab 2 → compra Hab 3 | Holgura |
 | **Dom 25** | Libre | — | — |
 
