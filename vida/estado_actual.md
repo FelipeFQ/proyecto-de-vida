@@ -173,6 +173,8 @@
   - ☐ Candado para la caja del gas.
   - ☐ **Mesón abatible (cambio 2026-10-19):** ya no se compra por Amazon. Pie amigos plegables por Mercado Libre + tabla hecha en una carpintería (sale más barato que la mesa completa con envío). Tomar medidas y cotizar la tabla.
   - ☐ Recoger los utensilios de cocina en la agencia de Mercado Libre (mar 20).
+  - ☐ Recoger las cortinas que se mandaron a lavar.
+  - ☐ **Cuentas de octubre (primera liquidación con la comisión del 25%):** arriendos cobrados (Javier) − servicios pagados = neto; 25% del neto para Felipe, el resto para la cuenta de la abuela (menos las cuotas de tarjeta pagadas con arriendo, si las hubo). Registrar en la hoja *Registro Mensual* de `Rendicion_Cuentas_La_Clarita.xlsx` (ojo: la fila de sep usó 20%).
   - ☐ **Enel: visita virtual mar 20 oct, 12:30** — el electricista (se le deben $1.25M) va presencial y Enel revisa por video la caja de breakers y la acometida exterior del aumento de carga. Si queda aprobado, se le paga el saldo.
 - Hab 4: Tipo A, fecha de entrega por definir.
 - Precio: $1.500.000 (3–5 meses); desde 7 oct (adelantado del 9) $1.450.000 (6–11 m) / $1.400.000 (12 m); a quien recibió la oferta anterior (6+ m = $1.400.000) se le respeta. Plazo mínimo 3 meses. Segunda persona +$300.000. Pernoctación $10.000/noche.
