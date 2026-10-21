@@ -8,7 +8,7 @@
 
 | Ítem | Estado |
 |---|---|
-| **Clientes activos** | 1 — Juana ($300k/mes, subió desde $170k). Horario estable: miércoles 15:00 (confirmado 2026-10-05) |
+| **Clientes activos** | 1 — Juana ($300k/mes, subió desde $170k). **Horario nuevo (desde oct 2026): miércoles 7:00–8:00** (le cambiaron el turno de trabajo a 13:00–19:00). Excepción: mié 21 oct a las 8:00. |
 | **Primer cliente histórico** | Noviembre 2025 (antes del lanzamiento formal de Método Cimientos en abril 2026) |
 | **Ingresos coaching** | $300k/mes (bajó de $470k tras no-fit de Luisa) |
 | **Meta Q2 (ajustada)** | ✅ CUMPLIDA — Juana + Luisa activas |
@@ -205,7 +205,7 @@
 |---|---|---|---|
 | **Lun 19** (La Clarita → Tenjo) | ~~Lectura~~ ❌ no se hizo → pasa al mar 20 (bus) | Antes de salir: audio balance a Simón · mensajes a Alejandro (codeudor + extractos Bancolombia + referencia del coliving), Diego (agregar al grupo), Juana (2 opciones: mar/jue 7:00 o sáb AM) · ~12:30 La Clarita: armar base cama Hab 2 + fotos nuevas · **13:00 visita Juanita** · salir ≤15:30 · **17:00 fisio** en Tenjo (historial hombro + pubalgia) = check-in Ultimate | — |
 | **Mar 20** (La Clarita → Tenjo) | Lectura: ✅ Hábitos Atómicos cap. 2 y 6 · ❌ cap. 12 y Wood (pasan al mié) · ❌ rehab | ✅ utensilios ML · ❌ cortinas (no estaban) · ✅ pie amigos + tablas en carpintería (vie 23) · ✅ Enel verificó → cambio de medidor jue 22 · ◐ muebles al 1er piso · ✅ candado gas · bomba: técnico mié 21 · ❌ $130k (falta la cuenta del abuelo) · Javier sin firmar (confianza, sin urgencia) · Alejandro: llegaron los documentos de la mamá (revisar mié AM) · Marketplace: sin interesados avanzados | ✅ Entreno
-| **Mié 21** | Rehab · 20 min cap. 12 · **Guion Ep. 1 = primer borrador de la estructura de la charla** (con caps. 2 y 6) | Revisar documentos de la mamá de Alejandro → decidir · pedirle al abuelo la cuenta del conjunto ($130k) · La Clarita: técnico de la bomba · recoger cortinas · seguir bajando muebles · actualizar el anuncio con fotos de la Hab 2 | — |
+| **Mié 21** | Rehab 7:00 · **8:00 sesión con Juana** · 9:00–11:30 guion Ep. 1 = primer borrador de la estructura de la charla (20 min antes: cap. 12) | Revisar documentos de la mamá de Alejandro → decidir · pedirle al abuelo la cuenta del conjunto ($130k) · La Clarita: técnico de la bomba · recoger cortinas · seguir bajando muebles · actualizar el anuncio con fotos de la Hab 2 | — |
 | **Jue 22** | Grabación Ep. 1 (una toma) | **Enel: cambio de medidor → pagar $1.25M a don Gregorio** · contrato Hab 2 con datos (revisado por el padrastro) | Entreno 19:00 |
 | **Vie 23** | Edición Ep. 1 (máx. 3 h) + título y thumbnail · 3 min de apertura de la charla → semana del 26 si no alcanza | Recoger las tablas del mesón en la carpintería e instalarlas en la Hab 2 · firma Hab 2 + notaría del pagaré | Entreno 19:00 |
 | **Sáb 24** | — | **Entrega Hab 2** (inventario + llaves) · al firmar Hab 2 → compra Hab 3 | Holgura |
