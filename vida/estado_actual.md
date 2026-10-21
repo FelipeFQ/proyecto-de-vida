@@ -167,15 +167,16 @@
   - **Contrato de Javier:** pagó sep pero no ha firmado. Fecha de inicio acordada 15 sep 2026; duración 6 o 12 meses por definir. **Contrato final listo (14 oct, sesión Consejero):** `Contrato_Javier_Hab1.docx/.pdf`, solo en local. Javier marca 6 o 12 meses. Reajuste IPC cada 12 meses (primero 15 sep 2027; se le corrige el "15 ene/6%" que se le dijo). Sin depósito ni penalidad, solo preaviso de 30 días. Hace el aseo de su habitación. Envío jue 15 en la mañana; **firma sáb 17** después de las visitas.
   - **DirecTV Go Flex (ETB, ~$22k/mes):** cancelar — llamada mié 7 oct (probablemente con el abuelo como titular).
 - **Pendientes de la casa (anotados 2026-10-19)** — pequeños pero acumulados; ir cerrándolos en cada visita:
-  - ☐ Pasar los muebles que quedan al primer piso para desocupar las habitaciones en arriendo (Hab 2 antes del 24 oct).
+  - ◐ Pasar los muebles que quedan al primer piso para desocupar las habitaciones en arriendo (mar 20: se bajaron algunos; Hab 2 antes del 24 oct).
   - ☐ Zonas comunes: canecas + **lavadora nueva con monedero** (hoy lavadora actual sin costo).
-  - ☐ **Bomba de presurización:** que vuelvan a arreglar el problema de instalación (se puso hace ~2 semanas).
-  - ☐ Candado para la caja del gas.
-  - ☐ **Mesón abatible (cambio 2026-10-19):** ya no se compra por Amazon. Pie amigos plegables por Mercado Libre + tabla hecha en una carpintería (sale más barato que la mesa completa con envío). Tomar medidas y cotizar la tabla.
-  - ☐ Recoger los utensilios de cocina en la agencia de Mercado Libre (mar 20).
-  - ☐ Recoger las cortinas que se mandaron a lavar (mar 20).
+  - ☐ **Bomba de presurización:** va un técnico a arreglarla el mié 21.
+  - ✅ Candado para la caja del gas (comprado y puesto el mar 20).
+  - ◐ **Mesón abatible:** pie amigos ✅ llegaron; tablas mandadas a hacer en carpintería → **listas el vie 23** (recoger e instalar antes de la entrega del sáb 24).
+  - ✅ Utensilios de cocina recogidos en la agencia de Mercado Libre (mar 20).
+  - ☐ Recoger las cortinas (no estaban listas el mar 20 → mié 21).
   - ☐ **Cuentas de octubre — más tarde en la semana, sin día fijo (primera liquidación con la comisión del 25%):** arriendos cobrados (Javier) − servicios pagados = neto; 25% del neto para Felipe, el resto para la cuenta de la abuela (menos las cuotas de tarjeta pagadas con arriendo, si las hubo). Registrar en la hoja *Registro Mensual* de `Rendicion_Cuentas_La_Clarita.xlsx` (ojo: la fila de sep usó 20%).
-  - ☐ **Enel: visita virtual mar 20 oct, 12:30** — el electricista (se le deben $1.25M) va presencial y Enel revisa por video la caja de breakers y la acometida exterior del aumento de carga. Si queda aprobado, se le paga el saldo.
+  - ◐ **Enel (mar 20):** verificaron la instalación y autorizan el cambio de medidor → **cambio de medidor el jue 22**; ese día se le pagan los $1.25M a **don Gregorio** (electricista).
+  - ☐ **Pago del salón ($130k):** pedirle al abuelo la cuenta del conjunto → transferir mié 21 o jue 22 + comprobante a Diego (y pedir que lo agregue al grupo).
 - Hab 4: Tipo A, fecha de entrega por definir.
 - Precio: $1.500.000 (3–5 meses); desde 7 oct (adelantado del 9) $1.450.000 (6–11 m) / $1.400.000 (12 m); a quien recibió la oferta anterior (6+ m = $1.400.000) se le respeta. Plazo mínimo 3 meses. Segunda persona +$300.000. Pernoctación $10.000/noche.
 - Marketing: solo FB Marketplace desde 23 sep. Línea base a 9 días: 970 clics → 51 mensajes → 15 siguen conversando (29%) → 4 piden visita → 1 visita → 0 cierres. Hay demanda; la fuga está en la conversión. Experimento 1 (nueva primera respuesta, desde 2 oct): 6/6 conversaciones siguieron. Experimento 2 desde 3 oct 19:26: categoría "Departamento" + descripción corregida (línea base 1.154 clics, 63 chats = 5,5/100).
@@ -203,10 +204,10 @@
 | Día | Bloque 8–11 | Resto del día | Noche |
 |---|---|---|---|
 | **Lun 19** (La Clarita → Tenjo) | ~~Lectura~~ ❌ no se hizo → pasa al mar 20 (bus) | Antes de salir: audio balance a Simón · mensajes a Alejandro (codeudor + extractos Bancolombia + referencia del coliving), Diego (agregar al grupo), Juana (2 opciones: mar/jue 7:00 o sáb AM) · ~12:30 La Clarita: armar base cama Hab 2 + fotos nuevas · **13:00 visita Juanita** · salir ≤15:30 · **17:00 fisio** en Tenjo (historial hombro + pubalgia) = check-in Ultimate | — |
-| **Mar 20** (La Clarita → Tenjo) | Salir 8:30 · **lectura en el bus: Hábitos Atómicos cap. 2, 6 y 12 (+ Wood: Neal et al. 2006; Wood, Tam & Witt 2005) → 3 fichas** | Agencia Mercado Libre: utensilios de cocina · recoger las cortinas · pedir pie amigos plegables + medir/cotizar la tabla del mesón en carpintería · **12:30 visita virtual de Enel** (electricista presencial; pagar $1.25M solo si aprueba) · plazo documentos Alejandro · transferir $130k + comprobante a Diego · pendientes de la casa (muebles al 1er piso, bomba, candado gas) · salir ≤17:00 | Entreno 19:00 |
-| **Mié 21** | **Guion Ep. 1 = primer borrador de la estructura de la charla** | La Clarita: actualizar el anuncio con las fotos nuevas (tomadas el lun) · decisión Alejandro (referencias + codeudor) · Javier firma si no lo hizo | — |
-| **Jue 22** | Grabación Ep. 1 (una toma) | Contrato Hab 2 con datos (revisado por el padrastro) | Entreno 19:00 |
-| **Vie 23** | Edición Ep. 1 (máx. 3 h) + título y thumbnail · 3 min de apertura de la charla → semana del 26 si no alcanza | Firma Hab 2 + notaría del pagaré | Entreno 19:00 |
+| **Mar 20** (La Clarita → Tenjo) | Lectura: ✅ Hábitos Atómicos cap. 2 y 6 · ❌ cap. 12 y Wood (pasan al mié) · ❌ rehab | ✅ utensilios ML · ❌ cortinas (no estaban) · ✅ pie amigos + tablas en carpintería (vie 23) · ✅ Enel verificó → cambio de medidor jue 22 · ◐ muebles al 1er piso · ✅ candado gas · bomba: técnico mié 21 · ❌ $130k (falta la cuenta del abuelo) · Javier sin firmar (confianza, sin urgencia) · Alejandro: llegaron los documentos de la mamá (revisar mié AM) · Marketplace: sin interesados avanzados | ✅ Entreno
+| **Mié 21** | Rehab · 20 min cap. 12 · **Guion Ep. 1 = primer borrador de la estructura de la charla** (con caps. 2 y 6) | Revisar documentos de la mamá de Alejandro → decidir · pedirle al abuelo la cuenta del conjunto ($130k) · La Clarita: técnico de la bomba · recoger cortinas · seguir bajando muebles · actualizar el anuncio con fotos de la Hab 2 | — |
+| **Jue 22** | Grabación Ep. 1 (una toma) | **Enel: cambio de medidor → pagar $1.25M a don Gregorio** · contrato Hab 2 con datos (revisado por el padrastro) | Entreno 19:00 |
+| **Vie 23** | Edición Ep. 1 (máx. 3 h) + título y thumbnail · 3 min de apertura de la charla → semana del 26 si no alcanza | Recoger las tablas del mesón en la carpintería e instalarlas en la Hab 2 · firma Hab 2 + notaría del pagaré | Entreno 19:00 |
 | **Sáb 24** | — | **Entrega Hab 2** (inventario + llaves) · al firmar Hab 2 → compra Hab 3 | Holgura |
 | **Dom 25** | Libre | — | — |
 
