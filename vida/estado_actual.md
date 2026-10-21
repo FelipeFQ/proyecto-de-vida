@@ -118,7 +118,7 @@
 | **Deuda familiar** | Pagaré único $33M (incluye la antigua deuda familiar de $10M). Gracia hasta 15 ago 2027, luego 12 cuotas de ~$3.3M |
 | **Colchón disponible** | **$3,000,000 COP** (2026-10-03) — ~$4M si el abuelo reembolsa los pagos hechos a La Clarita. Se consumió más de la mitad del colchón de $8.9M del pagaré por gastos no contemplados y pagos de la casa. **Alarma: <$1.5M adelanta el gatillo del plan B** |
 | **Gastos fijos (Tenjo)** | ~$660k/mes (seguridad social $500k + Haku $160k) + transporte a La Clarita (1–2 h por trayecto, lun + sáb) |
-| **App finanzas** | ✅ Operativa en producción. URL: finanzas-app-gules-eight.vercel.app. Multi-usuario, Supabase, PWA instalable. |
+| **App finanzas** | ✅ Operativa en producción. URL: finanzas-app-gules-eight.vercel.app. Multi-usuario, Supabase, PWA instalable. ⚠️ **Sin registro de ingresos y gastos desde ~mediados de jul–ago 2026** (obra + La Clarita). Retomar en la sesión de finanzas del dom 25 oct. |
 | **Hábito sesión semanal** | ✅ Establecido — 2 semanas de racha (dato en localStorage app, no visible en sistema) |
 
 **App Finanzas — Deploy multi-usuario (2026-05-10):**
@@ -209,7 +209,7 @@
 | **Jue 22** | Grabación Ep. 1 (una toma) | **Enel: cambio de medidor → pagar $1.25M a don Gregorio** · contrato Hab 2 con datos (revisado por el padrastro) | Entreno 19:00 |
 | **Vie 23** | Edición Ep. 1 (máx. 3 h) + título y thumbnail · 3 min de apertura de la charla → semana del 26 si no alcanza | Recoger las tablas del mesón en la carpintería e instalarlas en la Hab 2 · **fotos de la Hab 2** con buena luz y todo organizado (si las tablas llegan tarde → sáb 24 en la mañana) → actualizar el anuncio · firma Hab 2 + notaría del pagaré | Entreno 19:00 |
 | **Sáb 24** | — | **Entrega Hab 2** (inventario + llaves) · al firmar Hab 2 → compra Hab 3 | Holgura |
-| **Dom 25** | Libre | — | — |
+| **Dom 25** | **Sesión de finanzas (~2 h):** (1) calendario mensual de pagos y compromisos recurrentes (servicios de La Clarita: agua, gas, luz, internet · tarjetas propias · tarjetas de los abuelos · seguridad social · otros) con fecha o rango de cada uno; (2) reactivar el registro en la app de finanzas (sin registro desde ~jul–ago); (3) cuentas de octubre de La Clarita si no se hicieron antes | — | — |
 
 Todos los días: rehab · Marketplace 11/14/18 (seguir agendando visitas hasta que se firme la Hab 2) · celular fuera 22:30. Si la semana se aprieta: se mueve la **edición** del Ep. 1, no el guion ni la lectura. Fuera de esta semana: viaje a Carmen para instalar el letrero (fecha en la revisión del lun 26).
 
@@ -241,6 +241,14 @@ Todos los días: rehab · Marketplace 11/14/18 (seguir agendando visitas hasta q
 | **Áreas activas Q2** | Neurociencia aplicada al comportamiento, ventas/conversaciones de coaching, bienes raíces en Colombia |
 | **Áreas en pausa** | Python/ML/CV (mínimo mantenimiento), título Devri/Platzi |
 | **Primera sesión estructurada** | Pendiente — definir rutas con recursos específicos |
+
+---
+
+## IDEAS DE LARGO PLAZO (parqueadero — no son de Q4)
+
+- **App de acompañamiento de vida/hábitos basada en este sistema (anotada 2026-10-21).** Lo que Felipe hace con Claude y este repo (metas trimestrales/anuales/largo plazo, estado vivo, pendientes diarios, revisiones, pantalla de bloqueo) es el prototipo de un producto parecido a su servicio de coaching — no lo reemplaza, lo escala. Interacción escrita **y por voz** (feedback hablado). **Por qué captar y acompañar clientes hoy también es construir esto:** los datos de los clientes (formas de actuar, de avanzar, patrones, dificultades y facilidades) y la forma en que Felipe organiza y rehace el Método Cimientos son la base que alimentaría la app. Conecta con la visión a 10 años (producto propio con datos y tecnología para escalar impacto en bienestar).
+  - Qué sí hacer desde ya, sin desviar Q4: (a) registrar a cada cliente de forma estructurada y consistente (el tracker de Cimientos ya lo permite); (b) **pedir autorización de tratamiento de datos personales** a cada cliente (Ley 1581 de 2012 / habeas data) que contemple usar sus datos —anonimizados— para mejorar el método y desarrollar herramientas; (c) anotar las decisiones de diseño del programa cuando cambien.
+  - Qué no hacer ahora: construir la app (sesgo 1 del manual: sobre-construcción antes de validar). Momento de retomarla: con ≥10 clientes y datos de varios ciclos. Revisar en la planeación de Q1 2027.
 
 ---
 
