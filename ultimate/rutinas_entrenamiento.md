@@ -42,6 +42,14 @@ Contexto: regreso tras ~4 meses sin entrenar, hombro 6/10. Entrenador nuevo en T
 
 Regla: dolor ≤3/10 durante y no peor al día siguiente. Sin carga overhead ni Copenhagen hasta la valoración.
 
+**Ejercicios agregados por la fisio (valoración 2026-10-19) — todos los días, junto con la rehab:**
+| Ejercicio | Dosis | Progresión |
+|---|---|---|
+| Remo en el aire con retracción escapular (como un Australian pull-up sin barra: juntar escápulas atrás y abajo) | 2 × 10 | → remo invertido en anillos → remo con mancuerna |
+| Rotación interna en recorrido completo: mano al ombligo → mano detrás de la espalda, entre las escápulas | 2 × 10 por lado | — |
+
+Próximo control: lun 2 nov 2026 (preguntar cuándo pasar a los anillos).
+
 ---
 
 ## Distribución Semanal — Tenjo (hasta 20 mayo 2026)
