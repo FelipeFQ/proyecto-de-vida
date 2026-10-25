@@ -54,8 +54,17 @@
 
 ## REVISIÓN #4
 
-| **Fecha** | _____ / _____ / 2026 |
+| **Fecha** | 18 / 10 / 2026 |
 |---|---|
+| **Coaching** | Sesión con Juana jue 15 (presencial). Le cambió el turno (13–19) → horario nuevo mié 7–8. Charla agendada sáb 15 nov (salón $130k, día completo). Promoción a cargo de Felipe; newsletter aplazada. Clientes nuevos: 0. |
+| **Ultimate / Salud** | 3/3 entrenos (mar, jue, vie). Rehab 6/7. Hombro 6/10 (último dato). Pubalgia activa. Fisio lun 19. |
+| **Finanzas** | Hab 2 recibida (falta base cama); entrega objetivo 24 oct. Alejandro y Ximena en verificación, codeudor obligatorio. Contrato de Javier sin firmar (3.ª vez). Letrero de Carmen listo, baranda autorizada. |
+| **Estudios** | Sin bloques de estudio técnico. |
+| **Fricciones** | Lo de Javier se queda en "cuando lo lea". Los días en La Clarita se pierde la rehab. Dependencia de un solo interesado para la Hab 2. |
+| **Ajustes acordados** | Ep. 1 vuelve como práctica de la charla (mismo tema). Codeudor obligatorio para todos (padrastro). Promoción propia de la charla. |
+| **Próximos pasos** | Lectura → guion → grabación → edición (máx. 3 h). Entrega Hab 2. Javier con fecha. Horario de Juana. |
+
+---|---|
 | **Coaching** |  |
 | **Ultimate / Salud** |  |
 | **Finanzas** |  |

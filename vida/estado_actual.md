@@ -175,8 +175,8 @@
   - ✅ Utensilios de cocina recogidos en la agencia de Mercado Libre (mar 20).
   - ☐ Recoger las cortinas (no estaban listas el mar 20 → mié 21).
   - ☐ **Cuentas de octubre — más tarde en la semana, sin día fijo (primera liquidación con la comisión del 25%):** arriendos cobrados (Javier) − servicios pagados = neto; 25% del neto para Felipe, el resto para la cuenta de la abuela (menos las cuotas de tarjeta pagadas con arriendo, si las hubo). Registrar en la hoja *Registro Mensual* de `Rendicion_Cuentas_La_Clarita.xlsx` (ojo: la fila de sep usó 20%).
-  - ◐ **Enel (mar 20):** verificaron la instalación y autorizan el cambio de medidor → **cambio de medidor el jue 22**; ese día se le pagan los $1.25M a **don Gregorio** (electricista).
-  - ☐ **Pago del salón ($130k):** pedirle al abuelo la cuenta del conjunto → transferir mié 21 o jue 22 + comprobante a Diego (y pedir que lo agregue al grupo).
+  - ✅ **Enel:** medidor cambiado; **don Gregorio pagado al 100%** (oct 2026).
+  - ☐ **Pago del salón ($130k):** la cuenta ya está a mano; pendiente al 25 oct (ver sesgo 8 del manual) → transferir + comprobante a Diego + pedir que lo agregue al grupo.
 - Hab 4: Tipo A, fecha de entrega por definir.
 - Precio: $1.500.000 (3–5 meses); desde 7 oct (adelantado del 9) $1.450.000 (6–11 m) / $1.400.000 (12 m); a quien recibió la oferta anterior (6+ m = $1.400.000) se le respeta. Plazo mínimo 3 meses. Segunda persona +$300.000. Pernoctación $10.000/noche.
 - Marketing: solo FB Marketplace desde 23 sep. Línea base a 9 días: 970 clics → 51 mensajes → 15 siguen conversando (29%) → 4 piden visita → 1 visita → 0 cierres. Hay demanda; la fuga está en la conversión. Experimento 1 (nueva primera respuesta, desde 2 oct): 6/6 conversaciones siguieron. Experimento 2 desde 3 oct 19:26: categoría "Departamento" + descripción corregida (línea base 1.154 clics, 63 chats = 5,5/100).
@@ -208,7 +208,7 @@
 | **Mié 21** | Rehab 7:00 · **8:00 sesión con Juana** · 9:00–11:30 guion Ep. 1 = primer borrador de la estructura de la charla (20 min antes: cap. 12) → ◐ guion sin terminar | Revisar documentos de la mamá de Alejandro → decidir · pedirle al abuelo la cuenta del conjunto ($130k) · La Clarita: técnico de la bomba · recoger cortinas · seguir bajando muebles | — |
 | **Jue 22** (Tenjo → La Clarita → Tenjo) | Rehab · salir 8:30 · guion Ep. 1 en notas de voz en el bus de regreso (si no → sáb PM) | Llamadas de verificación (Lorna, Eric, Carmiña, Ivonne, Intersago, coliving) → decisión Alejandro · contrato + pagaré Hab 2 con datos y confirmar firma/notaría vie · abuelo: cuenta del conjunto → **transferir $130k** + comprobante a Diego (pendiente desde el mar) · **Enel: cambio de medidor → pagar $1.25M a don Gregorio** · devolverle la moto a Simón | Entreno 19:00 |
 | **Vie 23** | Edición Ep. 1 → semana del 26 · 3 min de apertura → semana del 26 | Recoger las tablas del mesón en la carpintería e instalarlas en la Hab 2 · **fotos de la Hab 2** con buena luz y todo organizado (si las tablas llegan tarde → sáb 24 en la mañana) → actualizar el anuncio · firma Hab 2 + notaría del pagaré | Entreno 19:00 |
-| **Sáb 24** | — | **Entrega Hab 2** (inventario + llaves) · al firmar Hab 2 → compra Hab 3 | Holgura |
+| **Sáb 24** | — | Entrega Hab 2 → **movida al lun 26 oct** (Alejandro y Ximena; verificaciones ✅, falta llamar a Ivonne) · al firmar Hab 2 → compra Hab 3 | Holgura |
 | **Dom 25** | **Sesión de finanzas (~2 h):** (1) calendario mensual de pagos y compromisos recurrentes (servicios de La Clarita: agua, gas, luz, internet · tarjetas propias · tarjetas de los abuelos · seguridad social · otros) con fecha o rango de cada uno; (2) reactivar el registro en la app de finanzas (sin registro desde ~jul–ago); (3) cuentas de octubre de La Clarita si no se hicieron antes | — | — |
 
 Todos los días: rehab · Marketplace 11/14/18 (seguir agendando visitas hasta que se firme la Hab 2) · celular fuera 22:30. Si la semana se aprieta: se mueve la **edición** del Ep. 1, no el guion ni la lectura. Fuera de esta semana: viaje a Carmen para instalar el letrero (fecha en la revisión del lun 26).
@@ -227,7 +227,7 @@ Todos los días: rehab · Marketplace 11/14/18 (seguir agendando visitas hasta q
 | **Equipo** | Makawua (grupo administrativo). **Decisión (25 mayo): no retomar entrenamientos con Makawua en 2026.** Metas competitivas a replantear — sesión dedicada pendiente. |
 | **App Ultimate** | ✅ Completa — `ultimate/app-v2/` corriendo en puerto 5174. |
 | **Baseline Q2** | ✅ Completado 18 mayo. Sprint 30m: 4.81s / Sprint 60m: 8.3s / Broad jump: 238cm / Vertical: 45.93cm / Dominadas: 7 / Pistol: 5D–4I / Peso: 72kg. |
-| **Check-ins** | 0 desde mayo. Se reanudan cada 2 semanas en `ultimate/checkins.md`; el primero con la valoración de fisio (antes del 20 oct). |
+| **Check-ins** | Valoración de fisio ✅ lun 19 oct (buena sesión; ejercicios adicionales diarios sumados a la rehab). **Próximo control: lun 2 nov.** Check-ins cada 2 semanas en `ultimate/checkins.md`. |
 | **Plan entrenamiento** | Bogotá (may–jul) obsoleto. Plan Q4 en `ultimate/rutinas_entrenamiento.md` + cadencia Modo Tenjo Q4 en `_perfil/manual_operativo.md`. Inscripción al instituto/halterofilia solo con el historial de lesión entregado al profesional. |
 
 ---

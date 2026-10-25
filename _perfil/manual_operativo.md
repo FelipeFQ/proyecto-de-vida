@@ -137,6 +137,16 @@ Patrón más explicativo de Q3 2026 (identificado 2026-10-03). Felipe ejecuta co
 
 ---
 
+### 8. Evitación justo antes de exponerse (observado 2026-10-25)
+El 25 oct Felipe llevaba 5 días posponiendo un pago de $130k (el salón de la charla), una tarea de 2 minutos con la cuenta ya en la mano, por pensamientos de "tal vez no debería dar esta charla" (síndrome del impostor). Es el mismo patrón de las 4 ventanas de captación en cero: frenarse justo antes de que algo de exposición se vuelva real.
+**Antídoto:** cuando algo de exposición se pospone sin razón logística, (1) nombrar el pensamiento sin discutirlo, (2) hacer de inmediato el siguiente paso, por pequeño que sea ("cada acción es un voto", cap. 2 de Hábitos Atómicos), (3) recordar el filtro de conocimiento encarnado: la charla cuenta lo vivido, no teoría.
+
+### 9. Los días de viaje se comen el trabajo profundo y la rehab (observado 19–23 oct 2026)
+La lectura (lun 19) y el guion del Ep. 1 (mié 21, jue 22) se corrieron 3 veces, y la rehab falló el mar 20 y el mié 14, siempre en días con viaje a La Clarita o pendientes de la casa.
+**Ajuste:** (1) en días de viaje, la rehab va antes de salir aunque sean 10 min; (2) el bloque de 8–11 se asigna solo a días en Tenjo; en días de La Clarita solo cabe lectura o notas de voz en el bus; (3) si un bloque se corre dos veces, se cambia de día en la misma revisión, no se arrastra.
+
+---
+
 ## Filtros de identidad — coherencia profunda
 
 ### Principio de conocimiento encarnado
