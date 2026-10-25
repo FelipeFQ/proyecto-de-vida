@@ -41,7 +41,7 @@
 
 **Reestructuración formalizada (corregido 2026-08-28):** pagaré único firmado el 15 jul 2026 por **$33,000,000 COP** (TC $8.6M + familiar $10M + capital contenido para producción de video ~$4-5M + colchón de riesgo ~$8.9M + anualidad prepagada mentoría YouTube ~$1M). Año de gracia, primer pago 15 ago 2027. Ver detalle completo en `vida/estado_actual.md`, sección FINANZAS.
 
-**Reembolso aprobado por el abuelo (2026-10-06) — pago esperado antes del 11 oct:** pagos de Felipe con dinero propio para La Clarita. Soportes: recibos de ferretería y comprobantes de pago.
+**Reembolso aprobado por el abuelo (2026-10-06) — ✅ recibido (confirmado 2026-10-25).** Reembolso #2 abierto (2026-10-25): adelanto de $500.000 a don Gregorio (luz) + tablas de los mesones abatibles + segundo lavado de cortinas (montos por confirmar con soportes). pagos de Felipe con dinero propio para La Clarita. Soportes: recibos de ferretería y comprobantes de pago.
 
 | # | Periodo | Concepto | Monto |
 |---|---|---|---|
@@ -68,6 +68,35 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 
 **Decisión (2026-07-06):** se evaluó "compra de cartera total" en neobanco para consolidar esta deuda. Descartada — la tasa anunciada (1.46% M.V.) no correspondía al costo real; con cotizaciones reales del simulador (24/30/36/48/60 cuotas) la tasa efectiva implícita resultó ~2.6% M.V. (~36% E.A.), peor que la tasa actual. No se realiza el cambio.
 
+## CALENDARIO MENSUAL DE PAGOS (2026-10-25)
+*Definido en la sesión del Consejero del dom 25 oct. Sistema de recordatorio: **dos días de pago fijos al mes**, revisados en la revisión semanal y puestos en los pendientes del día y en la pantalla de bloqueo. Sin notificaciones nuevas: Felipe descarta las de Calendar sin leerlas, y construir notificaciones push en la app de finanzas quedó descartado (sesgo 1; fuera de Q4).*
+
+**Día de pagos 1 (~día 2): la casa + liquidación de la comisión**
+| Día | Concepto | Quién | Monto |
+|---|---|---|---|
+| 1–5 | Juana paga | Ingreso de Felipe | $300k (nov 2026: $600k, oct + nov) |
+| ~3 (se corre cada mes) | Gas Vanti | Casa | ~$47k (próximo: 3 nov) |
+| ~5–7 (se corre; lectura ~21) | Energía Enel | Casa | ~$170k |
+| 5–10 | Alejandro paga (Hab 2) | Ingreso de la casa | canon mensual |
+| 9 | Internet ETB (DirecTV Go ✅ cancelado) | Casa | ~$134k |
+| 10, cada 2 meses | Acueducto | Casa | ~$157k (próximo: 10 nov) |
+| 1–5 | Liquidación de la comisión (25% del neto del mes anterior; corte = mes calendario) | Ingreso de Felipe | propuesta, por confirmar con el abuelo |
+
+**Día de pagos 2 (~día 13): pagos personales + tarjetas**
+| Día | Concepto | Quién | Monto |
+|---|---|---|---|
+| ≤15 | Seguridad social | Felipe | $500k |
+| ≤15 | Tarjeta Rappi | Felipe | por confirmar (y qué tiene) |
+| ≤17 | Tarjeta Nu | Felipe | por confirmar (y qué tiene) |
+| ~15–17 | Tarjetas de los abuelos (Occidente, Nu abuela, Nu abuelo): cuotas de muebles | Casa | fechas por confirmar |
+| 15 (desde 15 dic 2026) | Préstamo de mamá | Casa | $1.323.132 |
+| 15–20 | Javier paga (Hab 1) | Ingreso de la casa | $1.250.000 |
+| 15 (desde 15 ago 2027) | Pagaré familiar | Felipe | ~$3.3M |
+
+**Provisión mensual (sin fecha):** apartar **$160k para Haku** de lo que entre cada mes (arena, comida, desparasitante, vacuna anual). Es un sobre de ahorro, no un pago.
+
+**Pendiente:** débito automático para Rappi y Nu si las apps lo permiten · fechas de las 3 tarjetas de los abuelos · saldo real del colchón para reactivar la app.
+
 ## FLUJO DE CAJA NETO ACTUAL (2026-10-03)
 
 | Escenario | Ingresos | Gastos | Flujo neto |
@@ -85,4 +114,5 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 ## HISTORIAL DE ACTUALIZACIONES
 - Abril 2026: Documento creado con datos base reales.
 - Junio 2026 (21): Actualización completa. Coaching consolidado ($470k/mes). Nueva deuda TC ($8.36M, 29%, 36 cuotas). Gastos Bogotá reales ($900k alimentación). Flujo neto real: -$1M/mes. Ahorros: $1.7M. Runway: ~6–7 semanas.
+- Oct 2026 (25): calendario mensual de pagos con dos días de pago fijos; Haku como provisión; Rappi (≤15) y Nu (≤17); reembolso de $1.212.600 recibido.
 - Oct 2026 (03): Modo Tenjo. TC absorbida por el pagaré (sin cuota). Colchón real $3M. Ingreso recurrente real $300k (comisión La Clarita por formalizar). Gatillo del plan B y alarma de caja definidos.

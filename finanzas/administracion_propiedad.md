@@ -73,8 +73,9 @@ Nota: la rendición asume Hab 3–4 a $1.35M. El precio publicado hoy es $1.5M (
 - [ ] Decidir el esquema de cobro para contratos que inician a mitad de mes (propuesta 2026-10-06: entrada cualquier día, primer pago proporcional a $50.000/día y luego todos pagan del 1 al 5; opcional: si entra después del 20, paga también el mes siguiente al firmar). Si se aprueba, incluirlo en la plantilla del contrato antes de la firma de Hab 2.
 - [ ] Decidir el destino de los objetos de la Hab 7 (trasladar / vender).
 - [ ] Pagar el saldo del eléctrico ($1.25M) cuando Enel cambie el contador.
-- [x] Cuantificar los pagos personales de Felipe a la casa → $1.212.600 (2026-10-06), detalle en `finanzas/finanzas_personales.md`. ✅ Aprobado como reembolso (2026-10-06); pago esperado antes del 11 oct.
-- [ ] Cancelar la suscripción DirecTV Go Flex en la factura de internet (~$22k/mes extra).
+- [x] Cuantificar los pagos personales de Felipe a la casa → $1.212.600 (2026-10-06), detalle en `finanzas/finanzas_personales.md`. ✅ Aprobado como reembolso (2026-10-06) y ✅ pagado (confirmado 2026-10-25).
+- [ ] Reembolso #2 a Felipe: $500k adelantados a don Gregorio + tablas del mesón + lavado de cortinas (montos con soportes).
+- [x] Cancelar la suscripción DirecTV Go Flex en la factura de internet (~$22k/mes extra).
 - [x] Servicios (aseo, internet, gas, luz, acueducto) los paga la casa con los arriendos (acordado 2026-10-06).
 - [ ] Comprar muebles Hab 2 con 3 tarjetas (Occidente ~$700k + Nu abuela $1.8M + Nu abuelo $1.2M). Verificar si Nu cobra interés en cuotas.
 - [ ] Pedir aumento de cupo Occidente (llamada mié 7 oct; si no, banco la semana siguiente).

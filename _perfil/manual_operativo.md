@@ -40,6 +40,8 @@ En la misma sesión, ante la opción técnica de reinstalar Windows (dual boot) 
 
 **Comportamiento a reforzar, nueva evidencia (2026-07-13):** al presentar la cifra final del pagaré ($32M), el colchón de riesgo (~$8.9M) inicialmente careció de justificación explícita — mismo patrón de "colchón sin dimensionar" de la sesión anterior. Ante el cuestionamiento directo, Felipe lo dimensionó con una razón concreta y verificable: cobertura para el escenario en que el empleo remoto (plan B) aterrice después de septiembre 2027, fecha del primer pago del pagaré — no un "por si acaso" genérico. Segunda vez en dos sesiones consecutivas que el reto directo sobre una cifra sin desglose produce una recalibración real, no defensiva. Confirma el patrón como corregible cuando se nombra explícitamente.
 
+**Nueva evidencia (2026-10-25):** en la sesión de finanzas, ante la fatiga de notificaciones de Calendar (las descarta sin leer), Felipe propuso agregar notificaciones a la app de finanzas. Se nombró que el problema es la fatiga, no el canal; que el push en una PWA implica service worker, VAPID y un cron en Supabase; y que las mejoras de apps están fuera de Q4. Aceptó sin resistencia la alternativa sin construir nada: dos días de pago fijos al mes, revisados en la revisión semanal y puestos en la pantalla de bloqueo, más débito automático donde se pueda.
+
 ---
 
 ### 2. Distracción con ideas nuevas
