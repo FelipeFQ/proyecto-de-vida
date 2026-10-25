@@ -27,11 +27,26 @@
 ## DEUDAS ACTIVAS
 | Acreedor | Saldo | Condiciones | Estado |
 |---|---|---|---|
+| RappiCard | ~$3.5–3.6M (bolsillo apartado $4.4M; conciliar la diferencia) | Compras por Mercado Libre **sin intereses**: celular a 12 meses + micrófonos/equipo del canal; algunas a 1 mes. Pago ≤ día 15 | Cubierto con efectivo apartado (2026-10-25) — se mantiene así porque no hay interés y el bolsillo rinde |
+| Tarjeta Nu | $1.763.000 | Compras por Mercado Libre **sin intereses** (1 mes y cuotas). Pago ≤ día 17 | Cubierto con efectivo apartado (2026-10-25) |
 | Pagaré familiar (padres) | $33,000,000 COP | Gracia desde 15 jul 2026 + 20% de interés total; 12 cuotas de ~$3.3M desde el 15 ago 2027 | Activo — consolida TC ($8.6M) + deuda familiar previa ($10M) + capital de contenido + colchón + anualidad mentoría |
 
 *Las filas de TC refinanciada y deuda familiar de $10M quedan absorbidas por el pagaré (confirmado 2026-10-03: no hay cuota de TC corriendo).*
 
-## COLCHÓN (2026-10-03)
+## COLCHÓN (actualizado 2026-10-25)
+| Bolsillo (Nu) | Saldo 25 oct | Carácter |
+|---|---|---|
+| Principal | $754.180 | Disponible |
+| Fondo de emergencias | $1.771.900 | Colchón |
+| Haku | $130.818 | Provisión |
+| Spotify | por confirmar | Provisión |
+| RappiCard | $4.400.900 | Apartado para la deuda de Rappi — no es colchón |
+| Nu | $1.763.000 | Apartado para la deuda de Nu — no es colchón |
+
+- **Colchón real: $2.526.080.** Distancia a la alarma de $1.5M: ~$1.03M.
+- **Inicios de nov:** + $1.578.180 de la liquidación de La Clarita + $600k de Juana → **~$4.7M**, mejor que el modelo del 3 oct (~$4.2M). La caída de octubre era plata por cobrar, no fuga. Depende de que el abuelo pague entre el 1 y el 5 nov.
+
+### Histórico (2026-10-03)
 - **Disponible: $3,000,000 COP** — ~$4M si el abuelo reembolsa los pagos hechos a La Clarita.
 - Del colchón de riesgo de ~$8.9M dimensionado en julio, se consumió más de la mitad en ~2.5 meses (gastos no contemplados + pagos de la casa).
 - **Alarma de caja:** colchón < $1.5M adelanta el gatillo del plan B (ver `vida/prioridades_Q4_2026.md`, sección 6).
@@ -58,7 +73,7 @@
 | | | Subtotal servicios | $529.000 |
 | | | **TOTAL** | **$1.212.600** |
 
-Excluidos por decisión de Felipe (considera que se cubrieron con el arriendo de Javier): electricidad sep $170.460, gas sep $46.990, internet sep $99.790 = $317.240. ⚠️ Verificar: según `finanzas/clarita/inquilinos.md`, el arriendo de sep ($1.25M) se usó casi completo en la 1.ª cuota de muebles ($1.190.248), lo que deja ~$60k; si Felipe pagó esos servicios desde su cuenta, son reembolsables.
+Excluidos inicialmente: electricidad sep $170.460, gas sep $46.990, internet sep $99.790 (+ Movistar $10.000). **Resuelto 2026-10-25: verificados con facturas, se cobran ($327.240) en la liquidación de octubre.** Nota original: según `finanzas/clarita/inquilinos.md`, el arriendo de sep ($1.25M) se usó casi completo en la 1.ª cuota de muebles ($1.190.248), lo que deja ~$60k; si Felipe pagó esos servicios desde su cuenta, son reembolsables.
 
 Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa directamente. Con reembolso, colchón ≈ $4.21M.
 
@@ -97,6 +112,42 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 
 **Pendiente:** débito automático para Rappi y Nu si las apps lo permiten · fechas de las 3 tarjetas de los abuelos · saldo real del colchón para reactivar la app.
 
+## CALENDARIO MENSUAL DE PAGOS (2026-10-25)
+*Sesión Consejero dom 25 oct. Recordatorio: **dos días de pago fijos al mes**, revisados en la revisión semanal y puestos en los pendientes del día / pantalla de bloqueo. Sin notificaciones nuevas (Felipe descarta las de Calendar sin leerlas; push en la app de finanzas descartado — sesgo 1, fuera de Q4).*
+
+**Día de pagos 1 (~día 2): la casa + liquidación del mes anterior**
+| Día | Concepto | Quién | Monto |
+|---|---|---|---|
+| 1–5 | Juana paga | Felipe | $300k (nov 2026: $600k, oct + nov) |
+| 1–5 | Liquidación de La Clarita (comisión 25% + reembolsos) | Felipe | ver regla abajo |
+| ~3 (se corre cada mes) | Gas Vanti | Casa | ~$47k (3 nov: $46.830) |
+| ~5–7 (se corre; lectura ~21) | Energía Enel | Casa | ~$170k |
+| 5–10 | Alejandro y Ximena pagan (Hab 2) | Casa | canon mensual |
+| 9 | Internet ETB (DirecTV Go ✅ cancelado) | Casa | ~$134k |
+| ~10, bimestral | Acueducto | Casa | 10 nov: $119.020 |
+
+**Día de pagos 2 (~día 13): pagos personales + tarjetas**
+| Día | Concepto | Quién | Monto |
+|---|---|---|---|
+| ≤15 | Seguridad social | Felipe | $500k |
+| ≤15 | RappiCard | Felipe | cuota del mes (bolsillo apartado) |
+| ≤17 | Tarjeta Nu | Felipe | cuota del mes (bolsillo apartado) |
+| ~15–17 | Tarjetas de los abuelos (Occidente, Nu abuela, Nu abuelo) — muebles | Abuelos (no los arriendos) | fechas por confirmar |
+| 15 (desde 15 dic 2026) | Préstamo de mamá | Casa | $1.323.132 |
+| 15–20 | Javier paga (Hab 1) | Casa | $1.250.000 |
+| 15 (desde 15 ago 2027) | Pagaré familiar | Felipe | ~$3.3M |
+
+**Provisiones mensuales (sin fecha):** $160k para Haku (arena, comida, desparasitante, vacuna anual) · $5k para Spotify ($30k cada 6 meses a la amiga que paga el plan familiar).
+
+## LIQUIDACIÓN DE LA CLARITA — REGLA (2026-10-25)
+- **Contabilidad de caja:** neto del mes X = arriendos recibidos en X − servicios **pagados** en X (fecha real del comprobante, no el periodo de consumo ni la fecha límite). Razón: las fechas de facturación se corren cada mes y el acueducto es bimestral; así cuadra con los extractos. Costo aceptado: el neto varía de un mes a otro, la suma anual es igual.
+- Comisión de Felipe: 25% del neto. Liquidación del 1 al 5 del mes siguiente. Con los arriendos solo se pagan servicios (no tarjetas ni muebles).
+- **Excepción de transición (solo octubre 2026):** los servicios pagados en oct ($371.910) y el aseo de Gloria (~$160k) los pagaron los abuelos de su bolsillo y no entran. En su lugar se descuentan los servicios pagados por Felipe en sep (consumo de agosto) que nunca se cobraron. Decírselo al abuelo en una línea al presentar la cuenta.
+- **Liquidación de octubre:** Javier $1.250.000 + prorrateo Alejandro y Ximena $605.000 (27 oct–5 nov, cobrar al firmar el 26) − servicios de sep pagados por Felipe $327.240 = **neto $1.527.760 → comisión $381.940**; a la cuenta de la abuela $1.145.820.
+- **Reservas (propuesta para el abuelo, 1–5 nov):** no entran en el neto de la comisión (son ahorro del dueño y salen del 75% de los abuelos). Predial desde ya (predial anual ÷ 12; el modelo tenía $100k/mes); reparaciones ~4–5% de los arriendos desde ya; vacancia desde 3–4 hab arrendadas. Las reparaciones reales se pagan de la reserva, no del neto (si no, cada arreglo baja la comisión y crea conflicto con el mantenimiento).
+
+**Por cobrar a inicios de nov (presentar en una sola cuenta):** servicios de sep pagados por Felipe $327.240 (Enel $170.460 + Vanti $46.990 + ETB $99.790 + Movistar cuota de repetidores $10.000) + comisión de oct $381.940 (caja de la casa) + reembolso #2 de inversión $869.000 (ahorros de los abuelos: don Gregorio $500.000 + tablas del mesón $270.000 + cortinas $99.000) = **$1.578.180**.
+
 ## FLUJO DE CAJA NETO ACTUAL (2026-10-03)
 
 | Escenario | Ingresos | Gastos | Flujo neto |
@@ -108,11 +159,12 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 *Histórico: Bogotá -$1M/mes (jun 2026); ahorros $1.7M (jun) y $1.75M (jul) antes del desembolso del pagaré.*
 
 ## SEGUIMIENTO SEMANAL
-- App Finanzas operativa: https://finanzas-app-gules-eight.vercel.app
+- App Finanzas: https://finanzas-app-gules-eight.vercel.app — ⚠️ **bug que bloquea (2026-10-25):** sin "olvidé mi contraseña" (Felipe no puede entrar en el computador) y en el celular se queda cargando. Acceso inmediato: Supabase → Authentication → Users → recovery/contraseña nueva. Arreglo en sesión desde el computador (regla: nada a `main` sin probar ahí). Juana también está expuesta.
 - Hábito semanal establecido — 2 semanas de racha al 2 junio 2026.
 
 ## HISTORIAL DE ACTUALIZACIONES
 - Abril 2026: Documento creado con datos base reales.
 - Junio 2026 (21): Actualización completa. Coaching consolidado ($470k/mes). Nueva deuda TC ($8.36M, 29%, 36 cuotas). Gastos Bogotá reales ($900k alimentación). Flujo neto real: -$1M/mes. Ahorros: $1.7M. Runway: ~6–7 semanas.
 - Oct 2026 (25): calendario mensual de pagos con dos días de pago fijos; Haku como provisión; Rappi (≤15) y Nu (≤17); reembolso de $1.212.600 recibido.
+- Oct 2026 (25): colchón real con bolsillos; deudas Rappi y Nu sin interés; calendario de pagos; regla de liquidación por caja; liquidación de octubre; reembolso #1 recibido.
 - Oct 2026 (03): Modo Tenjo. TC absorbida por el pagaré (sin cuota). Colchón real $3M. Ingreso recurrente real $300k (comisión La Clarita por formalizar). Gatillo del plan B y alarma de caja definidos.

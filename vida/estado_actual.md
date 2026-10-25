@@ -10,7 +10,7 @@
 |---|---|
 | **Clientes activos** | 1 — Juana ($300k/mes, subió desde $170k). **Horario nuevo (desde oct 2026): miércoles 7:00–8:00** (le cambiaron el turno de trabajo a 13:00–19:00). Excepción: mié 21 oct a las 8:00. |
 | **Primer cliente histórico** | Noviembre 2025 (antes del lanzamiento formal de Método Cimientos en abril 2026) |
-| **Ingresos coaching** | $300k/mes (bajó de $470k tras no-fit de Luisa) |
+| **Ingresos coaching** | $300k/mes (bajó de $470k tras no-fit de Luisa). Juana no pagó oct: paga oct + nov ($600k) del 1 al 5 nov. |
 | **Meta Q2 (ajustada)** | ✅ CUMPLIDA — Juana + Luisa activas |
 | **Brecha** | — Meta cumplida. Siguiente hito: 10 clientes en 12 meses desde abr 2026 |
 | **Tracker app** | ✅ Completa y operativa. Última actualización 2026-05-25: auto-guardado de borrador en sesión diagnóstico (localStorage `cimientos_diagnostic_draft_<nombre>`) — notas se recuperan si el modal se cierra accidentalmente. Actualización anterior 2026-05-20: nuevo módulo **Sesión Diagnóstico** en Captación — modal con 4 bloques evaluables (señal global + ítems de check por bloque + notas libres), sección Variable Médica opcional, veredicto con avance automático de etapa. Modal base con scroll (max-h 90vh). |
@@ -116,7 +116,7 @@
 | **Flujo neto** | Negativo: gastos fijos Tenjo ~$660k + transporte a La Clarita vs ~$300k de ingreso. Mejora a medida que se llenan habitaciones |
 | **Deuda TC** | ✅ Ya no existe como deuda separada — absorbida por el pagaré de $33M (sin cuota mensual, confirmado 2026-10-03) |
 | **Deuda familiar** | Pagaré único $33M (incluye la antigua deuda familiar de $10M). Gracia hasta 15 ago 2027, luego 12 cuotas de ~$3.3M |
-| **Colchón disponible** | **$3,000,000 COP** (2026-10-03) — ~$4M si el abuelo reembolsa los pagos hechos a La Clarita. Se consumió más de la mitad del colchón de $8.9M del pagaré por gastos no contemplados y pagos de la casa. **Alarma: <$1.5M adelanta el gatillo del plan B** |
+| **Colchón disponible** | **$2.526.080 al 25 oct** (+ $1.578.180 de la liquidación de La Clarita y $600k de Juana a inicios de nov → ~$4.7M). Deudas Rappi y Nu sin interés, cubiertas con bolsillos apartados. Ver `finanzas/finanzas_personales.md`. Antes: **$3,000,000 COP** (2026-10-03) — ~$4M si el abuelo reembolsa los pagos hechos a La Clarita. Se consumió más de la mitad del colchón de $8.9M del pagaré por gastos no contemplados y pagos de la casa. **Alarma: <$1.5M adelanta el gatillo del plan B** |
 | **Gastos fijos (Tenjo)** | ~$660k/mes (seguridad social $500k + Haku $160k) + transporte a La Clarita (1–2 h por trayecto, lun + sáb) |
 | **App finanzas** | ✅ Operativa en producción. URL: finanzas-app-gules-eight.vercel.app. Multi-usuario, Supabase, PWA instalable. ⚠️ **Sin registro de ingresos y gastos desde ~mediados de jul–ago 2026** (obra + La Clarita). Retomar en la sesión de finanzas del dom 25 oct. |
 | **Hábito sesión semanal** | ✅ Establecido — 2 semanas de racha (dato en localStorage app, no visible en sistema) |
@@ -176,7 +176,8 @@
   - ☐ Recoger las cortinas (no estaban listas el mar 20 → mié 21).
   - ☐ **Cuentas de octubre — más tarde en la semana, sin día fijo (primera liquidación con la comisión del 25%):** arriendos cobrados (Javier) − servicios pagados = neto; 25% del neto para Felipe, el resto para la cuenta de la abuela (menos las cuotas de tarjeta pagadas con arriendo, si las hubo). Registrar en la hoja *Registro Mensual* de `Rendicion_Cuentas_La_Clarita.xlsx` (ojo: la fila de sep usó 20%).
   - ✅ **Enel:** medidor cambiado; **don Gregorio pagado al 100%** (oct 2026).
-  - ☐ **Pago del salón ($130k):** la cuenta ya está a mano; pendiente al 25 oct (ver sesgo 8 del manual) → transferir + comprobante a Diego + pedir que lo agregue al grupo.
+  - ✅ **Pago del salón ($130k):** transferido el dom 25 oct a la cuenta del conjunto → comprobante a Diego en la tarde + pedir que lo agregue al grupo.
+  - ✅ Mesón instalado y cortinas recogidas (sáb 24). Fotos y video de la Hab 2: lun 26 antes de la entrega (cortinas + aseo).
 - Hab 4: Tipo A, fecha de entrega por definir.
 - Precio: $1.500.000 (3–5 meses); desde 7 oct (adelantado del 9) $1.450.000 (6–11 m) / $1.400.000 (12 m); a quien recibió la oferta anterior (6+ m = $1.400.000) se le respeta. Plazo mínimo 3 meses. Segunda persona +$300.000. Pernoctación $10.000/noche.
 - Marketing: solo FB Marketplace desde 23 sep. Línea base a 9 días: 970 clics → 51 mensajes → 15 siguen conversando (29%) → 4 piden visita → 1 visita → 0 cierres. Hay demanda; la fuga está en la conversión. Experimento 1 (nueva primera respuesta, desde 2 oct): 6/6 conversaciones siguieron. Experimento 2 desde 3 oct 19:26: categoría "Departamento" + descripción corregida (línea base 1.154 clics, 63 chats = 5,5/100).

@@ -141,6 +141,7 @@ Patrón más explicativo de Q3 2026 (identificado 2026-10-03). Felipe ejecuta co
 
 ### 8. Evitación justo antes de exponerse (observado 2026-10-25)
 El 25 oct Felipe llevaba 5 días posponiendo un pago de $130k (el salón de la charla), una tarea de 2 minutos con la cuenta ya en la mano, por pensamientos de "tal vez no debería dar esta charla" (síndrome del impostor). Es el mismo patrón de las 4 ventanas de captación en cero: frenarse justo antes de que algo de exposición se vuelva real.
+**Resultado (25 oct):** nombrado en la sesión, pagado el mismo día.
 **Antídoto:** cuando algo de exposición se pospone sin razón logística, (1) nombrar el pensamiento sin discutirlo, (2) hacer de inmediato el siguiente paso, por pequeño que sea ("cada acción es un voto", cap. 2 de Hábitos Atómicos), (3) recordar el filtro de conocimiento encarnado: la charla cuenta lo vivido, no teoría.
 
 ### 9. Los días de viaje se comen el trabajo profundo y la rehab (observado 19–23 oct 2026)
