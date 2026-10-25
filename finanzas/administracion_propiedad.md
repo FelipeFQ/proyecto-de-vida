@@ -74,7 +74,7 @@ Nota: la rendición asume Hab 3–4 a $1.35M. El precio publicado hoy es $1.5M (
 - [ ] Decidir el destino de los objetos de la Hab 7 (trasladar / vender).
 - [ ] Pagar el saldo del eléctrico ($1.25M) cuando Enel cambie el contador.
 - [x] Cuantificar los pagos personales de Felipe a la casa → $1.212.600 (2026-10-06), detalle en `finanzas/finanzas_personales.md`. ✅ Aprobado como reembolso (2026-10-06) y ✅ pagado (confirmado 2026-10-25).
-- [ ] Reembolso #2 a Felipe: $500k adelantados a don Gregorio + tablas del mesón + lavado de cortinas (montos con soportes).
+- [ ] Liquidación de octubre + reembolso #2 (1–5 nov): $1.578.180 a Felipe (servicios de sep pagados por Felipe $327.240 + comisión $381.940 + inversión $869.000: don Gregorio $500k, tablas $270k, cortinas $99k). Regla y detalle en `finanzas/finanzas_personales.md`. Proponer reservas (predial, reparaciones, vacancia) fuera del neto.
 - [x] Cancelar la suscripción DirecTV Go Flex en la factura de internet (~$22k/mes extra).
 - [x] Servicios (aseo, internet, gas, luz, acueducto) los paga la casa con los arriendos (acordado 2026-10-06).
 - [ ] Comprar muebles Hab 2 con 3 tarjetas (Occidente ~$700k + Nu abuela $1.8M + Nu abuelo $1.2M). Verificar si Nu cobra interés en cuotas.
