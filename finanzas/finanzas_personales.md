@@ -39,7 +39,7 @@
 | Principal | $754.180 | Disponible |
 | Fondo de emergencias | $1.771.900 | Colchón |
 | Haku | $130.818 | Provisión |
-| Spotify | por confirmar | Provisión |
+| Spotify | $30.000 | Provisión — ya completo el pago semestral a la amiga |
 | RappiCard | $4.400.900 | Apartado para la deuda de Rappi — no es colchón |
 | Nu | $1.763.000 | Apartado para la deuda de Nu — no es colchón |
 
