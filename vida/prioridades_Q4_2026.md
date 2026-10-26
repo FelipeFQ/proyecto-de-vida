@@ -57,6 +57,7 @@ Todo lo demás es secundario o se alimenta de esos dos.
 - Rampa: semanas 1–2 solo movilidad/rehab matutina + entreno grupal (sin volumen alto de lanzamientos); fuerza desde la semana 3 según la valoración.
 - Check-in quincenal en `ultimate/checkins.md` (el primero con la valoración).
 - Inscripción al instituto/halterofilia solo con el historial de SLAP/tendinopatía entregado al profesional.
+- **25 oct: hombro 8/10 ✅** (meta de hombro alcanzada antes de tiempo). Siguen abiertas: ≥3 sesiones/semana sostenidas hasta el 31 dic y re-test de métricas contra el baseline de mayo.
 
 ### YouTube — Prioridad 2
 - **Serie "el regreso":** un coach de hábitos que dejó de entrenar 4 meses y reconstruye el hábito en público usando su propio método.

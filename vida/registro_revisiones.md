@@ -64,28 +64,20 @@
 | **Ajustes acordados** | Ep. 1 vuelve como práctica de la charla (mismo tema). Codeudor obligatorio para todos (padrastro). Promoción propia de la charla. |
 | **Próximos pasos** | Lectura → guion → grabación → edición (máx. 3 h). Entrega Hab 2. Javier con fecha. Horario de Juana. |
 
----|---|
-| **Coaching** |  |
-| **Ultimate / Salud** |  |
-| **Finanzas** |  |
-| **Estudios** |  |
-| **Fricciones** |  |
-| **Ajustes acordados** |  |
-| **Próximos pasos** |  |
 
 ---
 
 ## REVISIÓN #5
 
-| **Fecha** | _____ / _____ / 2026 |
+| **Fecha** | 25 / 10 / 2026 |
 |---|---|
-| **Coaching** |  |
-| **Ultimate / Salud** |  |
-| **Finanzas** |  |
-| **Estudios** |  |
-| **Fricciones** |  |
-| **Ajustes acordados** |  |
-| **Próximos pasos** |  |
+| **Coaching** | Juana: sesión ✅ con horario nuevo (mié 7–8); no pagó oct, paga oct + nov del 1 al 5 nov. Salón de la charla ✅ pagado dom 25 (se había pospuesto 5 días → sesgo 8). Oferta de entrada corta sin diseñar y promoción sin empezar a 20 días de la charla. Clientes nuevos: 0. |
+| **Ultimate / Salud** | 3/3 entrenos, rehab 5/7. Hombro 8/10 (meta Q4 alcanzada). Fisio ✅ 19 oct; control mar 3 nov. |
+| **Finanzas** | Sesión de finanzas ✅: calendario de pagos (dos días de pago al mes), regla de liquidación por caja, colchón real $2.53M (~$4.7M a inicios de nov), liquidación de oct (comisión $381.940) + reembolso #2 = $1.578.180. Hab 2: entrega movida al mar 27, 14:00. Javier sin firmar (4.ª semana). |
+| **Estudios** | Hábitos Atómicos cap. 2 y 6 leídos; cap. 12 y Wood pendientes. |
+| **Fricciones** | Guion del Ep. 1 corrido 3 veces en días de viaje (sesgo 9). App de finanzas bloqueada por el login. Propuesta de notificaciones en la app → descartada (sesgo 1). |
+| **Ajustes acordados** | Javier recibe los paquetes de la Hab 3 y Felipe arma un día por semana. Una sola lavadora (20 kg, después de la Hab 3). Reservas fuera del neto de la comisión (propuesta para el abuelo). Semana con foco en la charla: oferta mar, flyer mié. |
+| **Próximos pasos** | Entrega Hab 2 mar 27 · compra Hab 3 · oferta corta · flyer · guion mié + grabación jue · bug jue · liquidación con el abuelo dom 1 · firma de Javier sáb 31. |
 
 ---
 

@@ -14,7 +14,7 @@
 | **Mecanismo** | Sesión prolongada de lanzamientos forehand |
 | **Test O'Brien** | Positivo (dolor con pulgar abajo, mejora con palma arriba) |
 | **Inicio aproximado** | Anterior a abril 2026 |
-| **Estado actual** | **Regresión — 6/10 al 3 oct 2026** (desde 9/10 en mayo) tras ~4 meses sin entrenar. Molestia nueva en escápula. Regresaron dolores de lesiones pasadas. Valoración de fisioterapia pendiente (contacto de la fisio de Tenjo conseguido y mensaje enviado mar 6 oct; formulario de la fisio llenado ~11 oct, esperando fechas; valoración en octubre — llevar hombro SLAP/tendinopatía, escápula y pubalgia). |
+| **Estado actual** | **Mejoría — 8/10 al 25 oct 2026** (desde 6/10 el 3 oct, tras 3 semanas de rehab + ejercicios de la fisio + grupo 3/semana). Sin molestia durante el juego; persiste una molestia leve de noche (al dormir) y al despertar → llevarla al control. Antes: regresión a 6/10 el 3 oct (desde 9/10 en mayo). |
 | **Lanzamiento derecho** | Backhand activo. Forehand activo (recuperado ~mayo 2026). |
 | **Estrategia paralela** | Desarrollo del lanzamiento con brazo izquierdo mientras se recupera el derecho |
 | **Acceso médico** | Limitado. Resonancia difícil por EPS. Fisioterapia en Tenjo vía entrenador de la escuela (oct 2026). |
@@ -62,4 +62,4 @@ Antes de inscribirse formalmente a halterofilia en el instituto de Tenjo (planea
 | 2026-05-16 | 9 | Mejora significativa en últimas 2 semanas. Todos los lanzamientos activos incluyendo forehand derecho. Molestia aparece solo con sobrecarga de volumen en poco tiempo (alta frecuencia de lanzamientos). Uso funcional normal sin dolor. Protocolo de rehab en curso. |
 | 2026-05-18 | 9 | Baseline Q2: 7 dominadas sin dolor, solo fallo técnico. Restricción de dominadas en contexto de fuerza levantada. Restricción vigente: no exceder volumen de lanzamientos por sesión. |
 | 2026-10-03 | 6 | Regresión tras ~4 meses sin entrenar (jun–sep 2026, obra en Bogotá). Molestia en escápula. Regreso de dolores de lesiones pasadas (por detallar en la valoración). Sin check-ins desde mayo. |
-| 2026-10-19 | — | **Valoración de fisioterapia (Tenjo): buena sesión.** La fisio agregó ejercicios a la rutina de rehab actual, para hacer **todos los días**. **Próximo control: lun 2 nov 2026.** Ejercicios nuevos: remo en el aire con retracción escapular 2×10 (progresión: anillos → mancuerna) + rotación interna mano al ombligo → entre las escápulas 2×10 por lado. Detalle en `rutinas_entrenamiento.md`. |
+| 2026-10-19 | — | **Valoración de fisioterapia (Tenjo): buena sesión.** La fisio agregó ejercicios a la rutina de rehab actual, para hacer **todos los días**. Próximo control: **mar 3 nov 2026** (el lun 2 es festivo; Felipe le escribe a la fisio el vie 30 para coordinar). Ejercicios nuevos: remo en el aire con retracción escapular 2×10 (progresión: anillos → mancuerna) + rotación interna mano al ombligo → entre las escápulas 2×10 por lado. Detalle en `rutinas_entrenamiento.md`. |

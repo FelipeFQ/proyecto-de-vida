@@ -42,4 +42,11 @@
 
 ## Registro
 
-*Vacío — primer check-in pendiente.*
+### Check-in — 2026-10-25 (semana 19–25 oct)
+| Ítem | Dato |
+|---|---|
+| Entrenos de grupo | 3/3 (mar, jue, vie) |
+| Rehab + ejercicios de la fisio | 5/7 días (fallaron 2, incluido el mar 20, día de viaje) |
+| Hombro | **8/10** (meta Q4 ≥8/10 alcanzada) — sin molestia jugando; leve de noche y al despertar |
+| Pubalgia | sin dato nuevo |
+| Próximo | Control de la fisio mar 3 nov: llevar la molestia nocturna y preguntar cuándo pasar el remo a anillos. Hasta entonces, nada de carga por encima de la cabeza ni más volumen de lanzamientos. |
