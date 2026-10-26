@@ -35,6 +35,15 @@
 
 ---
 
+## Inventario estándar (Sección III del contrato)
+
+*Definido 2026-10-26. El contrato trae las casillas ☐1–☐5 y las observaciones en blanco para llenar a mano en la entrega; al final de cada tabla hay 2 filas libres que, si no se usan, se anulan con una línea.*
+
+- **Hab 301 (tipo A):** acabados (puertas y marcos, paredes y pintura, pisos, ventanas y cortinas, puntos eléctricos) · base cama y colchón semidoble · protector de colchón · escritorio · clóset modular · lámparas de nochero y escritorio (2) · mesón abatible · canecas (2) · sábanas y sobresábanas (1 juego) · cobijas (2) · Smart TV + control · nevera minibar · microondas · cocineta 1,2 m · licuadora · juego de ollas · vajilla · cubiertos · utensilios de cocina · baño (sanitario y lavamanos, ducha eléctrica, espejo y accesorios, cerradura).
+- **Hab 1 (tipo A):** igual que la Hab 301, **sin TV y sin lámparas**.
+
+---
+
 ## Recordatorios de ciclo
 
 - **Renovación:** el aumento anual máximo es el IPC del año anterior (Ley 820/2003).
