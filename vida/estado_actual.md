@@ -209,7 +209,7 @@
 | **Mié 28** | 7:00 Juana · 8:00–11:00 **terminar el guion del Ep. 1** | **Flyer de la charla** → grupo de WhatsApp + portería · mensaje de cierre a Santiago · anuncio con las fotos nuevas (Hab 3 sin fecha hasta que lleguen los muebles) | — |
 | **Jue 29** | **Grabar el Ep. 1** (una toma) | **Bug de la app de finanzas (1 h máx., desde el computador)** · preparar la cuenta de octubre para el abuelo · registrar saldos en la app | Entreno |
 | **Vie 30** | Charla: apertura de 3 min + ensayo en voz alta | Escribirle a la fisio → control mar 3 nov · equipo de sonido y antigüedades → Marketplace / tienda · holgura | Entreno |
-| **Sáb 31** (La Clarita) | Firma de Javier · armar lo que haya llegado de la Hab 3 · depurar 1–2 h (chatarra / vender / reutilizar / estado de muebles) | Holgura | — |
+| **Sáb 31** (La Clarita) | ~~Firma de Javier~~ → se adelantó al lun 26 · armar lo que haya llegado de la Hab 3 · depurar 1–2 h (chatarra / vender / reutilizar / estado de muebles) | Holgura | — |
 | **Dom 1** | Libre | **Liquidación de octubre con el abuelo:** $1.578.180 (servicios de sep $327.240 + comisión $381.940 + inversión $869.000) + propuesta de reservas | — |
 
 Todos los días: rehab + ejercicios de la fisio · Marketplace 11/14/18 · celular fuera 22:30. Edición del Ep. 1: semana del 2 nov (tope 3 h). Viaje a Carmen de Apicalá para el letrero: no esta semana. Hab 3: Javier recibe los paquetes (trabaja desde casa); Felipe arma un solo día por semana → disponible ~9–15 nov.

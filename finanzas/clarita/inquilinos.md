@@ -1,6 +1,6 @@
 # INQUILINOS ACTIVOS — Coliving La Clarita
 *Ciclo de vida desde la firma: entrega con inventario → cobro mensual → incidencias → renovación → salida.*
-*Última actualización: 2026-10-14*
+*Última actualización: 2026-10-26*
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Hab | Inquilino | Documento | Teléfono | Canon | Inicio | Duración | Fin | Día de pago | Garantía |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Javier Roa (nombre legal: Yeimberth Javier Roa Martínez — siempre llamarlo **Javier**) | Pasaporte 198700535 | 3003446634 | $1.250.000 | 2026-09-15 | Por decidir: 6 o 12 meses (él aún no decide). **Contrato sin firmar** — fecha de inicio 15 sep; borrador final listo 14 oct (`Contrato_Javier_Hab1.docx` + `.pdf`, solo en local por datos personales): Javier marca 6 o 12 meses; firma prevista vie 16 → **sigue sin firmar al 25 oct** (no lo ha leído por falta de tiempo; Felipe lo considera sin urgencia por la confianza de ~3 años). Fecha suave de firma: **sáb 31 oct** en la visita de Felipe (se le propone el lun 26 junto con el favor de recibir los paquetes de la Hab 3; contrato impreso el lun 26). Reajuste IPC cada 12 meses (primero 15 sep 2027; corrige el "15 ene/6%" que se le dijo). Sin depósito, solo preaviso de 30 días sin penalidad. Javier hace el aseo de su habitación | — | 15–20 de cada mes | $0 — trato especial por ~3 años de arriendo con la familia |
+| 1 | Javier Roa (nombre legal: Yeimberth Javier Roa Martínez — siempre llamarlo **Javier**) | Pasaporte 198700535 | 3003446634 | $1.250.000 | 2026-09-15 | Por decidir: 6 o 12 meses (él aún no decide). **Contrato sin firmar** — fecha de inicio 15 sep; borrador final listo 14 oct (`Contrato_Javier_Hab1.docx` + `.pdf`, solo en local por datos personales): Javier marca 6 o 12 meses; firma prevista vie 16 → **sigue sin firmar al 25 oct** (no lo ha leído por falta de tiempo; Felipe lo considera sin urgencia por la confianza de ~3 años). **2026-10-26: Javier aprobó el contrato → firma lun 26** (versión final revisada ese día: lavadora $6.000/ciclo, inventario con casillas en blanco para llenar a mano en la firma, enlace de Drive de las fotos de la Hab 1; la abuela firma al imprimir). *Antes:* fecha suave de firma **sáb 31 oct** en la visita de Felipe (se le propone el lun 26 junto con el favor de recibir los paquetes de la Hab 3; contrato impreso el lun 26). Reajuste IPC cada 12 meses (primero 15 sep 2027; corrige el "15 ene/6%" que se le dijo). Sin depósito, solo preaviso de 30 días sin penalidad. Javier hace el aseo de su habitación | — | 15–20 de cada mes | $0 — trato especial por ~3 años de arriendo con la familia |
 
 ---
 
