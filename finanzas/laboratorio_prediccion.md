@@ -78,6 +78,8 @@ Referencia (8 apuestas, sin ningún sesgo real en el mercado):
 | 20¢ | 50% (ROI +25%) | 20% (ROI +88%) | 6% (ROI +150%) | 1% |
 | 30¢ | 75% (ROI −17%) | 45% (ROI +25%) | 19% (ROI +67%) | 6% |
 
+**Análisis definido de antemano (cobertura mediática):** en cada evaluación (8 y 15 operaciones), comparar los aciertos de los mercados con volumen total al cierre **≥ USD 5M** contra los de menos. La hipótesis (2026-10-26): el sesgo se concentra en elecciones muy conocidas, donde entra más dinero de narrativa. Se mide con el volumen, no con "sale en los noticieros", que depende de las noticias que ve Felipe. Se vuelve regla de entrada solo si los datos la respaldan.
+
 **Si se sube:**
 - Como máximo, un cuarto de lo que indica la fórmula de Kelly, aplicado al fondo y siempre bajo el tope anual.
 - Se reevalúa con la misma regla cada 8 operaciones nuevas (la ventaja puede desaparecer si el sesgo se vuelve conocido).
@@ -106,8 +108,9 @@ Referencia (8 apuestas, sin ningún sesgo real en el mercado):
 
 Las filas marcadas como **referencia** son anteriores al sistema y **no cuentan** para las 8 operaciones.
 
-| # | Fecha entrada | Votación (fecha) | Favorito mercado (precio) | Perdedor mercado (precio) | Encuestas (diferencia) | ¿Cumple? | Etiqueta del perdedor | Intuición (antes de comprar) | Dinero | Resultado | Error de encuestas | P&L |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R1 | jun 2026 | Colombia 2.ª vuelta (21 jun 2026) | De la Espriella ~87–89% | Cepeda ~12–14¢ | Empate técnico (según Felipe; <1 pt en agregados) | Referencia | Izquierda · oficialismo | — | Real, fuera de sistema | Ganó De la Espriella (~0,96 pts, según Felipe) | Por registrar | Pérdida total |
-| R2 | — | Brasil 2.º turno (25 oct 2026) | Flávio Bolsonaro ~80–83% | Lula ~18–20¢ | MDA: Flávio 50,7 / Lula 49,3 | Referencia (papel) | Izquierda · gobierno | "Creo que gana Lula" — no apostó por miedo | Ninguno | Ganó Lula (~51,8% según parcial del TSE; confirmar) | Por registrar | Papel: ~+400% |
-| R3 | — | EE. UU. presidencial (5 nov 2024) | Trump ~60–65% | Harris ~35–40¢ | Empate (~1 pt) | Referencia, límite (favorito justo en el umbral) | Centro-izquierda · partido en el gobierno | — | Ninguno | Ganó Trump | Por registrar | Papel: pérdida total |
+| # | Fecha entrada | Votación (fecha) | Favorito mercado (precio) | Perdedor mercado (precio) | Encuestas (diferencia) | ¿Cumple? | Etiqueta del perdedor | Volumen total al cierre (USD) | Intuición (antes de comprar) | Dinero | Resultado | Error de encuestas | P&L |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| R1 | jun 2026 | Colombia 2.ª vuelta (21 jun 2026) | De la Espriella ~87–89% | Cepeda ~12–14¢ | Empate técnico (según Felipe; <1 pt en agregados) | Referencia | Izquierda · oficialismo | ~10–11M (según Felipe) | — | Real, fuera de sistema | Ganó De la Espriella (~0,96 pts, según Felipe) | Por registrar | Pérdida total |
+| R2 | — | Brasil 2.º turno (25 oct 2026) | Flávio Bolsonaro ~80–83% | Lula ~18–20¢ | MDA: Flávio 50,7 / Lula 49,3 | Referencia (papel) | Izquierda · gobierno | ~10–11M (según Felipe) | "Creo que gana Lula" — no apostó por miedo | Ninguno | Ganó Lula (~51,8% según parcial del TSE; confirmar) | Por registrar | Papel: ~+400% |
+| R3 | — | EE. UU. presidencial (5 nov 2024) | Trump ~60–65% | Harris ~35–40¢ | Empate (~1 pt) | Referencia, límite (favorito justo en el umbral) | Centro-izquierda · partido en el gobierno | Muy alto (por registrar) | — | Ninguno | Ganó Trump | Por registrar | Papel: pérdida total |
+| R4 | — | Ecuador 2.ª vuelta (13 abr 2025) | Por verificar | Por verificar | Encuestas divididas (Comunicaliza: Noboa +7,6; N&E: González +5); 1.ª vuelta 44,3 / 43,8 | Referencia, por verificar | Izquierda · oposición | Por verificar | — | Ninguno | Ganó Noboa (~11 pts, según memoria del Consejero; confirmar) | Posible subestimación de la derecha | Por verificar |
