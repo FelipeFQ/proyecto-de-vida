@@ -69,7 +69,7 @@ Nota: la rendición asume Hab 3–4 a $1.35M. El precio publicado hoy es $1.5M (
 ## TEMAS PENDIENTES POR RESOLVER
 - [x] Abuelo decide la comisión → **25% de la ganancia neta desde nov 2026** (2026-10-06). Neto = arriendos del mes − servicios del mes (confirmado por el abuelo 2026-10-06); primera liquidación con las cuentas de octubre.
 - [ ] Abuelo decide la Opción B (muebles desde ahorros).
-- [ ] Decidir la compra del monedero + lavadora (14 o 20 kg).
+- [ ] Decidir la compra del monedero + lavadora (14 o 20 kg). **Análisis 2026-10-25:** una sola lavadora basta (~10–14 cargas/semana con la casa llena vs ~60–70 de capacidad, ~20% de uso); el cuello de botella real es el espacio de secado en la terraza. Recomendado: 20 kg (cobijas/edredones). Segunda lavadora solo con evidencia (colas o quejas con ≥5 hab ocupadas). Momento: después de la Hab 3 (el cupo va primero a muebles, que producen más) → ~dic, decide el abuelo. Mientras tanto, la lavadora actual es gratis (se explica en persona; el contrato con $6.000/ciclo no se cambia).
 - [ ] Decidir el esquema de cobro para contratos que inician a mitad de mes (propuesta 2026-10-06: entrada cualquier día, primer pago proporcional a $50.000/día y luego todos pagan del 1 al 5; opcional: si entra después del 20, paga también el mes siguiente al firmar). Si se aprueba, incluirlo en la plantilla del contrato antes de la firma de Hab 2.
 - [ ] Decidir el destino de los objetos de la Hab 7 (trasladar / vender).
 - [ ] Pagar el saldo del eléctrico ($1.25M) cuando Enel cambie el contador.
