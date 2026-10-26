@@ -13,6 +13,7 @@
 | **Caja** | Colchón real $2.53M (25 oct) + $1.58M de la liquidación de La Clarita y $600k de Juana a inicios de nov → ~$4.7M. Deudas de Rappi y Nu sin interés, cubiertas con bolsillos apartados. Ingreso personal: Juana $300k + comisión del 25% del neto (oct ≈ $382k). Gastos fijos ~$660k + transporte. | Cada gasto no planificado se justifica; alarma <$1.5M adelanta el gatillo del plan B; la plata propia que se ponga en La Clarita se registra para reembolso. |
 | **Carga simultánea** | 1 cliente + captación por charlas + La Clarita (6 hab, embudo activo) + Carmen de Apicalá + serie YouTube + curso del mentor + reconstrucción física | Cinco frentes. La cadencia Modo Tenjo Q4 con ancla externa por frente es el mecanismo de control. |
 | **Distancia La Clarita** | Tenjo ↔ Engativá: 1 h mínimo, 2 h en hora pico, por sentido. | Solo lun PM + sáb AM (excepción: sprint de amoblado hasta 14 oct). Ningún viaje sin visita confirmada. Martes 15–17 h choca con el entreno de 19:00 — no proponer sin decisión explícita de Felipe. |
+| **Apuestas** | Antecedente jun 2026: apuesta grande en la elección de Colombia → deuda → préstamo de los padres (saldado). Desde 26 oct 2026, solo dentro de `finanzas/laboratorio_prediccion.md`: USD 10 por operación; el monto sube solo con confirmación estadística. | El Consejero revisa las alarmas del laboratorio en cada revisión mensual del calendario. Cualquier apuesta fuera de la matriz cierra el laboratorio. |
 | **Gatillo plan B** | Empleo pausado por decisión de enfoque. Gatillo: 30 abr 2027 con <8 clientes → búsqueda de empleo remoto. Lectura intermedia 31 ene 2027 (≥4). Alarma de caja <$1.5M. | No reabrir búsqueda de empleo antes del gatillo, pero sí nombrarlo si la lectura de enero o la alarma de caja se activan. Ver `vida/prioridades_Q4_2026.md`, sección 6. |
 
 ---
@@ -97,6 +98,8 @@ Felipe reportó ~3–4 h de redes sociales en un solo día con siete pendientes 
 **Pregunta abierta:** ¿en qué momentos se va el tiempo (al despertar, entre tareas, en la cama)? La intervención depende de la respuesta.
 
 **Pregunta correctiva:** *¿Dónde estaba el celular cuando se fue el bloque?*
+
+**Variante a vigilar (2026-10-26):** justificar el consumo de noticias y geopolítica en el celular como trabajo del laboratorio de predicción. Ver noticias no cuenta como laboratorio; el laboratorio son 10 minutos mensuales con datos (`finanzas/laboratorio_prediccion.md`).
 
 ---
 

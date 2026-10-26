@@ -42,6 +42,7 @@ Gestionar ingresos, gastos, deudas e inversiones inmobiliarias de Felipe con cri
 | `herramientas_tbr/` | Referencia | Plantillas .xlsx del Taller de Bienes Raíces |
 | `clarita/` | Vivo | Coliving La Clarita: ficha_inmueble, interesados, inquilinos, marketing, contrato borrador, rendición (build_clarita.py → xlsx) |
 | `cotizaciones/` | Archivo | PDFs de cotizaciones de remodelación |
+| `laboratorio_prediccion.md` | Vivo (registro acumulativo) | Laboratorio de mercados de predicción vs. encuestas: hipótesis, criterios, regla de confirmación, alarmas, registro de operaciones |
 
 ---
 
@@ -51,6 +52,7 @@ Gestionar ingresos, gastos, deudas e inversiones inmobiliarias de Felipe con cri
 - **Prioridad Q4 2026** (`vida/prioridades_Q4_2026.md`): La Clarita es prioridad 1 (≥4/6 hab al 31 dic + comisión formalizada antes del 31 oct); Carmen de Apicalá es prioridad 3 (evento puntual). Vigilar la alarma de caja: colchón <$1.5M adelanta el gatillo del plan B.
 - **Decisiones de inversión:** No recomendar inversiones que requieran capital que Felipe no tiene. El horizonte de inversión agresiva (CDTs, portafolio propio) viene después de que el coaching genere ingresos estables.
 - **Deuda:** pagaré familiar único de $33M (firmado 15 jul 2026; absorbió la TC y la deuda familiar de $10M). Gracia hasta el 15 ago 2027, luego 12 cuotas de ~$3.3M. Candidatas para abonar: comisión de Carmen de Apicalá o excedentes.
+- **Laboratorio de predicción:** primer lunes del mes, 10 min: calendario electoral del mundo de los próximos 60 días, según la lista de verificación de `laboratorio_prediccion.md`. USD 10 por operación. Revisar las alarmas en cada pasada. No es una skill ni una app: no se construye nada hasta que haya ≥3 operaciones y fricción real.
 - **Herramientas:** Si se necesita un cálculo (rentabilidad, préstamo, flujo), señalar cuál plantilla de `herramientas_tbr/` aplica.
 
 ---
