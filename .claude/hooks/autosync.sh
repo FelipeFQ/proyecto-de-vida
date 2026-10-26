@@ -10,7 +10,7 @@ unsynced=""
 git merge-base --is-ancestor HEAD origin/main 2>/dev/null || unsynced=1
 if [ -n "$dirty" ] || [ -n "$unsynced" ]; then
   cat <<'JSON'
-{"decision":"block","reason":"Sincronización automática: hay cambios del sistema de vida sin subir a main (archivos sin commit, commits sin push, o la sesión está en una rama distinta de main). Antes de cerrar: (1) revisa si en esta sesión hubo decisiones, cambios de estado o formas de operar sin documentar y aplícalos en el archivo correcto (si son cambios nuevos que Felipe no ha aprobado, propónlos con [DOC] y no los escribas); (2) haz commit de lo aprobado y push a main (si estás en otra rama, intégrala a main y súbela). Si el push falla, dilo explícitamente."}
+{"decision":"block","reason":"Sincronización automática: hay cambios del sistema de vida sin subir a main (archivos sin commit, commits sin push, o la sesión está en una rama distinta de main). Antes de cerrar: (1) revisa si en esta sesión hubo decisiones, cambios de estado o formas de operar sin documentar y aplícalos en el archivo correcto (si son cambios nuevos que Felipe no ha aprobado, propónlos con [DOC] y no los escribas); (2) haz commit de lo aprobado y push a main (si estás en otra rama, intégrala a main y súbela). El push va SOLO, en su propia llamada y con el texto exacto `git push origin main` (o `git push origin HEAD:main` desde una rama claude/*): sin cd, sin &&, sin flags, sin pipes ni redirecciones; si no, el modo auto lo bloquea. Si el push falla, dilo explícitamente."}
 JSON
 fi
 exit 0
