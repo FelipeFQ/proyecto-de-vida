@@ -103,7 +103,9 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 | ≤15 | Seguridad social | Felipe | $500k |
 | ≤15 | RappiCard | Felipe | cuota del mes (bolsillo apartado) |
 | ≤17 | Tarjeta Nu | Felipe | cuota del mes (bolsillo apartado) |
-| ~15–17 | Tarjetas de los abuelos (Occidente, Nu abuela, Nu abuelo) — muebles | Abuelos (no los arriendos) | fechas por confirmar |
+| ≤14 | Tarjeta Nu del abuelo — muebles | Abuelos (no los arriendos) | cuota del mes |
+| ≤15 | Tarjeta Banco de Occidente del abuelo — muebles | Abuelos (no los arriendos) | cuota del mes |
+| ≤21 | Tarjeta Nu de la abuela — muebles | Abuelos (no los arriendos) | cuota del mes (se paga el mismo día de pagos 2, adelantada) |
 | 15 (desde 15 dic 2026) | Préstamo de mamá | Casa | $1.323.132 |
 | 15–20 | Javier paga (Hab 1) | Casa | $1.250.000 |
 | 15 (desde 15 ago 2027) | Pagaré familiar | Felipe | ~$3.3M |
