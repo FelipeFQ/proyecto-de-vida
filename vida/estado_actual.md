@@ -212,6 +212,8 @@
 | **Sáb 31** (La Clarita) | ~~Firma de Javier~~ → se adelantó al lun 26 · armar lo que haya llegado de la Hab 3 · depurar 1–2 h (chatarra / vender / reutilizar / estado de muebles) | Holgura | — |
 | **Dom 1** | Libre | **Liquidación de octubre con el abuelo:** $1.578.180 (servicios de sep $327.240 + comisión $381.940 + inversión $869.000) + propuesta de reservas | — |
 
+**Actualización lun 26 noche:** Hab 2 limpia y lista; **fotos y video no se tomaron** → se toman antes de la entrega. Alejandro y Ximena autenticaron el pagaré, pero **Ximena está hospitalizada** (incidente médico) → la entrega del mar 27 14:00 puede moverse al mié 28 en la mañana; Alejandro avisa para coordinar llaves, firma del contrato y entrega del pagaré. **Cupo de las tarjetas con el abuelo:** se pospone hasta que la Hab 2 esté entregada oficialmente (para que la liberación tenga un porqué). Si la entrega pasa al mié AM, choca con Juana (7:00) y el guion (8–11): mover el guion al jue 8–11 y la grabación al vie.
+
 Todos los días: rehab + ejercicios de la fisio · Marketplace 11/14/18 · celular fuera 22:30. Edición del Ep. 1: semana del 2 nov (tope 3 h). Viaje a Carmen de Apicalá para el letrero: no esta semana. Hab 3: Javier recibe los paquetes (trabaja desde casa); Felipe arma un solo día por semana → disponible ~9–15 nov.
 
 **Pendientes de la casa (actualizado 2026-10-25):** llamadas desde Tenjo en la ventana de las 11:00 (Libardo/bomba, mantenimiento de la lavadora actual — decidir si vale la pena si se reemplaza en dic, comprador del equipo de sonido, tienda de antigüedades para TV/VHS/rebobinadores/películas/casetes) · trabajo físico solo los sábados 1–2 h tras armar la Hab 3. La depuración apunta a liberar la Hab 7 (~$800k/mes de costo de oportunidad).
