@@ -210,7 +210,7 @@
 | **Mié 4** | 6:30 rehab · Juana (por agendar) · 8–11 **cerrar la oferta corta** | Cardio 1 · compra de la Hab 3 si ya hay abono |
 | **Jue 5** | 6:30 rehab · 8–11 **terminar el guion** | Calendario compartido de la casa · vence el plazo de pago de Juana · entreno |
 | **Vie 6** | 6:30 rehab · 8–11 **grabar el Ep. 1** | **Flyer + QR** · entreno |
-| **Sáb 7** | 6:30 rehab · 11–13 prueba de invitación en la entrada, si Diego lo autoriza | Cardio 2 |
+| **Sáb 7** | 6:30 rehab · prueba de invitación en la entrada (1 h, por decidir) | Cardio 2 |
 | **Dom 8** | Libre | Libre |
 
 **Cuerpo:** rehab fija a las 6:30 (despertar 6:15). Cardio 2 veces por semana en días sin campo, de bajo impacto; si la pubalgia molesta al día siguiente, se baja. Sin press por encima de la cabeza hasta ver a Sonia.
