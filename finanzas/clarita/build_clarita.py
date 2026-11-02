@@ -1,3 +1,4 @@
+# Generó la versión del 30 sep 2026. Desde el 2 nov 2026 el xlsx se edita directamente: correr este script borra los datos reales.
 import datetime as dt
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side

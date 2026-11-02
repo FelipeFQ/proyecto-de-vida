@@ -120,6 +120,8 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 
 **Por cobrar a inicios de nov (presentar en una sola cuenta):** servicios de sep pagados por Felipe $327.240 (Enel $170.460 + Vanti $46.990 + ETB $99.790 + Movistar cuota de repetidores $10.000) + comisión de oct $296.977 (caja de la casa) + reembolso #2 de inversión $869.000 (ahorros de los abuelos: don Gregorio $500.000 + tablas del mesón $270.000 + cortinas $99.000) = **$1.493.217**.
 
+**Actualización 2026-11-02 (reemplaza el total anterior):** Felipe ya se transfirió **$624.217** (servicios de sep + comisión) de la cuenta de la casa, y quedan ahí $988.783 ($890.930 de los abuelos + $97.853 de reservas). Falta por devolverle **$1.129.000 de los ahorros de los abuelos**: don Gregorio $500.000 + tablas del mesón $270.000 + ducha de la Hab 2 $170.000 + lavado de cortinas de la Hab 2 $99.000 + copias de llaves de la Hab 2 $90.000. Pendiente de respuesta del abuelo: base de la comisión ($296.977 con la propuesta; $321.440 con la definición del 6 oct) y autorización de los $1.129.000. El lavado de cortinas (distinto al de la Hab 1 del reembolso #1) y las llaves se repiten con cada habitación: ~$189.000. Cuentas en `finanzas/clarita/Rendicion_Cuentas_La_Clarita.xlsx`, hojas *Liquidación Oct 2026* y *Hab 3 Compras*.
+
 ## FLUJO DE CAJA NETO ACTUAL (2026-10-03)
 
 | Escenario | Ingresos | Gastos | Flujo neto |
