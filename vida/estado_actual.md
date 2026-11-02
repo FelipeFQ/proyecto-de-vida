@@ -200,7 +200,24 @@
 
 ---
 
-## PLAN SEMANAL VIGENTE — 26 oct al 1 nov 2026
+## PLAN SEMANAL VIGENTE — 2 al 8 nov 2026
+*Definido lun 2 nov (sesión Consejero). Prioridad: oferta corta, guion + grabación del Ep. 1, flyer y primera prueba de invitación en persona para la charla del sáb 21 nov (por confirmar con Diego). Sin compromisos familiares esta semana; los siguientes son el 12 nov (cumpleaños del abuelo) y 14–16 nov (presentación de la prima, fuera de Bogotá).*
+
+| Día | Mañana | Tarde y noche |
+|---|---|---|
+| **Lun 2** | — | Hablar con el abuelo (base de la comisión, $1.129.000, abonos de la Hab 3) · agregar a Alejandro y Ximena al grupo de la casa · audio a Simón · laboratorio de predicción (10 min) · recuperar acceso a la app de finanzas por Supabase |
+| **Mar 3** | 6:30 rehab · mensajes a Sonia (control a más tardar vie 6) y a Diego (fecha de la charla) · plomero en La Clarita: bomba + ducha · pagar Vanti $46.830 | **Bug de la app (tope 1 h)** antes del entreno; si no alcanza, sigue el mié en la tarde · entreno 19:00 |
+| **Mié 4** | 6:30 rehab · Juana (por agendar) · 8–11 **cerrar la oferta corta** | Cardio 1 · compra de la Hab 3 si ya hay abono |
+| **Jue 5** | 6:30 rehab · 8–11 **terminar el guion** | Calendario compartido de la casa · vence el plazo de pago de Juana · entreno |
+| **Vie 6** | 6:30 rehab · 8–11 **grabar el Ep. 1** | **Flyer + QR** · entreno |
+| **Sáb 7** | 6:30 rehab · 11–13 prueba de invitación en la entrada, si Diego lo autoriza | Cardio 2 |
+| **Dom 8** | Libre | Libre |
+
+**Cuerpo:** rehab fija a las 6:30 (despertar 6:15). Cardio 2 veces por semana en días sin campo, de bajo impacto; si la pubalgia molesta al día siguiente, se baja. Sin press por encima de la cabeza hasta ver a Sonia.
+
+**Cierre semana 26 oct–1 nov:** ✅ Hab 2 entregada y firmada (sáb 31, prorrateo $363.000) · Javier firmó (31 oct) · sesión con Juana (presencial). ❌ oferta corta · flyer · apertura de la charla · guion (sigue a medias) · grabación · bug de la app · objetos a Marketplace. Entrenos 1/3 (jue y vie cancelados por competencia de compañeros) · rehab 3–4/7 (no se agendó la noche anterior) · Juana sin pagar los $600k · control de la fisio sin agendar. **Charla movida del fin de semana del 14 nov al sáb 21 nov** (compromiso familiar).
+
+## PLAN SEMANAL ANTERIOR — 26 oct al 1 nov 2026
 *Definido dom 25 oct (sesión Consejero, revisión semanal + sesión de finanzas). Prioridad de la semana: la charla del sáb 15 nov (oferta + promoción) y la entrega de la Hab 2. Si la semana se aprieta, se mueven depuración → objetos a Marketplace → bug de la app; no se mueven oferta, flyer, guion ni grabación.*
 
 | Día | Bloque 8–11 | Resto del día | Noche |

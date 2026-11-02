@@ -46,7 +46,8 @@ Todo lo demás es secundario o se alimenta de esos dos.
 ### Coaching — Prioridad 1
 - **Meta al 31 dic: 3 clientes pagando.**
 - 1.ª charla en el salón social del conjunto propio: ~~agendada antes del 17 oct, ejecutada antes del 8 nov~~ → **ajuste 2026-10-13: sábado PM (único horario compatible con las entregas de La Clarita y los entrenos). Pedir sáb 8 nov (respaldo sáb 15 nov) en reunión con el administrador sáb 17 oct 11:00.** Tema: *los buenos y los malos hábitos tienen el mismo denominador común: el entorno.* Cierra con oferta concreta de sesión diagnóstico (cupo limitado).
-- 3 charlas en Q4 (siguiente en el mismo conjunto o en el otro, según resultado de la primera) · 6 sesiones diagnóstico.
+- **Ajuste 2026-11-02: 1.ª charla el sáb 21 nov (por confirmar con Diego), por compromiso familiar el fin de semana del 14 nov.**
+- ~~3 charlas en Q4~~ → **máximo 2 charlas en Q4 (ajuste 2026-11-02)**, en el mismo conjunto o en el otro, según resultado de la primera · 6 sesiones diagnóstico. La meta de 3 clientes al 31 dic queda muy justa.
 - Amplificación por voz a voz: vecinos cercanos (padres de Esteban Chaves) — compartir la invitación entre vecinos. **No usar nombres ajenos como credencial en la promoción.**
 - Oferta de entrada corta (8–12 semanas, resultado concreto, protocolo más prescriptivo al inicio) diseñada antes de la 1.ª charla.
 - Probar la hipótesis "el mercado compra dirección, el método entrega independencia" con Juana en octubre, **antes** de evaluar cualquier no-fit con ella.
