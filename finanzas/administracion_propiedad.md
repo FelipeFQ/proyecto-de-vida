@@ -6,7 +6,7 @@ Casa de los abuelos en el barrio La Clarita, Engativá (Bogotá). Estrato 3. Lot
 
 Capacidad real: **7 habitaciones** (4 Tipo A + 2 Tipo B habilitables; la 7ª hoy es bodega de objetos de los abuelos y se libera en 1–2 años).
 
-Felipe administra a cambio de una comisión sobre el ingreso neto operativo (escenarios 10/20/30%, por decidir con los abuelos). Ya no aplica la referencia anterior de "100% del neto en transición" ni el 25% base.
+Felipe administra a cambio de una comisión del 25% de la ganancia neta desde nov 2026 (acordado 2026-10-06). La base de cálculo está pendiente de respuesta del abuelo.
 
 ## ESTADO ACTUAL (actualizado 2026-10-02)
 Remodelación terminada. La casa opera como **Coliving La Clarita** (Carrera 84A # 71A-10, La Clarita, Engativá). Arrendadora: Clara Inés Ávila de Quintero; administrador: Felipe. Contrato tripartito (arrendadora + administrador + arrendatario).
@@ -31,6 +31,7 @@ Operación diaria, precios, interesados y marketing: ver `finanzas/clarita/` y l
 - **Fuentes del dinero:** abuelo (capital propio, efectivo + transferencias) $89.9M · préstamo de mamá al abuelo $35M ($29.5M contratista + $4,999,785 cámaras + $500,215 a la cuenta de la abuela; parte pasó por la cuenta de Felipe como intermediaria) · TC abuelos (Mercado Libre, cuotas sin interés) para muebles y bomba.
 - **Préstamo de mamá:** 1.5% m.v. (~19.6% EA), intereses de gracia capitalizados desde el 15 ago 2026 (acordado aunque hubo desembolsos parciales desde el 15 jul). 36 cuotas fijas de **$1,323,132**, del 15 dic 2026 a nov 2029. Intereses totales ~$12.6M. Se paga con el ingreso de la casa. **No prepagar:** decisión del abuelo (los intereses son un favor hacia su hija). Felipe solo lo puede sugerir de palabra.
 - **ROI (comisión 20%, casa completa):** inversión total a recuperar $187.2M (obra + mobiliario de 7 habitaciones + lavandería + intereses). Rentabilidad ~29.9% anual. Recuperación ~45 meses desde oct 2026 (~jun 2030).
+- **Proyección con comisión 25% (rendición, 2026-11-02):** 6 habitaciones después del préstamo: $2,51M/mes para los abuelos; casa completa: $3,26M/mes; recuperación ~45 meses. Las fechas de la Hab 3 a la Hab 6 siguen siendo las del plan de septiembre.
 - **Valor de referencia (no es avalúo):** por comparables ~$603–613M como vivienda; por renta $518–666M hoy (6 hab) y $629–810M con la casa completa (tasa de capitalización 7–9%). El valor por renta solo se puede defender con 6–12 meses de ocupación documentada.
 - **Rendición de cuentas:** `finanzas/clarita/Rendicion_Cuentas_La_Clarita.xlsx` (generado por `build_clarita.py`, soportes en `finanzas/clarita/soportes/`), dirigida al abuelo Jorge Quintero (impresa + correo).
 - **Reunión ingeniero (medidas + refinamiento presupuesto):** 14 de mayo 2026.
@@ -74,7 +75,7 @@ Nota: la rendición asume Hab 3–4 a $1.35M. El precio publicado hoy es $1.5M (
 - [ ] Decidir el destino de los objetos de la Hab 7 (trasladar / vender).
 - [ ] Pagar el saldo del eléctrico ($1.25M) cuando Enel cambie el contador.
 - [x] Cuantificar los pagos personales de Felipe a la casa → $1.212.600 (2026-10-06), detalle en `finanzas/finanzas_personales.md`. ✅ Aprobado como reembolso (2026-10-06) y ✅ pagado (confirmado 2026-10-25).
-- [ ] Liquidación de octubre + reembolso #2 (1–5 nov): $1.493.217 a Felipe (servicios de sep $327.240 + comisión $296.977 + inversión $869.000). Proponer al abuelo la **base operativa** de la comisión (predial prorrateado por ocupación + reparaciones menores 4% antes de la comisión; vacancia, reparaciones mayores y préstamo fuera de la base). Regla y cálculo en `finanzas/finanzas_personales.md`. + cupo de las tarjetas para la Hab 3.
+- [ ] Liquidación de octubre: Felipe ya se transfirió $624.217 (servicios de sep + comisión). Falta que el abuelo responda sobre la base de la comisión ($296.977 con la propuesta; $321.440 con la definición del 6 oct), autorice $1.129.000 de sus ahorros y decida el abono para el cupo de la Hab 3. Detalle en `finanzas/finanzas_personales.md`, "Actualización 2026-11-02". Conversación: mar 3 nov.
 - [x] Cancelar la suscripción DirecTV Go Flex en la factura de internet (~$22k/mes extra).
 - [x] Servicios (aseo, internet, gas, luz, acueducto) los paga la casa con los arriendos (acordado 2026-10-06).
 - [ ] Comprar muebles Hab 2 con 3 tarjetas (Occidente ~$700k + Nu abuela $1.8M + Nu abuelo $1.2M). Verificar si Nu cobra interés en cuotas.
@@ -94,3 +95,4 @@ Nota: la rendición asume Hab 3–4 a $1.35M. El precio publicado hoy es $1.5M (
 - Abril 2026: Documento creado con datos base reales.
 - Sep 2026 (30): Rendición de cuentas construida con 24 pagos soportados. Capacidad corregida a 7 habitaciones. El modelo de comisión 10/20/30% sobre neto reemplaza la referencia del 25%. Préstamo de mamá documentado. Lavandería con monedero.
 - Oct 2026 (02): Coliving operando. Hab 1 arrendada. Marketplace activo desde 23 sep. Creada la skill /clarita y los archivos de estado en finanzas/clarita/.
+- Nov 2026 (02): Rendición de octubre actualizada; Hab 1 y Hab 2 con contrato firmado. Humedad: entra de la terraza al techo del cuarto de Javier; don Germán la revisa el mar 3 nov, y un muchacho que él lleva revisa la bomba. Si la reparación es mayor, se cotiza por escrito y la decide el abuelo.

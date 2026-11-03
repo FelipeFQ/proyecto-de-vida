@@ -19,7 +19,7 @@
 |---|---|---|---|---|---|---|
 | 2026-09 | 1 | Javier Roa | $1.250.000 | — | — | Usado completo para la 1ª cuota de la tarjeta (muebles Hab 1) — ver rendición |
 | 2026-10 | 1 | Javier Roa | $1.250.000 | Día 15 (según su fecha habitual) | Llave Bre-B | Sin comprobante revisado en esta sesión |
-| 2026-10 | 301 | Alejandro y Ximena | $363.000 | 2026-10-31 (en la entrega) | — | Prorrateo 31 oct–5 nov (6 días). Medio de pago por confirmar |
+| 2026-10 | 301 | Alejandro y Ximena | $363.000 | 2026-10-31 (en la entrega) | Cuenta Nu de la abuela | Prorrateo 31 oct–5 nov (6 días) |
 
 ---
 
