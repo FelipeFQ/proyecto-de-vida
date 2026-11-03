@@ -124,5 +124,5 @@ Decidido en esta sesión. Reemplaza al "checkpoint mayo 2027" anterior.
 | Ítem | Detalle |
 |---|---|
 | Fecha de revisión | Enero 2027 (inicio de Q1) — coincide con la lectura intermedia del gatillo (31 ene) |
-| Criterio de éxito del trimestre | ≥4/6 habitaciones La Clarita · comisión formalizada · 3 clientes de coaching pagando · 3 charlas ejecutadas · ≥3 sesiones/semana de entrenamiento sostenidas + hombro ≥8/10 · ~6 videos publicados + sesión con mentor · Carmen de Apicalá con anuncio reactivado |
+| Criterio de éxito del trimestre | ≥4/6 habitaciones La Clarita · comisión formalizada · 3 clientes de coaching pagando · hasta 2 charlas ejecutadas (ajuste 2026-11-02) · ≥3 sesiones/semana de entrenamiento sostenidas + hombro ≥8/10 · ~6 videos publicados + sesión con mentor · Carmen de Apicalá con anuncio reactivado |
 | Decisiones pendientes clave | Cupo/formato de coaching para 8 clientes · cómo cerrar la brecha de ~$0.7M/mes de agosto 2027 · ventana de visitas del martes en La Clarita (choca con entreno de 19:00) |

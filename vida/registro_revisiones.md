@@ -83,6 +83,20 @@
 
 ## REVISIÓN #6
 
+| **Fecha** | 02 / 11 / 2026 |
+|---|---|
+| **Coaching** | Sesión con Juana ✅ (presencial); no ha pagado los $600k (plazo jue 5 nov). Oferta corta y flyer sin hacer. Charla movida al sáb 21 nov por compromiso familiar (por confirmar con Diego). Clientes nuevos: 0. |
+| **Ultimate / Salud** | 1/3 entrenos (jue y vie cancelados por competencia de compañeros), rehab 3–4/7 (no se agendó la noche anterior). Sentadilla + press con 15 kg sin dolor. Control con Sonia sin agendar. |
+| **Finanzas** | Hab 2 firmada sáb 31 (prorrateo $363.000), Javier firmó el 31 oct. Rendición de octubre actualizada; proyecciones al 25%. Felipe se transfirió $624.217. Faltan $1.129.000 de los ahorros y la respuesta del abuelo. |
+| **Estudios** | Sin avance registrado en esta revisión. |
+| **Fricciones** | Guion a medias y sin grabar. Bug de la app sin hacer. App para inquilinos → descartada, calendario compartido en su lugar (sesgo 1). Conversación con el abuelo del lun 2 no alcanzó: pasa al mar 3. |
+| **Ajustes acordados** | Rehab fija 6:30. Cardio de bajo impacto 2 veces por semana; sin press por encima de la cabeza hasta ver a Sonia. Promoción con QR en la entrada: ensayo sáb 7 nov y promoción fuerte 18–20 nov. Máximo 2 charlas en Q4. |
+| **Próximos pasos** | Mar: abuelo, grupo de la casa, Sonia, Diego, plomero, Vanti, bug. Mié: Juana, oferta corta. Jue: guion, calendario. Vie: grabar, flyer + QR. Sáb: ensayo con 10 vecinos. |
+
+---
+
+## REVISIÓN #7
+
 | **Fecha** | _____ / _____ / 2026 |
 |---|---|
 | **Coaching** |  |

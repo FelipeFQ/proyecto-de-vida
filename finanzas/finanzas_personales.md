@@ -123,6 +123,12 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 
 **Actualización 2026-11-02 (reemplaza el total anterior):** Felipe ya se transfirió **$624.217** (servicios de sep + comisión) de la cuenta de la casa, y quedan ahí $988.783 ($890.930 de los abuelos + $97.853 de reservas). Falta por devolverle **$1.129.000 de los ahorros de los abuelos**: don Gregorio $500.000 + tablas del mesón $270.000 + ducha de la Hab 2 $170.000 + lavado de cortinas de la Hab 2 $99.000 + copias de llaves de la Hab 2 $90.000. Pendiente de respuesta del abuelo: base de la comisión ($296.977 con la propuesta; $321.440 con la definición del 6 oct) y autorización de los $1.129.000. El lavado de cortinas (distinto al de la Hab 1 del reembolso #1) y las llaves se repiten con cada habitación: ~$189.000. Cuentas en `finanzas/clarita/Rendicion_Cuentas_La_Clarita.xlsx`, hojas *Liquidación Oct 2026* y *Hab 3 Compras*.
 
+**Propuestas para hablar con el abuelo (2026-11-02; la conversación pasó al mar 3 nov, nada aprobado todavía):**
+- **Cupo para la Hab 3:** faltan $5.198.041 por tarjeta y hay ~$985.925 de cupo (Nu abuela $209.076, Nu abuelo $326.849, Occidente estimado $450.000). Abono necesario: **$4.212.116** (~$2,46M a Nu + ~$1,75M a Occidente, este último tras ver el extracto). Con los $1.129.000, salen de ahorros ~$5,34M.
+- **Reserva:** 15% de la parte de los abuelos (10% vacancia, con tope ~$4M; 5% reparaciones mayores). Octubre: $133.640. Revisar en mayo.
+- **Lavadora + monedero:** $4,54M, retorno ~39 meses con 3 personas y ~24 con 6 (la Hab 3 se paga en ~6 meses). Recomendación: Hab 3 primero; cotizar mantenimiento de la lavadora actual, que funciona pero lleva 1,5 años sin mantenimiento. Con todo, ahorros ~$9,88M.
+- **Anuncio:** se reactiva sin fecha de entrega fija.
+
 ## FLUJO DE CAJA NETO ACTUAL (2026-10-03)
 
 | Escenario | Ingresos | Gastos | Flujo neto |
