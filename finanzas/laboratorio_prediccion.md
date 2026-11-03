@@ -114,3 +114,43 @@ Las filas marcadas como **referencia** son anteriores al sistema y **no cuentan*
 | R2 | — | Brasil 2.º turno (25 oct 2026) | Flávio Bolsonaro ~80–83% | Lula ~18–20¢ | MDA: Flávio 50,7 / Lula 49,3 | Referencia (papel) | Izquierda · gobierno | ~10–11M (según Felipe) | "Creo que gana Lula" — no apostó por miedo | Ninguno | Ganó Lula (~51,8% según parcial del TSE; confirmar) | Por registrar | Papel: ~+400% |
 | R3 | — | EE. UU. presidencial (5 nov 2024) | Trump ~60–65% | Harris ~35–40¢ | Empate (~1 pt) | Referencia, límite (favorito justo en el umbral) | Centro-izquierda · partido en el gobierno | Muy alto (por registrar) | — | Ninguno | Ganó Trump | Por registrar | Papel: pérdida total |
 | R4 | — | Ecuador 2.ª vuelta (13 abr 2025) | Por verificar | Por verificar | Encuestas divididas (Comunicaliza: Noboa +7,6; N&E: González +5); 1.ª vuelta 44,3 / 43,8 | Referencia, por verificar | Izquierda · oposición | Por verificar | — | Ninguno | Ganó Noboa (~11 pts, según memoria del Consejero; confirmar) | Posible subestimación de la derecha | Por verificar |
+
+### 6b. Ejercicio en papel: midterms de EE. UU. (3 nov 2026)
+
+*Sin dinero real. Registrado el 2 nov en la noche, antes de que abran las urnas. No cuenta para las 8 operaciones ni activa la regla de confirmación: fuera de ventana, y el Senado aún no entra por tipo.*
+
+**Regla de Felipe:** USD 10 por el que va perdiendo en Polymarket, en cada carrera con asimetría (favorito ≥65). Precios leídos por Felipe el 2 nov. Encuestas: rango entre promedios disponibles (FiftyPlusOne, RCP, 270toWin, Texpolls); FiftyPlusOne no muestra fechas ni número de encuestas.
+
+| Canasta | Carrera | Apuesta (precio) | Encuestas | Pago si gana | Resultado | P&L |
+|---|---|---|---|---|---|---|
+| A | Sen. Texas | Paxton (26¢) | D+2,2 a 3,7 | $38,46 | | |
+| A | Sen. Maine | Collins (28¢) | D+1,7 a 4,7 | $35,71 | | |
+| A | Gob. Ohio | Ramaswamy (17¢) | D+2,6 a 4,5 | $58,82 | | |
+| A | Sen. Ohio | Husted (28¢) | D+2,6 a 2,9 | $35,71 | | |
+| A | Sen. Carolina del Sur | Andrews (32¢) | Empate | $31,25 | | |
+| A | Sen. Nebraska | Osborn (28¢) | R+1,9 | $35,71 | | |
+| A | Gob. Nevada | Lombardo (25¢) | D+0,6 | $40,00 | | |
+| A | Gob. Kansas | Holscher (36¢) | D+0,1 | $27,78 | | |
+| B | Sen. Michigan | Rogers (20¢) | D+3,5 a 5,5 | $50,00 | | |
+| B | Gob. Florida | Jolly (36¢) | R+4,4 | $27,78 | | |
+| B | Sen. Minnesota | Tafoya (8¢) | D+6,2 | $125,00 | | |
+| B | Gob. Arizona | Biggs (7¢) | D+7,1 | $142,86 | | |
+| B | Sen. Florida | Nixon (14¢) | R+6,1 | $71,43 | | |
+| B | Sen. Georgia | Collins (3¢) | D+9,6 | $333,33 | | |
+| B | Gob. Michigan | James (5¢) | D+8,7 | $200,00 | | |
+| B | Sen. New Hampshire | Sununu (6¢) | D+8,8 | $166,67 | | |
+| C | Sen. Montana | Independiente (9¢) | Sin dato | $111,11 | | |
+| C | Sen. Mississippi | Colom (14¢) | Sin dato | $71,43 | | |
+
+- **Canasta A:** asimetría con encuestas dentro de 3 puntos en al menos un promedio; 8 apuestas, USD 80, aciertos esperados por precio 2,20. Es la hipótesis de la sección 1.
+- **Canasta B:** asimetría sin empate; 8 apuestas, USD 80, aciertos esperados 0,99.
+- **Canasta C:** sin promedio de encuestas encontrado; 2 apuestas, USD 20, aciertos esperados 0,23.
+- **Total:** 18 apuestas, USD 180, aciertos esperados 3,42.
+
+**Fuera de las 18, se siguen aparte** porque también tienen encuestas empatadas y Felipe no alcanzó a listarlas: Sen. Alaska (Sullivan 27,5¢; D+1,2 a 2,3) y Gob. Georgia (Jackson 30,5¢; D+0,3).
+
+**Cómo se lee (definido antes del resultado):**
+1. Métrica principal: aciertos frente a aciertos esperados, por canasta. El balance en dólares se reporta, pero no decide.
+2. La pregunta: ¿la canasta A supera lo esperado por su precio más que la B?
+3. Una sola noche no confirma ni descarta nada: las carreras comparten el mismo error nacional de las encuestas. Cuenta como una observación.
+4. Las carreras que tarden en resolverse (Alaska y Maine por voto preferencial, conteos largos) quedan abiertas hasta su resultado oficial.
