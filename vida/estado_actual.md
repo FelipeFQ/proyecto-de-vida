@@ -206,7 +206,7 @@
 | Día | Mañana | Tarde y noche |
 |---|---|---|
 | **Lun 2** | — | Audio a Simón · laboratorio de predicción (10 min, en sesión aparte) · recuperar acceso a la app de finanzas por Supabase (si no alcanza, pasa al mar antes del bug) |
-| **Mar 3** | 6:30 rehab · agregar a Alejandro y Ximena al grupo de la casa · mensajes a Sonia (control a más tardar vie 6) y a Diego (fecha de la charla y traslado de la reserva) · plomero en La Clarita: bomba + ducha · pagar Vanti $46.830 | **Hablar con el abuelo** (pasó del lun 2: base de la comisión, $1.129.000, abonos de la Hab 3, cupo, reserva 15%, lavadora; de esto depende la compra de la Hab 3) · **bug de la app (tope 1 h)** antes del entreno; si no alcanza, sigue el mié en la tarde · entreno 19:00 |
+| **Mar 3** | 6:30 rehab · agregar a Alejandro y Ximena al grupo de la casa · mensajes a Sonia (control a más tardar vie 6) y a Diego (fecha de la charla y traslado de la reserva) · **ir a La Clarita:** don Germán revisa la humedad que entra de la terraza al techo del cuarto de Javier (Hab 1), y un muchacho que él lleva revisa la bomba (preguntarle también por la ducha) · pagar Vanti $46.830 | **Hablar con el abuelo** (pasó del lun 2: base de la comisión, $1.129.000, abonos de la Hab 3, cupo, reserva 15%, lavadora; de esto depende la compra de la Hab 3) · **bug de la app (tope 1 h)** antes del entreno; si no alcanza, sigue el mié en la tarde · entreno 19:00 |
 | **Mié 4** | 6:30 rehab · Juana (por agendar) · 8–11 **cerrar la oferta corta** | Cardio 1 · compra de la Hab 3 si ya hay abono |
 | **Jue 5** | 6:30 rehab · 8–11 **terminar el guion** | Calendario compartido de la casa · vence el plazo de pago de Juana · entreno |
 | **Vie 6** | 6:30 rehab · 8–11 **grabar el Ep. 1** | **Flyer + QR** · entreno |
