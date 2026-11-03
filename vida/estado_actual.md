@@ -118,7 +118,7 @@
 | **Deuda familiar** | Pagaré único $33M (incluye la antigua deuda familiar de $10M). Gracia hasta 15 ago 2027, luego 12 cuotas de ~$3.3M |
 | **Colchón disponible** | **$2.526.080 al 25 oct** (+ $1.578.180 de la liquidación de La Clarita y $600k de Juana a inicios de nov → ~$4.7M). Deudas Rappi y Nu sin interés, cubiertas con bolsillos apartados. Ver `finanzas/finanzas_personales.md`. Antes: **$3,000,000 COP** (2026-10-03) — ~$4M si el abuelo reembolsa los pagos hechos a La Clarita. Se consumió más de la mitad del colchón de $8.9M del pagaré por gastos no contemplados y pagos de la casa. **Alarma: <$1.5M adelanta el gatillo del plan B** |
 | **Gastos fijos (Tenjo)** | ~$660k/mes (seguridad social $500k + Haku $160k) + transporte a La Clarita (1–2 h por trayecto, lun + sáb) |
-| **App finanzas** | ⚠️ **Bug que bloquea (25 oct):** sin recuperar contraseña (Felipe no puede entrar) y en el celular se queda cargando. Arreglo: jue 29, 1 h, desde el computador. Acceso inmediato: Supabase → Authentication. Datos para reactivar: saldos del 25 oct en `finanzas/finanzas_personales.md`. URL: finanzas-app-gules-eight.vercel.app. |
+| **App finanzas** | ✅ **Acceso recuperado (2 nov).** El proyecto de Supabase estaba pausado por inactividad (plan gratis): se reactivó con "Resume project", sin pagar. Si la app vuelve a quedarse cargando, revisar primero esto. **Pendiente (mar 3, tope 1 h):** comprobar si el celular ya carga y agregar recuperar contraseña. Preguntarle a Juana el mié si ha podido usar la app. Datos para reactivar: saldos del 25 oct en `finanzas/finanzas_personales.md`. URL: finanzas-app-gules-eight.vercel.app. |
 | **Hábito sesión semanal** | ✅ Establecido — 2 semanas de racha (dato en localStorage app, no visible en sistema) |
 
 **App Finanzas — Deploy multi-usuario (2026-05-10):**
@@ -205,7 +205,7 @@
 
 | Día | Mañana | Tarde y noche |
 |---|---|---|
-| **Lun 2** | — | Audio a Simón · laboratorio de predicción (10 min, en sesión aparte) · recuperar acceso a la app de finanzas por Supabase (si no alcanza, pasa al mar antes del bug) |
+| **Lun 2** | — | Audio a Simón · laboratorio de predicción (10 min, en sesión aparte) · ~~recuperar acceso a la app de finanzas por Supabase~~ ✅ |
 | **Mar 3** | 6:30 rehab · agregar a Alejandro y Ximena al grupo de la casa · mensajes a Sonia (control a más tardar vie 6) y a Diego (fecha de la charla y traslado de la reserva) · **ir a La Clarita:** don Germán revisa la humedad que entra de la terraza al techo del cuarto de Javier (Hab 1), y un muchacho que él lleva revisa la bomba (preguntarle también por la ducha) · pagar Vanti $46.830 | **Hablar con el abuelo** (pasó del lun 2: base de la comisión, $1.129.000, abonos de la Hab 3, cupo, reserva 15%, lavadora; de esto depende la compra de la Hab 3) · **bug de la app (tope 1 h)** antes del entreno; si no alcanza, sigue el mié en la tarde · entreno 19:00 |
 | **Mié 4** | 6:30 rehab · Juana (por agendar) · 8–11 **cerrar la oferta corta** | Cardio 1 · compra de la Hab 3 si ya hay abono |
 | **Jue 5** | 6:30 rehab · 8–11 **terminar el guion** | Calendario compartido de la casa · vence el plazo de pago de Juana · entreno |
