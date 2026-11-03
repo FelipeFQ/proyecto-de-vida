@@ -139,15 +139,39 @@ Las filas marcadas como **referencia** son anteriores al sistema y **no cuentan*
 | B | Sen. Georgia | Collins (3¢) | D+9,6 | $333,33 | | |
 | B | Gob. Michigan | James (5¢) | D+8,7 | $200,00 | | |
 | B | Sen. New Hampshire | Sununu (6¢) | D+8,8 | $166,67 | | |
-| C | Sen. Montana | Independiente (9¢) | Sin dato | $111,11 | | |
+| B | Sen. Montana | Independiente, Bodnar (9¢) | Alme +7,9 sobre Bodnar (encuestas recientes divididas) | $111,11 | | |
 | C | Sen. Mississippi | Colom (14¢) | Sin dato | $71,43 | | |
 
-- **Canasta A:** asimetría con encuestas dentro de 3 puntos en al menos un promedio; 8 apuestas, USD 80, aciertos esperados por precio 2,20. Es la hipótesis de la sección 1.
-- **Canasta B:** asimetría sin empate; 8 apuestas, USD 80, aciertos esperados 0,99.
-- **Canasta C:** sin promedio de encuestas encontrado; 2 apuestas, USD 20, aciertos esperados 0,23.
-- **Total:** 18 apuestas, USD 180, aciertos esperados 3,42.
+**Agregadas a pedido de Felipe (2 nov).** Precios del agregador de Polymarket (polymarkettrader.com), corte 20:56 hora de Colombia.
 
-**Fuera de las 18, se siguen aparte** porque también tienen encuestas empatadas y Felipe no alcanzó a listarlas: Sen. Alaska (Sullivan 27,5¢; D+1,2 a 2,3) y Gob. Georgia (Jackson 30,5¢; D+0,3).
+| Canasta | Carrera | Apuesta (precio) | Encuestas o referencia | Pago si gana | Resultado | P&L |
+|---|---|---|---|---|---|---|
+| A | Sen. Alaska | Sullivan (27,5¢) | D+1,2 a 2,3 | $36,36 | | |
+| A | Gob. Georgia | Jackson (30,5¢) | D+0,3; volumen $460k | $32,79 | | |
+| A | Gob. Oregon | Drazan (16,5¢) | Kotek +2 a Drazan +1; encuestas de sep-oct, viejas; volumen $268k | $60,61 | | |
+| C | Gob. Alaska | Wilson (10,5¢) | Sin dato | $95,24 | | |
+| C | Gob. Vermont | Janoo (29,9¢) | Sin dato | $33,44 | | |
+| D | Cámara CA-22 | Valadao (6,5¢) | Cook: empate | $153,85 | | |
+| D | Cámara FL-14 | Beltran (21,5¢) | Cook: empate | $46,51 | | |
+| D | Cámara FL-22 | Askar (26,5¢) | Cook: empate | $37,74 | | |
+| D | Cámara IA-02 | Mitchell (27,5¢) | Cook: empate | $36,36 | | |
+| D | Cámara MI-07 | Barrett (20,5¢) | Cook: empate | $48,78 | | |
+| D | Cámara MI-10 | Bouchard (25,5¢) | Cook: empate | $39,22 | | |
+| D | Cámara NC-01 | Buckhout (11,5¢) | Cook: empate | $86,96 | | |
+| D | Cámara OH-07 | Miller (12¢) | Cook: empate, sin verificar en la tabla | $83,33 | | |
+| D | Cámara TX-15 | Monica De La Cruz (11,5¢) | Cook: empate, sin verificar en la tabla | $86,96 | | |
+| D | Cámara TX-35 | Carlos De La Cruz (27,5¢) | Cook: empate, sin verificar en la tabla | $36,36 | | |
+| D | Cámara VA-01 | Wittman (32,5¢) | Cook: empate, sin verificar en la tabla | $30,77 | | |
+
+- **Canasta A:** asimetría con encuestas dentro de 3 puntos en al menos un promedio; 11 apuestas, USD 110, aciertos esperados por precio 2,95. Es la hipótesis de la sección 1.
+- **Canasta B:** asimetría sin empate; 9 apuestas, USD 90, aciertos esperados 1,08.
+- **Canasta C:** sin promedio de encuestas encontrado; 3 apuestas, USD 30, aciertos esperados 0,54.
+- **Canasta D:** Cámara con Cook en empate y favorito ≥65. Cook no es una encuesta: es un sustituto, porque no hay promedios por distrito. Todas por debajo de USD 500.000 de volumen y todas apuestan por el republicano. 11 apuestas, USD 110, aciertos esperados 2,23.
+- **Total:** 34 apuestas (las 18 de Felipe + 16 agregadas), USD 340, aciertos esperados 6,80.
+- **Montana** pasó de C a B al encontrar el promedio de FiftyPlusOne (antes de conocer el resultado).
+- **Quedaron fuera por no estar empatadas o no llegar a 65:** el resto de carreras con encuestas; Cámara con Cook en empate y favorito <65 (CO-05, KY-06, MI-04, MT-01, NY-17, PA-01, SC-01).
+
+**Se llena el lunes 9 nov** en el laboratorio, con los resultados disponibles hasta ese día.
 
 **Cómo se lee (definido antes del resultado):**
 1. Métrica principal: aciertos frente a aciertos esperados, por canasta. El balance en dólares se reporta, pero no decide.
