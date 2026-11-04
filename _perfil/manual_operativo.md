@@ -99,6 +99,8 @@ Felipe reportó ~3–4 h de redes sociales en un solo día con siete pendientes 
 
 **Pregunta abierta:** ¿en qué momentos se va el tiempo (al despertar, entre tareas, en la cama)? La intervención depende de la respuesta.
 
+**Respuesta (2026-11-04):** el tiempo se va en redes y películas en los ratos libres — Felipe: *"no es como que no haya tenido tiempo"*. Barrera nueva para los bloques creativos: celular **apagado y en manos de otra persona** (los abuelos) o apagado en otra habitación — "fuera del cuarto" no bastó el 7 oct. Sin comprar ni instalar nada.
+
 **Pregunta correctiva:** *¿Dónde estaba el celular cuando se fue el bloque?*
 
 **Variante a vigilar (2026-10-26):** justificar el consumo de noticias y geopolítica en el celular como trabajo del laboratorio de predicción. Ver noticias no cuenta como laboratorio; el laboratorio son 10 minutos mensuales con datos (`finanzas/laboratorio_prediccion.md`).
@@ -148,6 +150,8 @@ Patrón más explicativo de Q3 2026 (identificado 2026-10-03). Felipe ejecuta co
 El 25 oct Felipe llevaba 5 días posponiendo un pago de $130k (el salón de la charla), una tarea de 2 minutos con la cuenta ya en la mano, por pensamientos de "tal vez no debería dar esta charla" (síndrome del impostor). Es el mismo patrón de las 4 ventanas de captación en cero: frenarse justo antes de que algo de exposición se vuelva real.
 **Resultado (25 oct):** nombrado en la sesión, pagado el mismo día.
 **Antídoto:** cuando algo de exposición se pospone sin razón logística, (1) nombrar el pensamiento sin discutirlo, (2) hacer de inmediato el siguiente paso, por pequeño que sea ("cada acción es un voto", cap. 2 de Hábitos Atómicos), (3) recordar el filtro de conocimiento encarnado: la charla cuenta lo vivido, no teoría.
+
+**Instancia (2026-11-04) — YouTube y miedo a lo mediocre:** el Ep. 1 se corrió 5 veces (7, 17, 24, 28 oct y 5–6 nov). Felipe lo nombró: miedo a hacer un video mediocre y a guionizar mal, sabiendo que los primeros videos van a ser de baja calidad. Variantes: ver un curso de 8–9 claves de guionización y tomar notas en vez de escribir el guion (sesgo 3), y esperar las estanterías de libros para grabar (sesgo 1 — *"nada me está deteniendo para grabar con los libros en la mesa"*). La reflexión estratégica sobre YouTube apareció justo en el bloque de cerrar la oferta corta: válida en contenido, pero se separa de la tarea. Su propia conclusión: *"la única forma de mejorar videos es subiendo videos malos, luego regulares y finalmente buenos."* Es el mismo miedo del guion de mayo (*"I am afraid to be seen"*), que ya venció una vez. **Antídoto:** publicado = éxito; **una sola mejora de guionización por video** (en 9–10 videos están todas); bloque largo de noche (sus ideas maduran con tiempo continuo); ancla con Simón.
 
 ### 9. Los días de viaje se comen el trabajo profundo y la rehab (observado 19–23 oct 2026)
 La lectura (lun 19) y el guion del Ep. 1 (mié 21, jue 22) se corrieron 3 veces, y la rehab falló el mar 20 y el mié 14, siempre en días con viaje a La Clarita o pendientes de la casa.
@@ -207,13 +211,15 @@ Ante cualquier idea o decisión nueva:
 
 *Fuerza desde la semana 3, según la valoración de la fisio. Antes: movilidad/rehab.
 
+**Noche de creación (desde mié 4 nov 2026):** miércoles 19:30–22:30 — guion de YouTube con cortina blackout, audífonos con cancelación de ruido y celular apagado en manos de otra persona. Esa noche se duerme 23:00–6:15. Los bloques de jue/vie 8–11 quedan para grabar y editar (lo mecánico). Pensar el video puede pasar en cualquier lado (bus, rehab, caminatas — notas de voz); escribir, en el bloque. Al terminar: foto del guion a Simón.
+
 **Anclas externas por frente (ver sesgo 7):**
 
 | Frente | Ancla externa |
 |---|---|
 | Ultimate | Entrenador nuevo + grupo (mar/jue/vie 19–21) · fisio |
 | Coaching | Fecha de charla con la administración del conjunto |
-| YouTube | Día de publicación anunciado en el canal |
+| YouTube | ~~Día de publicación anunciado en el canal~~ (sin audiencia nadie espera — por eso YouTube era el primer frente en caerse). **Desde 2026-11-04:** Simón recibe foto del guion la noche del miércoles y el link al publicar; con el video grabado, anuncio público de la fecha (estado de WhatsApp / Instagram). Sesión con el mentor con fecha. |
 | La Clarita | Visitas agendadas con interesados |
 | Revisión semanal | Sesión de lunes con `/consejero` + audio de 3 puntos a **Simón** (qué cumplí / qué no / qué me comprometo). Simón aceptó el 2026-10-05; él pregunta el lunes siguiente por los compromisos. Plan B si deja de funcionar: otro amigo que Felipe ya tiene identificado. |
 

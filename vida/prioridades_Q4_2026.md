@@ -38,6 +38,7 @@ Todo lo demás es secundario o se alimenta de esos dos.
 ### La Clarita — Prioridad 1
 - **Meta al 31 dic:** 6/6 habitaciones arrendadas (aspiración) · **mínimo 4/6** (compromiso — coincide con el ritmo base del modelo: Hab 2 oct, Hab 3 nov, Hab 4 dic). **Modelo de amoblado secuencial (2026-10-13):** cada habitación se compra cuando se arrienda la anterior (el abuelo abona a la tarjeta para liberar cupo); cada una toma 1–2 semanas de entregas con presencia diaria de Felipe entre semana (los sábados recibe Javier). 4/6 es la meta realista.
 - Hab 2 y 3 con contrato firmado antes del 31 oct.
+- **Estado 2026-11-04:** 2/6 arrendadas (Hab 1 y 2). Hab 3 comprada salvo el TV; armado desde el sáb 7; meta de arriendo 20–30 nov → 3/6. **Para 4/6 hace falta también la Hab 4 en diciembre:** se compra al firmar la Hab 3. Propuesta al abuelo en ese momento, con números (costo, cupo, embudo): amoblar las Hab 5 y 6 juntas en un solo sprint en enero.
 - ~~Conversación de comisión con los abuelos antes del 31 oct~~ ✅ 2026-10-06: **25% de la ganancia neta desde nov 2026**.
 - Fecha realista de entrega de Hab 4 antes del 15 oct.
 - Embudo de Marketplace registrado semanalmente (`finanzas/clarita/marketing.md`).
@@ -49,7 +50,7 @@ Todo lo demás es secundario o se alimenta de esos dos.
 - **Ajuste 2026-11-02: 1.ª charla el sáb 21 nov (por confirmar con Diego), por compromiso familiar el fin de semana del 14 nov.**
 - ~~3 charlas en Q4~~ → **máximo 2 charlas en Q4 (ajuste 2026-11-02)**, en el mismo conjunto o en el otro, según resultado de la primera · 6 sesiones diagnóstico. La meta de 3 clientes al 31 dic queda muy justa.
 - Amplificación por voz a voz: vecinos cercanos (padres de Esteban Chaves) — compartir la invitación entre vecinos. **No usar nombres ajenos como credencial en la promoción.**
-- Oferta de entrada corta (8–12 semanas, resultado concreto, protocolo más prescriptivo al inicio) diseñada antes de la 1.ª charla.
+- Oferta de entrada corta (8–12 semanas, resultado concreto, protocolo más prescriptivo al inicio) diseñada antes de la 1.ª charla. **✅ Decidida 2026-11-04:** fases 0–1 como producto de entrada · 8 semanas · $600k · 2 cupos por día de charla + lista de espera (ciclo de enero) · se ofrece al final del diagnóstico. Detalle en `cimientos/NEGOCIO.md`. Falta la página de la oferta y la sesión de la semana 7 (lun 9 nov).
 - Probar la hipótesis "el mercado compra dirección, el método entrega independencia" con Juana en octubre, **antes** de evaluar cualquier no-fit con ella.
 
 ### Cuerpo / Ultimate — Prioridad 2
@@ -66,6 +67,7 @@ Todo lo demás es secundario o se alimenta de esos dos.
   - Ep. 2 — Valoración de fisio + nueva línea base (medir antes de cambiar).
   - Ep. 3 — Primeras 2 semanas: lo que tiene compromiso externo se cumple.
 - **Mínimo:** 1 video cada 2 semanas (~6 en Q4) + avance fijo del curso del mentor (bloque del miércoles).
+- **Ajuste 2026-11-04 (sesión Consejero): 3 videos en Q4**, cumplidos en vez de 6 prometidos: Ep. 1 antes del 12 nov · Ep. 2 = la charla del 21 nov grabada, antes del 5 dic · Ep. 3 antes del 19 dic. YouTube **sigue en prioridad 2**; lo que falla no es la prioridad sino la ejecución (0 videos en Q4, Ep. 1 corrido 5 veces). Sistema: noche de creación los miércoles 19:30–22:30 (guion), jue/vie 8–11 grabación y edición, **una sola mejora de guionización por video** (de las notas del curso), y ancla con Simón (recibe foto del guion y el link publicado). Si se publica cada 2 semanas desde ya, el video 11 cae ~abril 2027, cuando se lee el gatillo. Si YouTube sube a prioridad 1 se decide en la planeación de enero, con el calendario real del amoblado de las Hab 4–6.
 - Al llegar a 3 videos publicados (~principios de nov): agendar la sesión con el mentor.
 - La métrica de Q4 es publicación, no vistas ni clientes. La serie comparte fuente con las charlas (tema: entorno).
 
