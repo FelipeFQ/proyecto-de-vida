@@ -155,6 +155,8 @@ El 25 oct Felipe llevaba 5 días posponiendo un pago de $130k (el salón de la c
 
 **Instancia (2026-11-04) — YouTube y miedo a lo mediocre:** el Ep. 1 se corrió 5 veces (7, 17, 24, 28 oct y 5–6 nov). Felipe lo nombró: miedo a hacer un video mediocre y a guionizar mal, sabiendo que los primeros videos van a ser de baja calidad. Variantes: ver un curso de 8–9 claves de guionización y tomar notas en vez de escribir el guion (sesgo 3), y esperar las estanterías de libros para grabar (sesgo 1 — *"nada me está deteniendo para grabar con los libros en la mesa"*). La reflexión estratégica sobre YouTube apareció justo en el bloque de cerrar la oferta corta: válida en contenido, pero se separa de la tarea. Su propia conclusión: *"la única forma de mejorar videos es subiendo videos malos, luego regulares y finalmente buenos."* Es el mismo miedo del guion de mayo (*"I am afraid to be seen"*), que ya venció una vez. **Antídoto:** publicado = éxito; **una sola mejora de guionización por video** (en 9–10 videos están todas); bloque largo de noche (sus ideas maduran con tiempo continuo); ancla con Simón.
 
+**Instancia (2026-11-08):** sexto aplazamiento del Ep. 1 (ni guion la noche del mié 4, ni grabación jue/vie), aunque los bloques estaban asignados. Felipe: *"tal vez lo estoy procrastinando exactamente porque sé que tengo el tiempo"*. Planteó además que trabajar 7 días sin vida social es insostenible — válido, pero el fin de semana con amigos no fue la causa: los bloques del Ep. 1 eran mié–vie. Respuesta: descanso social como evento fijo en Calendar (sáb PM + dom) y Ep. 1 con tope duro: guion mié 11 noche → grabar jue 12 9:30 → editar (tope 2 h) y publicar jue 12 16:00; si el guion no sale, se graba con 5 viñetas.
+
 ### 9. Los días de viaje se comen el trabajo profundo y la rehab (observado 19–23 oct 2026)
 La lectura (lun 19) y el guion del Ep. 1 (mié 21, jue 22) se corrieron 3 veces, y la rehab falló el mar 20 y el mié 14, siempre en días con viaje a La Clarita o pendientes de la casa.
 **Ajuste:** (1) en días de viaje, la rehab va antes de salir aunque sean 10 min; (2) el bloque de 8–11 se asigna solo a días en Tenjo; en días de La Clarita solo cabe lectura o notas de voz en el bus; (3) si un bloque se corre dos veces, se cambia de día en la misma revisión, no se arrastra.
@@ -200,6 +202,15 @@ Ante cualquier idea o decisión nueva:
 
 *Definida en sesión Consejero 2026-10-03. Reemplaza a "Modo Bogotá" (jun–jul 2026) y al pendiente "Modo Tenjo" de Q3.*
 
+**Ajuste 2026-11-08 (sesión Consejero) — prevalece sobre la tabla de abajo donde choquen:**
+- **Google Calendar vuelve a ser la herramienta principal de horario.** Se encontraron 31 series repetitivas de antes de la remodelación (entrenos de 9:45 que no existen, deep work tapado por "Rutina Desayuno", sin rehab). Causa probable de la fatiga de notificaciones (25 oct): un calendario que no describe la realidad se aprende a ignorar. **Regla:** Calendar refleja solo lo que de verdad se va a hacer; avisos (popup 10 min) solo en los eventos fijos; lo demás sin aviso, como mapa.
+- **Sueño:** dormir 22:30 → despertar 6:30 (8 h, por la carga física que viene). **Celular afuera a las 21:30**, todos los días.
+- **Rehab 6:45–7:15** lun–sáb (gancho: al despertar). En días de La Clarita, antes de salir.
+- **Deep work 9:30–12:30** (gancho: después del desayuno y de sacar a la perrita; de 8:00 a 9:30 siempre se desayuna — el bloque de 8–11 nunca fue realista). Solo en días en Tenjo; los días de La Clarita, el trabajo en la casa es el trabajo del día.
+- **Comidas:** almuerzo 13:30 en casa (ya se cumple) · días de entreno (mar/jue/vie) comida a las 17:00 y solo fruta después · otros días cena 19:00–19:30 (meta: 90–95 % de los días).
+- **Sábado PM + domingo: libre / social**, como eventos en Calendar. El descanso planeado no es una falla; el no planeado se siente robado y genera culpa.
+- **Revisión semanal: domingo 19:00** (reemplaza la del lunes 7:30), con el audio a Simón el lunes temprano.
+
 **Sueño — dos escenarios:** 22:00–6:00 en noches sin entreno · 23:00–7:00 en noches de entreno grupal (mar/jue/vie). Los bloques de 6:00 corren a 7:00 el día siguiente a un entreno.
 
 | | Lun | Mar | Mié | Jue | Vie | Sáb | Dom |
@@ -237,7 +248,7 @@ Ante cualquier idea o decisión nueva:
 
 **Primera revisión semanal Q4:** ejecutada lun 5 oct en la noche (21:15–22:10, no a las 7:30). Cumplió su función: semana asignada día por día y compromisos enviados a Simón.
 
-El Consejero no debe proponer viajes a La Clarita fuera de lun PM / sáb AM, ni deep work fuera de 8:00–11:00, ni carga física fuera de la rampa, salvo excepción explícita.
+El Consejero no debe proponer viajes a La Clarita fuera de lun PM / sáb AM, ni deep work fuera de 9:30–12:30 (ajuste 2026-11-08), ni carga física fuera de la rampa, salvo excepción explícita.
 
 ---
 

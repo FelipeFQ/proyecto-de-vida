@@ -1,6 +1,6 @@
 # ESTADO ACTUAL — Sistema de Vida Felipe Fajardo
 *Snapshot vivo del sistema. Se actualiza cuando algo cambia — no tiene histórico.*
-*Última actualización: 2026-11-08 (sesión Consejero — teléfono minimalista). Anterior: 2026-11-02 (sesión Consejero — cierre 26 oct–1 nov, plan 2–8 nov, rendición de octubre, charla al sáb 21 nov). Anterior: 2026-10-25 (sesión Consejero — revisión semanal + sesión de finanzas: calendario de pagos, regla de liquidación por caja, colchón real, liquidación de octubre, plan 26 oct–1 nov, hombro 8/10). Anterior: 2026-10-14 noche (sesión Consejero — contrato de Javier listo, pagaré + carta de instrucciones, Juana jue 15 presencial, letrero lo instala Felipe, comisión 25% corregida en FINANZAS). Anterior: 2026-10-14 (sesión `/clarita` 7–14 oct — Hab 2 al 24 oct, Hab 3 se compra al firmar Hab 2, embudo). Anterior: 2026-10-10 (sesión `/clarita` 7–10 oct — ronda de mensajes, escala de precios desde 7 oct, embudo). Anterior: 2026-10-07 (sesión Consejero mar 6 — conversación con el abuelo: comisión 25%, tarjetas, reembolso, servicios; guion Carmen de Apicalá; contacto fisio). Anterior: 2026-10-05 (revisión semanal lun 5 — La Clarita, Carmen de Apicalá, charla, Ep. 1, Juana, pubalgia). Anterior: 2026-10-04 (sesión Consejero — acceso multi-dispositivo vía GitHub + Claude Code móvil). Anterior: 2026-10-03 (sesión Consejero — cierre Q3 y planeación Q4: prioridades Q4, gatillo plan B, cadencia Modo Tenjo Q4, colchón real, hombro 6/10). La sección de La Clarita la mantiene la skill `/clarita` (última edición 2026-10-04). Anterior: 2026-10-02 (sesión Clarita).*
+*Última actualización: 2026-11-08 (sesión Consejero — teléfono minimalista + plan 9–15 nov + Calendar como herramienta principal). Anterior: 2026-11-02 (sesión Consejero — cierre 26 oct–1 nov, plan 2–8 nov, rendición de octubre, charla al sáb 21 nov). Anterior: 2026-10-25 (sesión Consejero — revisión semanal + sesión de finanzas: calendario de pagos, regla de liquidación por caja, colchón real, liquidación de octubre, plan 26 oct–1 nov, hombro 8/10). Anterior: 2026-10-14 noche (sesión Consejero — contrato de Javier listo, pagaré + carta de instrucciones, Juana jue 15 presencial, letrero lo instala Felipe, comisión 25% corregida en FINANZAS). Anterior: 2026-10-14 (sesión `/clarita` 7–14 oct — Hab 2 al 24 oct, Hab 3 se compra al firmar Hab 2, embudo). Anterior: 2026-10-10 (sesión `/clarita` 7–10 oct — ronda de mensajes, escala de precios desde 7 oct, embudo). Anterior: 2026-10-07 (sesión Consejero mar 6 — conversación con el abuelo: comisión 25%, tarjetas, reembolso, servicios; guion Carmen de Apicalá; contacto fisio). Anterior: 2026-10-05 (revisión semanal lun 5 — La Clarita, Carmen de Apicalá, charla, Ep. 1, Juana, pubalgia). Anterior: 2026-10-04 (sesión Consejero — acceso multi-dispositivo vía GitHub + Claude Code móvil). Anterior: 2026-10-03 (sesión Consejero — cierre Q3 y planeación Q4: prioridades Q4, gatillo plan B, cadencia Modo Tenjo Q4, colchón real, hombro 6/10). La sección de La Clarita la mantiene la skill `/clarita` (última edición 2026-10-04). Anterior: 2026-10-02 (sesión Clarita).*
 
 ---
 
@@ -200,7 +200,23 @@
 
 ---
 
-## PLAN SEMANAL VIGENTE — 2 al 8 nov 2026
+## PLAN SEMANAL VIGENTE — 9 al 15 nov 2026
+*Definido dom 8 nov (sesión Consejero). **Fuente del horario: Google Calendar** (todo creado el 8 nov; ver ajuste del 8 nov en `_perfil/manual_operativo.md`, Modo Tenjo). Prioridad: **flyer + QR de la charla del sáb 21** (salón confirmado con Diego; del 14 al 16 fuera, al volver quedan 4 días) · **Ep. 1 publicado el jue 12** · Hab 3 lista y anunciada.*
+
+| Día | Mañana | Tarde | Noche |
+|---|---|---|---|
+| **Lun 9** | 6:45 rehab · 7:15 mensaje a Sonia (control) + audio a Simón (cierre + tiempo de pantalla) · 9:30 salir en la moto de Simón | **La Clarita:** cortinas de la Hab 3 a la lavandería (vuelven ~mar 17) · Hab 3 ensamblada y limpia al 100 % · recoger las repisas | Cena 19:00 |
+| **Mar 10** | 6:45 rehab · 9:30–12:30 **flyer + QR** | Repartir el flyer (grupo + portería) · **calendario compartido de la casa** · 17:00 comida | Entreno |
+| **Mié 11** | 6:15 rehab · salir 7:00 · **8:00 Gloria: llaves + calendario** · cortinas de la Hab 4 en la Hab 3 → **video y fotos → anuncio** | Regreso a Tenjo | **19:30–22:30 noche de creación: guion del Ep. 1** → foto a Simón |
+| **Jue 12** 🎂 abuelo | 6:45 rehab · 9:30–12:30 **grabar el Ep. 1** | 14:00–16:00 editar → **publicar** → link a Simón · 17:00 comida | Entreno |
+| **Vie 13** | 6:45 rehab · 9:30–12:30 **oferta en una página** + mensaje a Juana (fecha + $600k) | Alistar el viaje · 17:00 comida | Entreno (probable) |
+| **Sáb 14–Lun 16** | Paseo familiar + cumpleaños del abuelo (lun 16 festivo) | | |
+
+**Después del viaje:** mar 17 cortinas de la Hab 3 → fotos definitivas · 17–20 nov invitaciones en persona + apertura de 3 min + ensayo · **sáb 21 charla**.
+
+**Cierre semana 2–8 nov:** ✅ salón del sáb 21 confirmado con Diego · conversación con el abuelo (comisión, cupo, Hab 3) · rehab 5/7 · teléfono minimalista (dom 8). ❌ Ep. 1 (ni guion ni grabación — 6.º aplazamiento) · flyer + QR · ensayo con los vecinos del sáb 7 · calendario compartido de la casa · control con Sonia (no respondió). Juana: sin sesión la última semana (se presentó a una especialización en la Nacional; retoman con el resultado), sin horario fijo y sin pagar los $600k. Fin de semana 7–8 con Simón y amigos (Simón le prestó su moto).
+
+## PLAN SEMANAL ANTERIOR — 2 al 8 nov 2026
 *Definido lun 2 nov (sesión Consejero). Prioridad: oferta corta, guion + grabación del Ep. 1, flyer y primera prueba de invitación en persona para la charla del sáb 21 nov (por confirmar con Diego). Sin compromisos familiares esta semana; los siguientes son el 12 nov (cumpleaños del abuelo) y 14–16 nov (presentación de la prima, fuera de Bogotá).*
 
 | Día | Mañana | Tarde y noche |
@@ -223,7 +239,7 @@
 
 **Cierre semana 26 oct–1 nov:** ✅ Hab 2 entregada y firmada (sáb 31, prorrateo $363.000) · Javier firmó (31 oct) · sesión con Juana (presencial). ❌ oferta corta · flyer · apertura de la charla · guion (sigue a medias) · grabación · bug de la app · objetos a Marketplace. Entrenos 1/3 (jue y vie cancelados por competencia de compañeros) · rehab 3–4/7 (no se agendó la noche anterior) · Juana sin pagar los $600k · control de la fisio sin agendar. **Charla movida del fin de semana del 14 nov al sáb 21 nov** (compromiso familiar).
 
-## PLAN SEMANAL ANTERIOR — 26 oct al 1 nov 2026
+## PLAN SEMANAL — 26 oct al 1 nov 2026 (histórico)
 *Definido dom 25 oct (sesión Consejero, revisión semanal + sesión de finanzas). Prioridad de la semana: la charla del sáb 15 nov (oferta + promoción) y la entrega de la Hab 2. Si la semana se aprieta, se mueven depuración → objetos a Marketplace → bug de la app; no se mueven oferta, flyer, guion ni grabación.*
 
 | Día | Bloque 8–11 | Resto del día | Noche |

@@ -96,7 +96,7 @@ Detalle completo, reglas y anclas en `_perfil/manual_operativo.md` → "Cadencia
 - **Sueño:** dos escenarios — 22:00–6:00 (noches sin entreno) / 23:00–7:00 (noches de entreno grupal mar/jue/vie).
 - **Movimiento como lo primero del día, todos los días.**
 - **Entreno grupal Tenjo:** mar, jue, vie 19:00–21:00 (entrenador nuevo).
-- **Deep work 8:00–11:00** L–V, con tarea asignada en la revisión del lunes.
+- ~~**Deep work 8:00–11:00** L–V, con tarea asignada en la revisión del lunes.~~ **Ajuste 2026-11-08: deep work 9:30–12:30** en días en Tenjo, con tarea asignada en la revisión del domingo 19:00 y como título del evento en Calendar.
 - **La Clarita:** lunes PM + sábado AM (trayecto real 1–2 h por sentido).
 - **Juana:** miércoles 15:00 (confirmado 2026-10-05).
 - **Revisión semanal:** lunes 7:30 con `/consejero` + mensaje de 3 líneas a un amigo (qué cumplí / qué no / qué me comprometo).
