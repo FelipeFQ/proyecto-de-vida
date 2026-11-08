@@ -103,6 +103,8 @@ Felipe reportó ~3–4 h de redes sociales en un solo día con siete pendientes 
 
 **Pregunta correctiva:** *¿Dónde estaba el celular cuando se fue el bloque?*
 
+**Segunda capa — teléfono minimalista (2026-11-08):** sin código ni compras, hecho el mismo día. Pantalla de inicio con 6 apps (Reloj, Calendar, WhatsApp Business, Cámara, YouTube Studio, Claude); WhatsApp personal y lo demás solo desde el buscador; notificaciones ocultas (solo al bajar la barra). Borradas: Instagram, YouTube y apps de streaming (TikTok no estaba). Se queda Spotify (uso acotado a viajes y ejercicio, sin consumo problemático). Escala de grises con atajo de doble swipe; **pendiente: dejarla por defecto** y quitarla solo cuando se necesite color (cámara, revisar videos). No reemplaza la barrera física de los bloques creativos (celular apagado y en manos de otra persona). Reemplazo en los ratos libres: libro físico y libreta de dibujo donde suele estar el celular; silencio de 5 min con el temporizador del Reloj después de la rehab. Medición: tiempo de pantalla semanal en el balance a Simón. Material encarnado para la charla del 21 nov y el Ep. 3.
+
 **Variante a vigilar (2026-10-26):** justificar el consumo de noticias y geopolítica en el celular como trabajo del laboratorio de predicción. Ver noticias no cuenta como laboratorio; el laboratorio son 10 minutos mensuales con datos (`finanzas/laboratorio_prediccion.md`).
 
 ---
