@@ -104,7 +104,7 @@
 | **Finanzas** | Conversación con el abuelo cumplida (comisión, cupo, Hab 3). |
 | **YouTube** | Ep. 1 sin guion ni grabación — 6.º aplazamiento. Felipe: lo pospone "porque sé que tengo el tiempo". |
 | **Fricciones** | Distracción con el celular (redes y películas en los ratos libres). Calendar abandonado: 31 series de antes de la remodelación que no describían la realidad. Bloque de 8–11 irreal (siempre desayuna a esa hora). Tensión: trabajar 7 días sin vida social es insostenible. |
-| **Ajustes acordados** | Teléfono minimalista (6 apps, apps de consumo borradas). Calendar como herramienta principal: rehab 6:45, deep work 9:30–12:30, comida 17:00 los días de entreno, celular afuera 21:30, dormir 22:30–6:30, sáb PM + dom libre/social, revisión semanal dom 19:00. Ep. 1 con tope duro el jue 12. Video de la Hab 3 el mié 11 con las cortinas de la Hab 4. |
+| **Ajustes acordados** | Teléfono minimalista (6 apps, apps de consumo borradas). Calendar como herramienta principal: despertar 6:00, rehab 6:30, deep work 9:30–12:30, comida 17:00 los días de entreno, celular afuera 21:30, dormir 22:00–6:00, sáb PM + dom libre/social, revisión semanal dom 19:00. Ep. 1 con tope duro el jue 12. Video de la Hab 3 el mié 11 con las cortinas de la Hab 4. |
 | **Próximos pasos** | Lun: Sonia, Simón, La Clarita (cortinas, Hab 3, repisas). Mar: flyer + QR, calendario de la casa. Mié: Gloria, video y anuncio de la Hab 3, guion. Jue: grabar y publicar el Ep. 1. Vie: oferta en una página, Juana. 14–16: paseo familiar. |
 
 ---

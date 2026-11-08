@@ -203,9 +203,9 @@ Ante cualquier idea o decisión nueva:
 *Definida en sesión Consejero 2026-10-03. Reemplaza a "Modo Bogotá" (jun–jul 2026) y al pendiente "Modo Tenjo" de Q3.*
 
 **Ajuste 2026-11-08 (sesión Consejero) — prevalece sobre la tabla de abajo donde choquen:**
-- **Google Calendar vuelve a ser la herramienta principal de horario.** Se encontraron 31 series repetitivas de antes de la remodelación (entrenos de 9:45 que no existen, deep work tapado por "Rutina Desayuno", sin rehab). Causa probable de la fatiga de notificaciones (25 oct): un calendario que no describe la realidad se aprende a ignorar. **Regla:** Calendar refleja solo lo que de verdad se va a hacer; avisos (popup 10 min) solo en los eventos fijos; lo demás sin aviso, como mapa.
-- **Sueño:** dormir 22:30 → despertar 6:30 (8 h, por la carga física que viene). **Celular afuera a las 21:30**, todos los días.
-- **Rehab 6:45–7:15** lun–sáb (gancho: al despertar). En días de La Clarita, antes de salir.
+- **Google Calendar vuelve a ser la herramienta principal de horario.** Se encontraron 31 series repetitivas de antes de la remodelación (entrenos de 9:45 que no existen, deep work tapado por "Rutina Desayuno", sin rehab); 24 se borraron completas el 8 nov (el historial viejo no se consulta). Quedan: Rutina Mañanera (6:00), Rutina Desayuno, Rutina Almuerzo, Rutina pre Nocturna y Rutina Nocturna, sin aviso. Causa probable de la fatiga de notificaciones (25 oct): un calendario que no describe la realidad se aprende a ignorar. **Regla:** Calendar refleja solo lo que de verdad se va a hacer; avisos (popup 10 min) solo en los eventos fijos; lo demás sin aviso, como mapa.
+- **Sueño:** dormir 22:00 → despertar 6:00 (8 h, por la carga física que viene). **Celular afuera a las 21:30**, todos los días.
+- **Rehab 6:30–7:00** lun–sáb (gancho: despertar 6:00 → Rutina Mañanera con el cuarto organizado → rehab). En días de La Clarita, antes de salir.
 - **Deep work 9:30–12:30** (gancho: después del desayuno y de sacar a la perrita; de 8:00 a 9:30 siempre se desayuna — el bloque de 8–11 nunca fue realista). Solo en días en Tenjo; los días de La Clarita, el trabajo en la casa es el trabajo del día.
 - **Comidas:** almuerzo 13:30 en casa (ya se cumple) · días de entreno (mar/jue/vie) comida a las 17:00 y solo fruta después · otros días cena 19:00–19:30 (meta: 90–95 % de los días).
 - **Sábado PM + domingo: libre / social**, como eventos en Calendar. El descanso planeado no es una falla; el no planeado se siente robado y genera culpa.

@@ -205,11 +205,11 @@
 
 | Día | Mañana | Tarde | Noche |
 |---|---|---|---|
-| **Lun 9** | 6:45 rehab · 7:15 mensaje a Sonia (control) + audio a Simón (cierre + tiempo de pantalla) · 9:30 salir en la moto de Simón | **La Clarita:** cortinas de la Hab 3 a la lavandería (vuelven ~mar 17) · Hab 3 ensamblada y limpia al 100 % · recoger las repisas | Cena 19:00 |
-| **Mar 10** | 6:45 rehab · 9:30–12:30 **flyer + QR** | Repartir el flyer (grupo + portería) · **calendario compartido de la casa** · 17:00 comida | Entreno |
-| **Mié 11** | 6:15 rehab · salir 7:00 · **8:00 Gloria: llaves + calendario** · cortinas de la Hab 4 en la Hab 3 → **video y fotos → anuncio** | Regreso a Tenjo | **19:30–22:30 noche de creación: guion del Ep. 1** → foto a Simón |
-| **Jue 12** 🎂 abuelo | 6:45 rehab · 9:30–12:30 **grabar el Ep. 1** | 14:00–16:00 editar → **publicar** → link a Simón · 17:00 comida | Entreno |
-| **Vie 13** | 6:45 rehab · 9:30–12:30 **oferta en una página** + mensaje a Juana (fecha + $600k) | Alistar el viaje · 17:00 comida | Entreno (probable) |
+| **Lun 9** | 6:30 rehab · 7:15 mensaje a Sonia (control) + audio a Simón (cierre + tiempo de pantalla) · 9:30 salir en la moto de Simón | **La Clarita:** cortinas de la Hab 3 a la lavandería (vuelven ~mar 17) · Hab 3 ensamblada y limpia al 100 % · recoger las repisas | Cena 19:00 |
+| **Mar 10** | 6:30 rehab · 9:30–12:30 **flyer + QR** | Repartir el flyer (grupo + portería) · **calendario compartido de la casa** · 17:00 comida | Entreno |
+| **Mié 11** | 6:30 rehab · salir 7:00 · **8:00 Gloria: llaves + calendario** · cortinas de la Hab 4 en la Hab 3 → **video y fotos → anuncio** | Regreso a Tenjo | **19:30–22:30 noche de creación: guion del Ep. 1** → foto a Simón |
+| **Jue 12** 🎂 abuelo | 6:30 rehab · 9:30–12:30 **grabar el Ep. 1** | 14:00–16:00 editar → **publicar** → link a Simón · 17:00 comida | Entreno |
+| **Vie 13** | 6:30 rehab · 9:30–12:30 **oferta en una página** + mensaje a Juana (fecha + $600k) | Alistar el viaje · 17:00 comida | Entreno (probable) |
 | **Sáb 14–Lun 16** | Paseo familiar + cumpleaños del abuelo (lun 16 festivo) | | |
 
 **Después del viaje:** mar 17 cortinas de la Hab 3 → fotos definitivas · 17–20 nov invitaciones en persona + apertura de 3 min + ensayo · **sáb 21 charla**.
