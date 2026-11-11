@@ -57,19 +57,24 @@
 >
 > Cualquier cosa, aquí estoy. ¡Bienvenidos! 🏡
 
-**Descripción del grupo:**
-> 🏡 Casa La Clarita: canal de la casa
+**Descripción del grupo (2026-11-11, alineada con la Sección II del contrato):**
+> 🏡 Casa La Clarita
 >
-> • Avisos de aseo, mantenimiento y servicios
+> Este grupo es para lo común de la casa:
+> • Avisos de aseo, mantenimiento, técnicos y servicios
 > • Reportes de daños en zonas comunes
-> • Pagos, contrato y pernoctaciones van por chat privado con Felipe
 >
-> Recordatorios de convivencia:
-> 🔇 Silencio de 10:00 p.m. a 6:00 a.m.
-> 🚪 Visitas hasta las 10:00 p.m. Si alguien se queda a dormir, se avisa antes.
+> Pagos, pernoctaciones, contrato y daños dentro de la habitación van por chat privado con Felipe.
+>
+> 📋 Reglamento de la casa (Sección II del contrato):
+> 🔇 Silencio de 10:00 p.m. a 6:00 a.m., todos los días. Sin parlantes ni ruidos altos.
+> 🚪 Visitas hasta las 10:00 p.m. Si alguien se queda a dormir: aviso previo a Felipe, $10.000 por noche, máximo 5 noches al mes.
+> 🚭 No se fuma ni se vapea en ninguna parte de la casa (cigarrillo, vape, marihuana). No se permiten fiestas ni consumo de alcohol.
+> 🐾 No mascotas.
+> 🧹 Aseo de las habitaciones cada 15 días, en el día y la hora que se avisen por aquí. Zonas comunes, cada semana.
 > 🧺 Lavadora de 7:00 a.m. a 9:00 p.m.
-> 🚭 No se permite consumir tabaco, alcohol, marihuana, vapes ni otras sustancias en la casa
-> 🐾 No mascotas
+
+*Criterio: las sanciones y las faltas graves no van en la descripción (se ven como amenaza en un canal de convivencia; están en el contrato firmado). Advertencias, multas y notificaciones formales (cláusula décima) se envían siempre por chat privado, nunca en el grupo.*
 
 ---
 
