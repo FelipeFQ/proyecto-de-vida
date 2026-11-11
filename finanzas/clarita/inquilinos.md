@@ -1,6 +1,6 @@
 # INQUILINOS ACTIVOS — Coliving La Clarita
 *Ciclo de vida desde la firma: entrega con inventario → cobro mensual → incidencias → renovación → salida.*
-*Última actualización: 2026-11-02*
+*Última actualización: 2026-11-11*
 
 ---
 
@@ -35,6 +35,41 @@
 - **Javier (Hab 1) = punto de apoyo local** (acordado 2026-10-03): vende las fichas de la lavadora y apoya en temas de visitas. Pendiente definir por escrito: alcance exacto, contraprestación (¿la tarifa especial lo cubre?) y cómo y cada cuánto entrega el dinero de las fichas (registrar en la rendición).
 - Cuidado: que no quede como "vigilante" de los demás inquilinos. El control de las pernoctaciones lo hace Felipe con las cámaras y el aviso de cada inquilino.
 - Cámaras en zonas comunes: verificar que el contrato tenga la cláusula de videovigilancia y su finalidad, y que haya un aviso visible (Ley 1581/2012).
+
+---
+
+## Grupo de WhatsApp de la casa
+
+*Creado 2026-11-11. Miembros: Felipe, Javier (Hab 1), Alejandro y Ximena (Hab 301) y Gloria (aseo).*
+
+**Uso:** en el grupo va lo común (aseo, mantenimiento, técnicos, cortes de servicios, daños en zonas comunes). Lo de cada inquilino (pagos, contrato, pernoctaciones) va por chat privado con Felipe, nunca en el grupo. Javier no se presenta en el grupo como punto de apoyo ni vendedor de fichas, para que no quede como vigilante de los demás. Las cámaras no se mencionan en el grupo porque todos ya saben que existen. El aviso visible (Ley 1581) sigue pendiente aparte.
+
+**Mensaje inicial:**
+> ¡Hola a todos! 👋 Creé este grupo para la casa, para que tengamos un canal común para lo que nos toca a todos.
+>
+> Les presento a Gloria, que es quien hace el aseo de la casa. Hoy está aquí haciendo el aseo 🧹
+>
+> Por aquí les voy a avisar cosas como el aseo, mantenimientos, visitas de técnicos o cortes de servicios. Y si ven algo dañado o que no funciona en las zonas comunes (bomba, ducha, lavadora, internet), me escriben por aquí para que todos estemos enterados.
+>
+> Los temas de cada uno (pagos, contrato, pernoctaciones) siguen por chat privado conmigo.
+>
+> En estos días les comparto también un calendario de la casa con los días de aseo y lo que vaya saliendo.
+>
+> Cualquier cosa, aquí estoy. ¡Bienvenidos! 🏡
+
+**Descripción del grupo:**
+> 🏡 Casa La Clarita: canal de la casa
+>
+> • Avisos de aseo, mantenimiento y servicios
+> • Reportes de daños en zonas comunes
+> • Pagos, contrato y pernoctaciones van por chat privado con Felipe
+>
+> Recordatorios de convivencia:
+> 🔇 Silencio de 10:00 p.m. a 6:00 a.m.
+> 🚪 Visitas hasta las 10:00 p.m. Si alguien se queda a dormir, se avisa antes.
+> 🧺 Lavadora de 7:00 a.m. a 9:00 p.m.
+> 🚭 No se permite consumir tabaco, alcohol, marihuana, vapes ni otras sustancias en la casa
+> 🐾 No mascotas
 
 ---
 
