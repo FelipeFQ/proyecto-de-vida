@@ -40,14 +40,14 @@
 
 ## Grupo de WhatsApp de la casa
 
-*Creado 2026-11-11. Miembros: Felipe, Javier (Hab 1), Alejandro y Ximena (Hab 301) y Gloria (aseo).*
+*Creado 2026-11-11. Miembros: Felipe, Javier (Hab 1), Alejandro y Ximena (Hab 301). La señora Gloria (aseo) entra después de conocer en persona a Alejandro y Ximena (Javier ya la conoce) y solo con su permiso: a ella todavía no se le ha preguntado.*
 
 **Uso:** en el grupo va lo común (aseo, mantenimiento, técnicos, cortes de servicios, daños en zonas comunes). Lo de cada inquilino (pagos, contrato, pernoctaciones) va por chat privado con Felipe, nunca en el grupo. Javier no se presenta en el grupo como punto de apoyo ni vendedor de fichas, para que no quede como vigilante de los demás. Las cámaras no se mencionan en el grupo porque todos ya saben que existen. El aviso visible (Ley 1581) sigue pendiente aparte.
 
 **Mensaje inicial:**
 > ¡Hola a todos! 👋 Creé este grupo para la casa, para que tengamos un canal común para lo que nos toca a todos.
 >
-> Les presento a Gloria, que es quien hace el aseo de la casa. Hoy está aquí haciendo el aseo 🧹
+> Hoy viene la señora Gloria, que es quien hace el aseo de la casa 🧹 En el transcurso del día se la presento en persona a Alejandro y Ximena (Javier ya la conoce).
 >
 > Por aquí les voy a avisar cosas como el aseo, mantenimientos, visitas de técnicos o cortes de servicios. Y si ven algo dañado o que no funciona en las zonas comunes (bomba, ducha, lavadora, internet), me escriben por aquí para que todos estemos enterados.
 >
