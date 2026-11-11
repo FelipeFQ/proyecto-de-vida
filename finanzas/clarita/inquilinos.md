@@ -72,7 +72,7 @@
 > • Bolsa blanca: aprovechables limpios (papel, cartón, plástico, vidrio).
 > • Basura: martes, jueves y sábado.
 > • Reciclaje: lunes, miércoles y viernes. No pasa todos esos días: si no pasó, el reciclaje se saca el siguiente día de la lista.
-> • Al sacar la basura de una caneca común, dejarle bolsa nueva.
+> • Las canecas comunes las deja listas la señora Gloria el día del aseo. La basura de cada habitación la saca cada uno en los días de recolección.
 >
 > 3️⃣ ASEO 🧽
 > • Zonas comunes: cada semana.
@@ -87,7 +87,9 @@
 >
 > 💡 Agua, luz, gas, internet y aseo están incluidos en el canon.
 
-*Descartado de la descripción anterior: el cobro de servicios divididos por persona y el link de Drive con recibos y montos (contradicen el canon todo incluido) y el aseo mensual con la puerta abierta (el contrato dice habitación cada 15 días y zonas comunes cada semana; Gloria tiene llaves desde el 2026-11-11). Revisar con quién está compartido ese Drive. Pendiente: definir quién saca la basura de las canecas comunes.*
+*Descartado de la descripción anterior: el cobro de servicios divididos por persona y el link de Drive con recibos y montos (contradicen el canon todo incluido) y el aseo mensual con la puerta abierta (el contrato dice habitación cada 15 días y zonas comunes cada semana; Gloria tiene llaves desde el 2026-11-11). Revisar con quién está compartido ese Drive.*
+
+*Basura de zonas comunes (decidido 2026-11-11): Gloria vacía las canecas comunes, les pone bolsa nueva y deja la basura lista el día del aseo (miércoles, si ese queda como su día fijo). El jueves, día de recolección, Felipe pide por el grupo el favor de sacarla al frente. No es rotativo ni es una regla: es un favor. Para que no se diluya, pedirlo con nombre ("Javier, ¿me haces el favor…?") y la noche anterior. Si nadie responde, la bolsa queda para el sábado.*
 
 *Criterio: las sanciones y las faltas graves no van en la descripción (se ven como amenaza en un canal de convivencia; están en el contrato firmado). Advertencias, multas y notificaciones formales (cláusula décima) se envían siempre por chat privado, nunca en el grupo.*
 
