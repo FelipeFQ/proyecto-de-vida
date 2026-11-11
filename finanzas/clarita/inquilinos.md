@@ -57,22 +57,37 @@
 >
 > Cualquier cosa, aquí estoy. ¡Bienvenidos! 🏡
 
-**Descripción del grupo (2026-11-11, alineada con la Sección II del contrato):**
+**Descripción del grupo (2026-11-11, une la descripción anterior de la casa con la Sección II del contrato):**
 > 🏡 Casa La Clarita
 >
-> Este grupo es para lo común de la casa:
-> • Avisos de aseo, mantenimiento, técnicos y servicios
-> • Reportes de daños en zonas comunes
+> Este grupo es para lo común de la casa: avisos de aseo, mantenimiento, técnicos y servicios, y reportes de daños en zonas comunes. Pagos, pernoctaciones, contrato y daños dentro de la habitación van por chat privado con Felipe.
 >
-> Pagos, pernoctaciones, contrato y daños dentro de la habitación van por chat privado con Felipe.
+> 1️⃣ ZONAS COMUNES 🧹
+> (baño social, zona multifuncional, patio, terraza, zona de ropas y pasillos)
+> • Dejarlas limpias y organizadas después de usarlas.
+> • Lo que se use (utensilios de aseo, lavadora) se deja limpio y en su lugar.
 >
-> 📋 Reglamento de la casa (Sección II del contrato):
-> 🔇 Silencio de 10:00 p.m. a 6:00 a.m., todos los días. Sin parlantes ni ruidos altos.
-> 🚪 Visitas hasta las 10:00 p.m. Si alguien se queda a dormir: aviso previo a Felipe, $10.000 por noche, máximo 5 noches al mes.
-> 🚭 No se fuma ni se vapea en ninguna parte de la casa (cigarrillo, vape, marihuana). No se permiten fiestas ni consumo de alcohol.
+> 2️⃣ BASURA Y RECICLAJE 🗑️
+> • Bolsa negra: orgánicos y no aprovechables.
+> • Bolsa blanca: aprovechables limpios (papel, cartón, plástico, vidrio).
+> • Basura: martes, jueves y sábado.
+> • Reciclaje: lunes, miércoles y viernes. No pasa todos esos días: si no pasó, el reciclaje se saca el siguiente día de la lista.
+> • Al sacar la basura de una caneca común, dejarle bolsa nueva.
+>
+> 3️⃣ ASEO 🧽
+> • Zonas comunes: cada semana.
+> • Habitaciones: cada 15 días, en el día y la hora que se avisen por aquí. Ese día, dejar el piso despejado (objetos sobre la cama o la mesa).
+>
+> 4️⃣ CONVIVENCIA (Sección II del contrato) 📋
+> 🔇 Silencio de 10:00 p.m. a 6:00 a.m. Sin parlantes ni ruidos altos.
+> 🚪 Visitas hasta las 10:00 p.m. Pernoctación: aviso previo, $10.000 por noche, máximo 5 al mes.
+> 🚭 No se fuma ni se vapea en la casa. Sin fiestas ni alcohol.
 > 🐾 No mascotas.
-> 🧹 Aseo de las habitaciones cada 15 días, en el día y la hora que se avisen por aquí. Zonas comunes, cada semana.
 > 🧺 Lavadora de 7:00 a.m. a 9:00 p.m.
+>
+> 💡 Agua, luz, gas, internet y aseo están incluidos en el canon.
+
+*Descartado de la descripción anterior: el cobro de servicios divididos por persona y el link de Drive con recibos y montos (contradicen el canon todo incluido) y el aseo mensual con la puerta abierta (el contrato dice habitación cada 15 días y zonas comunes cada semana; Gloria tiene llaves desde el 2026-11-11). Revisar con quién está compartido ese Drive. Pendiente: definir quién saca la basura de las canecas comunes.*
 
 *Criterio: las sanciones y las faltas graves no van en la descripción (se ven como amenaza en un canal de convivencia; están en el contrato firmado). Advertencias, multas y notificaciones formales (cláusula décima) se envían siempre por chat privado, nunca en el grupo.*
 
