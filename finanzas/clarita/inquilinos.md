@@ -1,6 +1,6 @@
 # INQUILINOS ACTIVOS — Coliving La Clarita
 *Ciclo de vida desde la firma: entrega con inventario → cobro mensual → incidencias → renovación → salida.*
-*Última actualización: 2026-11-11*
+*Última actualización: 2026-11-13*
 
 ---
 
@@ -20,6 +20,7 @@
 | 2026-09 | 1 | Javier Roa | $1.250.000 | — | — | Usado completo para la 1ª cuota de la tarjeta (muebles Hab 1) — ver rendición |
 | 2026-10 | 1 | Javier Roa | $1.250.000 | Día 15 (según su fecha habitual) | Llave Bre-B | Sin comprobante revisado en esta sesión |
 | 2026-10 | 301 | Alejandro y Ximena | $363.000 | 2026-10-31 (en la entrega) | Cuenta Nu de la abuela | Prorrateo 31 oct–5 nov (6 días) |
+| 2026-11 | 301 | Alejandro y Ximena | Pendiente: $1.000.000 + $865.000 | Abono el dom 15 nov; saldo a más tardar el mié 25 nov | — | **Acuerdo de pago por mora (2026-11-12, por WhatsApp).** Vencía del 6 al 10 nov. El 11 nov Alejandro pidió fraccionar el pago (abono ~$1M el 15 y saldo entre el 20 y el 25); su ingreso fuerte llega ~el 22. Felipe aceptó: $1.000.000 el 15 y $815.000 + recargo de $50.000 = $865.000 a más tardar el 25 (Alejandro ofreció asumir el recargo). Excepción de una sola vez. Pregunta enviada el 12 nov sobre si puede pagar diciembre del 6 al 10: sin respuesta al 13 nov AM. |
 
 ---
 
@@ -109,3 +110,4 @@
 - **Renovación:** el aumento anual máximo es el IPC del año anterior (Ley 820/2003).
 - **Salida:** preaviso de 30 días. Inspección con el inventario de la Sección III del contrato y registro fotográfico.
 - **Cobro:** recordatorio el día 1 del periodo de pago. Recargo de $50.000 desde el día 6.
+- **Riesgo Hab 301 (2026-11-12):** el ingreso fuerte de Alejandro llega ~el 22 y su fecha de pago es del 6 al 10. Si diciembre también se atrasa, ya es un patrón → conversación directa + mención de la codeudora (Ivonne). Escalera si no cumple el acuerdo de nov: sin abono el lun 16 AM → mensaje privado preguntando cuándo lo hace; sin respuesta ni pago → llamada; si pasa el 25 sin saldo → aviso escrito por privado (cláusula décima) y contacto con la codeudora. Avisos formales siempre por chat privado, nunca en el grupo.
