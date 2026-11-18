@@ -1,6 +1,6 @@
 # INQUILINOS ACTIVOS — Coliving La Clarita
 *Ciclo de vida desde la firma: entrega con inventario → cobro mensual → incidencias → renovación → salida.*
-*Última actualización: 2026-11-17*
+*Última actualización: 2026-11-18*
 
 ---
 
@@ -20,7 +20,7 @@
 | 2026-09 | 1 | Javier Roa | $1.250.000 | — | — | Usado completo para la 1ª cuota de la tarjeta (muebles Hab 1) — ver rendición |
 | 2026-10 | 1 | Javier Roa | $1.250.000 | Día 15 (según su fecha habitual) | Llave Bre-B | Sin comprobante revisado en esta sesión |
 | 2026-10 | 301 | Alejandro y Ximena | $363.000 | 2026-10-31 (en la entrega) | Cuenta Nu de la abuela | Prorrateo 31 oct–5 nov (6 días) |
-| 2026-11 | 301 | Alejandro y Ximena | Pendiente: $1.000.000 + $865.000 | Abono el dom 15 nov; saldo a más tardar el mié 25 nov | — | **Acuerdo de pago por mora (2026-11-12, por WhatsApp).** Vencía del 6 al 10 nov. El 11 nov Alejandro pidió fraccionar el pago (abono ~$1M el 15 y saldo entre el 20 y el 25); su ingreso fuerte llega ~el 22. Felipe aceptó: $1.000.000 el 15 y $815.000 + recargo de $50.000 = $865.000 a más tardar el 25 (Alejandro ofreció asumir el recargo). Excepción de una sola vez. Pregunta enviada el 12 nov sobre si puede pagar diciembre del 6 al 10. **Respuesta (14 nov):** Alejandro confirmó el acuerdo. Diciembre lo paga del 6 al 10 sin problema (es un buen mes para él). Desde enero su ingreso más estable llega entre el 20 y el 25. Noviembre fue puntual: asumió la mayoría de los gastos del mes. Propuesta en análisis: mover su fecha de pago al 21–25 con un otrosí. **17 nov:** el abono del 15 no llegó. Alejandro dice que tuvo un problema con la transferencia porque cambió de número de cuenta, y promete enviarlo a más tardar el mar 17. Es el segundo compromiso de fecha que incumple (6–10 nov y 15 nov). |
+| 2026-11 | 301 | Alejandro y Ximena | Pendiente: $1.000.000 + $865.000 | Abono el dom 15 nov; saldo a más tardar el mié 25 nov | — | **Acuerdo de pago por mora (2026-11-12, por WhatsApp).** Vencía del 6 al 10 nov. El 11 nov Alejandro pidió fraccionar el pago (abono ~$1M el 15 y saldo entre el 20 y el 25); su ingreso fuerte llega ~el 22. Felipe aceptó: $1.000.000 el 15 y $815.000 + recargo de $50.000 = $865.000 a más tardar el 25 (Alejandro ofreció asumir el recargo). Excepción de una sola vez. Pregunta enviada el 12 nov sobre si puede pagar diciembre del 6 al 10. **Respuesta (14 nov):** Alejandro confirmó el acuerdo. Diciembre lo paga del 6 al 10 sin problema (es un buen mes para él). Desde enero su ingreso más estable llega entre el 20 y el 25. Noviembre fue puntual: asumió la mayoría de los gastos del mes. Propuesta en análisis: mover su fecha de pago al 21–25 con un otrosí. **17 nov:** el abono del 15 no llegó. Alejandro dice que tuvo un problema con la transferencia porque cambió de número de cuenta, y promete enviarlo a más tardar el mar 17. Es el segundo compromiso de fecha que incumple (6–10 nov y 15 nov). En persona le dijo a Felipe que lo enviaba la noche del 17; a las 21:00 no había llegado. **Regla (17 nov):** no se manda recordatorio de noche. Si el mié 18 en la mañana no ha llegado: primero llamada, luego mensaje con fecha límite ese mismo día y mención de la codeudora como paso siguiente. Si pasa el vie 20 sin abono, se contacta a Ivonne. |
 
 ---
 
