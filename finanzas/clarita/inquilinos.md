@@ -9,7 +9,7 @@
 | Hab | Inquilino | Documento | Teléfono | Canon | Inicio | Duración | Fin | Día de pago | Garantía |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Javier Roa (nombre legal: Yeimberth Javier Roa Martínez — siempre llamarlo **Javier**) | Pasaporte 198700535 | 3003446634 | $1.250.000 | 2026-09-15 | 12 meses. **Contrato firmado el 2026-10-31** | 2027-09-14 | 15 de cada mes (plazo hasta el 20), por llave Bre-B | $0 — trato especial por ~3 años de arriendo con la familia |
-| 301 (Hab 2) | Oscar Alejandro Barón Martín y Ximena Palacios Vaca | C.C. 1000459108 / C.C. 1031809670 | — | $1.750.000 + moto $65.000 = $1.815.000 | 2026-10-31 | 6 meses (entregada sáb 31 oct) | 2027-05-05 | 6–10 de cada mes (periodo del 6 al 5) | Pagaré CL-H301-01 + codeudora Ivonne Angélica Barón Martín |
+| 301 (Hab 2) | Oscar Alejandro Barón Martín y Ximena Palacios Vaca | C.C. 1000459108 / C.C. 1031809670 | — | $1.750.000 + moto $65.000 = $1.815.000 | 2026-10-31 | 6 meses (entregada sáb 31 oct) | 2027-05-05 | 6–10 de cada mes (periodo del 6 al 5) | Pagaré CL-H301-01 + codeudora Ivonne Angélica Barón Martín (mamá de Alejandro) |
 
 ---
 
