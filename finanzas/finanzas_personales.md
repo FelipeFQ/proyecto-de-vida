@@ -105,7 +105,8 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 
 **Día de pagos 2 — día 13, en Calendar desde 2026-11-19 (dos eventos el 13 de cada mes, aviso 10 min):**
 - **💸 Pagos personales**, 9:00–9:30, en el calendario "Pagos Personales": seguridad social, RappiCard y Nu.
-- **💸 Tarjetas de los abuelos (muebles)**, 9:30–10:00, en el calendario "Pagos L.C.": las tres tarjetas de los abuelos. Van con la casa, no con lo personal de Felipe.
+- **💸 Tarjetas de los abuelos + préstamo de mamá**, 9:30–10:00, en el calendario "Pagos L.C.": las tres tarjetas de los abuelos y la cuota del préstamo de mamá (vence el 15, empieza el 15 dic). Van con la casa, no con lo personal de Felipe.
+- **💰 Cobro Juana**, el día 5, 9:30–9:45, en el calendario "Pagos Personales": revisar si pagó y, si no, mandarle un recordatorio ese mismo día. No hay calendario aparte para coaching mientras haya un solo cliente.
 | Día | Concepto | Quién | Monto |
 |---|---|---|---|
 | ≤15 | Seguridad social | Felipe | $500k |
