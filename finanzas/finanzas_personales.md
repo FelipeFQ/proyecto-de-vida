@@ -92,6 +92,7 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 - Rangos observados de pago oportuno: Vanti día 1–4 · Enel día 5–7 (abr: 9) · ETB día 9 fijo · Acueducto día 10–14, solo en meses impares (el recibo llega en el mes par).
 - Pendiente (Felipe): averiguar si se puede activar el débito automático de ETB desde la cuenta de la casa.
 - La liquidación del mes anterior y el pago de Juana siguen en la ventana del 1 al 5.
+- **Cobros de arriendo, también en "Pagos L.C." (2026-11-19):** un evento el último día del plazo de cada habitación, 9:00–9:30, para revisar si llegó y, si no, escribir ese mismo día. 💰 Cobro Hab 2 el día 10 (desde dic) · 💰 Cobro Hab 1 (Javier) el día 20 (desde el 20 nov). Si la Hab 2 pasa al 21–25 con un otrosí, mover el evento y revisar antes que el 15 haya plata para la cuota del préstamo de mamá.
 | Día | Concepto | Quién | Monto |
 |---|---|---|---|
 | 1–5 | Juana paga | Felipe | $300k (nov 2026: $600k, oct + nov) |
