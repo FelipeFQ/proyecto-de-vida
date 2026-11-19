@@ -4,11 +4,24 @@
 
 ---
 
+## SISTEMA DE HÁBITOS — 3 GRUPOS (definido 2026-11-19)
+*Lo definió Felipe en una sesión larga de escritura y reflexión en su libreta. Regla: trabajar los 3 grupos todos los días, empezando pequeño desde el 19 nov. Este es el material encarnado de la charla del 23 ene.*
+
+| Grupo | Hábitos | Cómo se empieza pequeño |
+|---|---|---|
+| **1. Rendimiento** | Sueño consistente · horarios ordenados (Calendar ordenado) · rutina de fuerza robusta | Comer a las horas que tocan para no afectar el sueño. **Indicación de Sonia (fisio):** retomar ya el fortalecimiento con rutinas de fuerza estructuradas. Parte del problema es debilidad muscular: core/abdomen, cadena posterior, hombro y tren inferior. |
+| **2. Observación** | Silencio y reflexión · orden financiero · escritura constante | Regla del celular: si lo toma sin un propósito concreto, medita 7 min y escribe. Pagos en Calendar (Pagos L.C. + Pagos Personales, 19 nov). Una nota en el celular para los pagos en efectivo, revisada cada semana. |
+| **3. Acción** | Trabajo diario en las metas de coaching (prioridad: videos, para ganar elocuencia frente a la cámara y al hablar) · lectura constante | 30 min o unas pocas páginas al día. Libro actual: *Tribes: We Need You to Lead Us* (Seth Godin), empezado el 19 nov. Los libros sobre el negocio de coaching comprados durante la etapa de La Clarita están pendientes. |
+
+**Enfoque (19 nov):** menos frentes a la vez. Felipe espera dejar la captación de inquilinos de La Clarita para ene–feb 2027; ese tiempo pasa a la captación presencial de clientes de coaching. Los bloques de estudio y creación se planean cada semana, según qué días va a La Clarita y qué días se queda en Tenjo. Los días en Tenjo son para coaching: YouTube, captación y estudio.
+
+---
+
 ## CIMIENTOS — Coaching de Hábitos
 
 | Ítem | Estado |
 |---|---|
-| **Clientes activos** | 1 — Juana ($300k/mes, subió desde $170k). **Horario nuevo (desde oct 2026): miércoles 7:00–8:00** (le cambiaron el turno de trabajo a 13:00–19:00). Excepción: mié 21 oct a las 8:00. |
+| **Clientes activos** | 1 — Juana ($300k/mes, subió desde $170k; paga del 1 al 5, revisión el día 5 en Calendar). **Horario desde el 21 nov 2026: sábados** (el domingo si trabaja ese sábado; la hora está por definir). Acordado con ella el 19 nov. No pasó a la especialización de la Nacional. *(El horario de mié 7–8 queda sin efecto.)* |
 | **Primer cliente histórico** | Noviembre 2025 (antes del lanzamiento formal de Método Cimientos en abril 2026) |
 | **Ingresos coaching** | $300k/mes (bajó de $470k tras no-fit de Luisa). Juana no pagó oct: paga oct + nov ($600k) del 1 al 5 nov. |
 | **Meta Q2 (ajustada)** | ✅ CUMPLIDA — Juana + Luisa activas |
@@ -41,7 +54,7 @@
   **Próximo foco (sesión 13 junio):** ritual de cierre pre-sueño. Es el punto de apalancamiento de mayor retorno — toca latencia de sueño, horario de acostarse, pantallas y calidad de descanso simultáneamente.
 
 **Horarios de sesión:**
-- Juana: miércoles 15:00–16:00
+- Juana: sábados (desde 21 nov 2026; antes mié 15:00–16:00)
 - Luisa: viernes 18:00–19:00
 
 **Resumen mensual Juana — ✅ COMPLETADO (2026-06-02):** PDF diseñado y aprobado. Se entrega a Juana antes de la sesión del miércoles 4 junio como apertura de primera sesión de junio.
