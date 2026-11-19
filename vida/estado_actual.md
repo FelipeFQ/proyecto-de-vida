@@ -13,6 +13,8 @@
 | **2. Observación** | Silencio y reflexión · orden financiero · escritura constante | Regla del celular: si lo toma sin un propósito concreto, medita 7 min y escribe. Pagos en Calendar (Pagos L.C. + Pagos Personales, 19 nov). Una nota en el celular para los pagos en efectivo, revisada cada semana. |
 | **3. Acción** | Trabajo diario en las metas de coaching (prioridad: videos, para ganar elocuencia frente a la cámara y al hablar) · lectura constante | 30 min o unas pocas páginas al día. Libro actual: *Tribes: We Need You to Lead Us* (Seth Godin), empezado el 19 nov. Los libros sobre el negocio de coaching comprados durante la etapa de La Clarita están pendientes. |
 
+**Letrero de Carmen de Apicalá (19 nov, en Calendar):** lun 30 nov enviar el diseño a la imprenta y adelantar el pago (incluye los volantes para la portería) · vie 4 dic, fecha máxima para que esté listo · semana del 14 al 20 dic (idealmente a más tardar el 15) viaje con el hermano de Felipe, que viene de Medellín, para instalarlo y dejar los volantes.
+
 **Enfoque (19 nov):** menos frentes a la vez. Felipe espera dejar la captación de inquilinos de La Clarita para ene–feb 2027; ese tiempo pasa a la captación presencial de clientes de coaching. Los bloques de estudio y creación se planean cada semana, según qué días va a La Clarita y qué días se queda en Tenjo. Los días en Tenjo son para coaching: YouTube, captación y estudio.
 
 ---
