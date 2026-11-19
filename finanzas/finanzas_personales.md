@@ -103,7 +103,9 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 | 9 | Internet ETB (DirecTV Go ✅ cancelado) | Casa | ~$134k |
 | 10–14, meses impares | Acueducto | Casa | 10 nov: $119.020 |
 
-**Día de pagos 2 (~día 13): pagos personales + tarjetas**
+**Día de pagos 2 — día 13, en Calendar desde 2026-11-19 (dos eventos el 13 de cada mes, aviso 10 min):**
+- **💸 Pagos personales**, 9:00–9:30, en el calendario "Pagos Personales": seguridad social, RappiCard y Nu.
+- **💸 Tarjetas de los abuelos (muebles)**, 9:30–10:00, en el calendario "Pagos L.C.": las tres tarjetas de los abuelos. Van con la casa, no con lo personal de Felipe.
 | Día | Concepto | Quién | Monto |
 |---|---|---|---|
 | ≤15 | Seguridad social | Felipe | $500k |
