@@ -86,16 +86,21 @@ Propuesta: reembolso (no aporte) + desde ya los servicios los paga la casa direc
 ## CALENDARIO MENSUAL DE PAGOS (2026-10-25)
 *Sesión Consejero dom 25 oct. Recordatorio: **dos días de pago fijos al mes**, revisados en la revisión semanal y puestos en los pendientes del día / pantalla de bloqueo. Sin notificaciones nuevas (Felipe descarta las de Calendar sin leerlas; push en la app de finanzas descartado — sesgo 1, fuera de Q4).*
 
-**Día de pagos 1 (~día 2): la casa + liquidación del mes anterior**
+**Día de pagos 1 — servicios de la casa (ajustado 2026-11-19): dos eventos en Calendar, calendario "Pagos L.C.", 9:00–9:30, aviso 10 min.**
+- **Día 1 · 💸 Pagos de la casa:** pagar todo lo que haya llegado, sin esperar a la fecha límite. El ~día 2 anterior se pasaba del gas, que venció el 1 en sep y oct.
+- **Día 5 · 💸 Revisión de pagos:** pagar lo que no había llegado el 1. En meses impares, si el recibo del acueducto no ha llegado, pedirlo o descargarlo.
+- Rangos observados de pago oportuno: Vanti día 1–4 · Enel día 5–7 (abr: 9) · ETB día 9 fijo · Acueducto día 10–14, solo en meses impares (el recibo llega en el mes par).
+- Pendiente (Felipe): averiguar si se puede activar el débito automático de ETB desde la cuenta de la casa.
+- La liquidación del mes anterior y el pago de Juana siguen en la ventana del 1 al 5.
 | Día | Concepto | Quién | Monto |
 |---|---|---|---|
 | 1–5 | Juana paga | Felipe | $300k (nov 2026: $600k, oct + nov) |
 | 1–5 | Liquidación de La Clarita (comisión 25% + reembolsos) | Felipe | ver regla abajo |
-| ~3 (se corre cada mes) | Gas Vanti | Casa | ~$47k (3 nov: $46.830) |
-| ~5–7 (se corre; lectura ~21) | Energía Enel | Casa | ~$170k |
+| 1–4 (se corre cada mes) | Gas Vanti | Casa | ~$47k (3 nov: $46.830) |
+| 5–7, a veces 9 (lectura ~21) | Energía Enel | Casa | ~$170k |
 | 5–10 | Alejandro y Ximena pagan (Hab 2) | Casa | canon mensual |
 | 9 | Internet ETB (DirecTV Go ✅ cancelado) | Casa | ~$134k |
-| ~10, bimestral | Acueducto | Casa | 10 nov: $119.020 |
+| 10–14, meses impares | Acueducto | Casa | 10 nov: $119.020 |
 
 **Día de pagos 2 (~día 13): pagos personales + tarjetas**
 | Día | Concepto | Quién | Monto |
