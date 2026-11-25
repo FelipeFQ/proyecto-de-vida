@@ -46,6 +46,10 @@
 
 - **Colchón real: $3.034.850** (+$207.000 del reembolso #3 por entrar = $3.241.850). Distancia a la alarma de $1.5M: ~$1.53M (~$1.74M con el reembolso). Sin otras cuentas ni efectivo.
 - Entradas de nov ya incluidas: liquidación de oct ($624.217), reembolso #2 ($1.129.000), Juana ($300.000: Felipe le cobró solo un mes porque oct–nov fueron intermitentes) y liquidación de nov ($1.296.831, repartida entre Principal, NuCard y RappiCard).
+- **Seguridad social de nov sin pagar al 25 nov** (se le pasó el día de pagos 2 del 13 nov; vencía el 15) → se paga el 25 nov. **Colchón real después de pagarla: $2.534.850** ($2.741.850 con el reembolso #3). Distancia a la alarma: ~$1.03M.
+- **Gasto de noviembre (2026-11-25):** ~$1,9M implícito, casi todo variable: fines de semana con amigos en Bogotá (almuerzos, comida), más transporte y algunas compras de ocio con tarjeta (balón de fútbol americano, libros). Felipe lo considera un mes atípico: la mayoría de sus amigos se van a Medellín en diciembre.
+- **Diciembre — tope de gasto variable: $500.000, regalos incluidos (decidido 2026-11-25).** La comisión de dic se cobra del 1 al 5 ene, así que en diciembre solo entran Juana ($300k) y el reembolso #3 ($207k); salen seguridad social ($500k, día 13) y Haku ($160k). Proyección al 31 dic: ~$2,38M − variable → **~$1,88M con el tope**. Con $900k de variable se toca la alarma; con un mes como noviembre (~$1,9M), el colchón queda en ~$0,48M.
+- **Control:** saldo del bolsillo Principal en la revisión del domingo + la cifra en el audio a Simón del lunes.
 - Sobrante del préstamo de mamá en la cuenta de la casa: de los $500.215, ~$177.000 se les entregaron a los abuelos en efectivo (aclarado 2026-11-25).
 
 ## COLCHÓN — histórico (2026-10-25)
