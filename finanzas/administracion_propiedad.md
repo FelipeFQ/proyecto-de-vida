@@ -6,7 +6,7 @@ Casa de los abuelos en el barrio La Clarita, Engativá (Bogotá). Estrato 3. Lot
 
 Capacidad real: **7 habitaciones** (4 Tipo A + 2 Tipo B habilitables; la 7ª hoy es bodega de objetos de los abuelos y se libera en 1–2 años).
 
-Felipe administra a cambio de una comisión del 25% de la ganancia neta desde nov 2026 (acordado 2026-10-06). La base de cálculo está pendiente de respuesta del abuelo.
+Felipe administra a cambio de una comisión del 25% de la ganancia neta desde nov 2026 (acordado 2026-10-06). Base de cálculo aprobada por el abuelo: neto después de servicios, aseo, predial prorrateado y reparaciones menores del 4 % (confirmado 2026-11-25).
 
 ## ESTADO ACTUAL (actualizado 2026-10-02)
 Remodelación terminada. La casa opera como **Coliving La Clarita** (Carrera 84A # 71A-10, La Clarita, Engativá). Arrendadora: Clara Inés Ávila de Quintero; administrador: Felipe. Contrato tripartito (arrendadora + administrador + arrendatario).
@@ -75,7 +75,8 @@ Nota: la rendición asume Hab 3–4 a $1.35M. El precio publicado hoy es $1.5M (
 - [ ] Decidir el destino de los objetos de la Hab 7 (trasladar / vender).
 - [ ] Pagar el saldo del eléctrico ($1.25M) cuando Enel cambie el contador.
 - [x] Cuantificar los pagos personales de Felipe a la casa → $1.212.600 (2026-10-06), detalle en `finanzas/finanzas_personales.md`. ✅ Aprobado como reembolso (2026-10-06) y ✅ pagado (confirmado 2026-10-25).
-- [ ] Liquidación de octubre: Felipe ya se transfirió $624.217 (servicios de sep + comisión). Falta que el abuelo responda sobre la base de la comisión ($296.977 con la propuesta; $321.440 con la definición del 6 oct), autorice $1.129.000 de sus ahorros y decida el abono para el cupo de la Hab 3. Detalle en `finanzas/finanzas_personales.md`, "Actualización 2026-11-02". Conversación: mar 3 nov.
+- [x] Liquidación de octubre: base operativa aprobada por el abuelo (después de predial y reparaciones menores; sin vacancia ni reparaciones mayores) y reembolso #2 ($1.129.000) pagado a inicios de nov (confirmado 2026-11-25).
+- [ ] Liquidación de noviembre (1–5 dic): transferir $1.296.831 a Felipe y $92.000 a Javier desde la Nu de la abuela; reembolso #3 ($207.000, inversión Hab 3) de los ahorros. Detalle en `finanzas/finanzas_personales.md`.
 - [x] Cancelar la suscripción DirecTV Go Flex en la factura de internet (~$22k/mes extra).
 - [x] Servicios (aseo, internet, gas, luz, acueducto) los paga la casa con los arriendos (acordado 2026-10-06).
 - [ ] Comprar muebles Hab 2 con 3 tarjetas (Occidente ~$700k + Nu abuela $1.8M + Nu abuelo $1.2M). Verificar si Nu cobra interés en cuotas.
