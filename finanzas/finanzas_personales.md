@@ -1,5 +1,5 @@
 # FINANZAS PERSONALES — SITUACIÓN ACTUAL
-Última actualización: 2026-10-03
+Última actualización: 2026-11-25 (colchón) · 2026-10-03 (resto)
 
 ## PERFIL
 - Vive con los abuelos en Tenjo (de vuelta desde septiembre 2026). Sin gasto de arriendo ni alimentación.
@@ -33,7 +33,22 @@
 
 *Las filas de TC refinanciada y deuda familiar de $10M quedan absorbidas por el pagaré (confirmado 2026-10-03: no hay cuota de TC corriendo).*
 
-## COLCHÓN (actualizado 2026-10-25)
+## COLCHÓN (actualizado 2026-11-25)
+| Bolsillo (Nu) | Saldo 25 nov | Carácter |
+|---|---|---|
+| Principal | $1.248.738 | Disponible |
+| Fondo de emergencias | $1.786.111 | Colchón |
+| Haku | $129.857 | Provisión |
+| Spotify | $33.408 | Provisión |
+| RappiCard | $3.273.810 | = deuda total de Rappi hoy (conciliado por Felipe el 25 nov) |
+| NuCard | $2.498.751 | = deuda total de Nu hoy (conciliado; incluye servicios de La Clarita pagados con tarjeta) |
+| Ahorro / Platzi | $0 | — |
+
+- **Colchón real: $3.034.850** (+$207.000 del reembolso #3 por entrar = $3.241.850). Distancia a la alarma de $1.5M: ~$1.53M (~$1.74M con el reembolso). Sin otras cuentas ni efectivo.
+- Entradas de nov ya incluidas: liquidación de oct ($624.217), reembolso #2 ($1.129.000), Juana ($300.000: Felipe le cobró solo un mes porque oct–nov fueron intermitentes) y liquidación de nov ($1.296.831, repartida entre Principal, NuCard y RappiCard).
+- Sobrante del préstamo de mamá en la cuenta de la casa: de los $500.215, ~$177.000 se les entregaron a los abuelos en efectivo (aclarado 2026-11-25).
+
+## COLCHÓN — histórico (2026-10-25)
 | Bolsillo (Nu) | Saldo 25 oct | Carácter |
 |---|---|---|
 | Principal | $754.180 | Disponible |
