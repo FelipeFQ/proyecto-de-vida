@@ -1,11 +1,47 @@
 # INTERESADOS — Coliving La Clarita
 *Solo se registran interesados calificados (respondieron después del primer mensaje o agendaron visita). Los chats que solo enviaron "¿sigue disponible?" no entran.*
-*Última actualización: 2026-10-14*
+*Última actualización: 2026-11-26*
 
 **Etapas:** Calificado → Visita agendada → Visita hecha → Documentos → Contrato → ✅ Firmado / ❌ Perdido
 
 **Regla de follow-up:** máximo 3 contactos después de una visita sin respuesta. El tercero es el mensaje de cierre (plantilla 7). Sin respuesta 3–4 días después del cierre → ❌ Perdido.
 **Antes de la visita:** no se persigue. Visita no confirmada = ❌ Perdido; si reaparece, una sola reprogramación. Quien recibe requisitos y no responde, no recibe follow-up.
+
+---
+
+## Ronda Hab 3 — interesados desde la publicación (17 nov 2026), corte 26 nov
+
+*Hab 3 lista para entrega inmediata desde el 17 nov; anuncio "¡MINI APARTAESTUDIO TODO INCLUIDO EN LA CALI CON 72 (ENGATIVÁ)!" publicado la noche del 17 nov. Primer mensaje a todos: plantilla 1 con "entrega inmediata" ($1.500.000 / $1.400.000 a 12 m). Estado = lo último que se registró en la sesión `/clarita`; lo marcado "sin registro" hay que completarlo con lo que pasó en el chat.*
+
+| # | Nombre | Fecha 1er msg | Personas | Mudanza / plazo | Lo que preguntó o mostró | Qué se le respondió | Estado al 26 nov |
+|---|---|---|---|---|---|---|---|
+| 1 | Farelly | 18 nov | 2 | — | Pidió requisitos | Precio pareja ($1.800.000 / $1.750.000 a 6 m / $1.700.000 a 12 m) + requisitos de cada uno + codeudor con ingresos estables + "para qué fecha?" | Pendiente respuesta |
+| 2 | Andrés (18 nov) | 18 nov | ? | — | Pidió dirección; no respondió si es solo | Zona + link del barrio + "solo para ti?" | Pendiente |
+| 3 | David (18 nov) | 18 nov | 2 | — | "Para dos, qué dirección es?" | Precio pareja + zona/link + fecha | Pendiente |
+| 4 | Jhoanly | 19 nov | 1 | Inicios de diciembre | Pidió dirección. Tiene sus cosas: nevera pequeña, utensilios de cocina, licuadora, airfryer; quiere que la cama y lo demás se queden | Dotación completa; "no hay espacio para muebles grandes"; "en la visita miramos qué dejamos de la cocina y se ajusta el precio". Casa compartida ✅. Reglas + requisitos + codeudor enviados con visita **sáb 22, 2 p.m.** | Visto sin respuesta (21 nov). Sin follow-up (regla). Resultado del sábado: sin registro |
+| 5 | Sebastián | 19 nov | 1 | 1 de diciembre | — | Fecha ✅ → pieza casa compartida (sin "el de las fotos ya se arrendó": fotos del anuncio son de la Hab 3) | Pendiente respuesta a casa compartida |
+| 6 | **Fabián (Cruz Roja)** — interesado desde 3 oct | 20 nov (reaparece) | 1 (pareja de visita ocasional) | Ya | Firmó por fin su contrato de trabajo; "es la misma casa?". Perdió el número de Felipe. WhatsApp 3102619934 | Pasó a WhatsApp: fotos + video de la Hab 3; condiciones **$1.500.000 / $1.400.000 a 12 m** (decisión de Felipe: no se le respeta el "$1.400.000 a 6 m" de octubre, es otra habitación; si lo menciona: "esa tarifa era para la habitación anterior"); requisitos + codeudor. Visita **dom 22, 12:30** confirmada | Visita del 22: **sin registro** (completar) |
+| 7 | Diana | 21 nov | 2 (ella + hijo de 15) | Quería menos tiempo | — | Mínimo 3 meses; casa solo para adultos | ❌ Cerrado (hijo menor de edad) |
+| 8 | Héctor | 21 nov | 1 | **1 de enero**; 6 meses, "si me gusta, término indefinido" | Pidió separar; ofreció "un adelanto" | Separación solo con contrato (no adelantos: Ley 820 prohíbe depósitos). Propuesta: contrato desde el 1 dic, **diciembre al 80% = $1.160.000**, desde enero $1.450.000 (6 m). Videollamada para mostrar la casa: mar 24 o jue 26 | Respuesta y videollamada: sin registro. Opción B: Hab 4 para enero (1 m² menos, misma dotación y precio) solo si se asegura la plata para amoblarla (comprar ~10 dic) |
+| 9 | Henrry | 22 nov | ? | — | Pidió dirección exacta | Zona + link + "solo para ti?" | Pendiente |
+| 10 | Pedro | 22 nov | 1 ahora, **2 desde enero** (pareja) | "Lo más pronto posible" | Moto | $1.500.000 solo / +$300.000 desde enero (la 2ª persona presenta documentos). Casa compartida ✅ ("para verlo cuándo"). Moto $65.000/mes. Reglas ✅ ("Sí") | Siguiente: requisitos + codeudor + hora de visita (envío: sin registro) |
+| 11 | Guillermo | 22 nov | ? | 1 año | Preguntó si es "independiente" / con entrada independiente | Entrada a la casa compartida (portón con llave), puerta propia del apartaestudio, baño y cocina privados | ❌ No encaja ("no es independiente"). Cierre amable sugerido |
+| 12 | Hernán | 23 nov | 1 (novia de visita ocasional) | — | Tiempo a estación Modelia / DIJIN (probablemente trabaja ahí) | DIJIN: 8 min moto / 12 carro / ~20 transporte público (Maps); Modelia similar. Link del barrio + pernoctación ($10.000/noche, máx. 5/mes) + fecha | Pendiente |
+| 13 | Arahanna | 23 nov | 1 (militar, curso) + pareja ocasional | 1 mes y 8 días | — | Mínimo 3 meses | ❌ Cerrado |
+| 14 | Carlos | 23 nov | 1 | — | — | "Para qué fecha?" | Pendiente |
+| 15 | David (23 nov) — posiblemente otro David | 23 nov | 1 (pareja de visita ocasional) | — | Ubicación, zona de ropas | Link + pernoctación + lavandería (hoy gratis; luego $7.000/ciclo con monedero) + fecha | Pendiente |
+| 16 | Karen | 23 nov | 2 | — | "Tiene el mismo precio?" | Precio pareja + fecha | Pendiente |
+| 17 | Andrés (23 nov) — posiblemente otro Andrés | 23 nov | 2 | — | "Aceptas mascotas?" | No mascotas | ❌ Cerrado (mascota) |
+| 18 | Jair | 26 nov | 2 | — | — | Precio pareja + fecha | Pendiente |
+
+**Lectura para marketing (17–26 nov):**
+- **Volumen:** ~18 conversaciones que pasaron del primer mensaje en 9 días (sin contar los que solo escribieron "¿sigue disponible?").
+- **Pareja / 2 personas:** 7 de 18 (Farelly, David 18, Diana, Karen, Andrés 23, Jair, Pedro desde enero) + 3 con pareja de visita ocasional (Fabián, Hernán, David 23). El anuncio dice $1.500.000; el precio para pareja ($1.800.000) es el primer filtro.
+- **Ubicación es la pregunta más frecuente** (Andrés, David 18, Jhoanly, Henrry, Hernán, David 23): respuesta estándar con link del barrio + rutas + tiempos reales a su destino.
+- **Fechas:** inmediata (Fabián, Pedro), 1 dic (Sebastián, Jhoanly), 1 ene (Héctor; Pedro suma pareja en enero). Hay demanda para enero → Hab 4 lista para el 1 ene es una oportunidad (depende de la plata).
+- **Descartes objetivos:** plazo < 3 meses (Arahanna), menor de edad (Diana), mascota (Andrés 23), entrada propia (Guillermo — "independiente" se entiende distinto; si se repite, aclarar "dentro de casa coliving" en el primer mensaje).
+- **Silencio tras requisitos con codeudor:** Jhoanly (visto sin respuesta). Seguir midiendo (ver observación de requisitos en `marketing.md`).
+- **Peticiones fuera de regla:** separar sin contrato (Héctor) → solución: contrato con inicio anticipado y mes de reserva al 80%; traer electrodomésticos propios (Jhoanly) → descuento propuesto = costo del elemento ÷ 36 meses (nevera ~$17.000, microondas ~$7.000, menaje ~$12.000/mes), por aprobar como regla.
 
 ---
 
