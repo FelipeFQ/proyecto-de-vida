@@ -25,6 +25,20 @@
 - La etiqueta (derecha / izquierda · statu quo / cambio) es una **columna del registro**, no un criterio de entrada. Con el tiempo dirá *dónde* está el sesgo (p. ej., si en Latinoamérica el mercado infla a la derecha).
 - La intuición de Felipe ("el patrón se repite en todo el mundo") se registra en la columna de intuición y se audita con los resultados.
 
+### 1b. Hipótesis 2 (H2): coaliciones después del escrutinio
+*Aprobada el 27 nov 2026. Va con dinero real (USD 10), con registro propio y conteo propio de 8 (sección 6c). No se mezcla con la hipótesis 1.*
+
+> *En un sistema parlamentario, cuando el partido con más escaños no tiene una suma posible para la mayoría con partidos que no lo han vetado, el mercado sigue sobrevalorando a su candidato: el precio se ancla en "quién ganó" y no en las cuentas de la coalición.*
+
+**Regla de 5 pasos:**
+1. Esperar el escrutinio oficial de escaños.
+2. Sumar el bloque del favorito del mercado: su partido más los partidos que **no lo hayan vetado públicamente** durante la campaña. Los vetos se anotan **antes** de mirar el mercado.
+3. Si el bloque llega a la mayoría, el mercado está alineado: **no se opera**.
+4. Si no llega, el rival sí tiene una suma posible y el favorito sigue con ≥65%: **USD 10 al rival**, mantenido hasta la resolución.
+5. Antes de entrar, leer cómo resuelve el mercado si se repiten las elecciones o si nadie logra la investidura.
+
+**Diferencia con la hipótesis 1:** la H1 compara encuestas contra el mercado *antes* de votar; la H2 compara la cuenta de escaños contra el mercado *después* de votar. Aplican la misma regla de confirmación (sección 4), las mismas alarmas (sección 5) y el mismo monto.
+
 ---
 
 ## 2. Criterios de entrada (deben cumplirse todos)
@@ -196,3 +210,20 @@ Las filas marcadas como **referencia** son anteriores al sistema y **no cuentan*
 2. La pregunta: ¿la canasta A supera lo esperado por su precio más que la B?
 3. Una sola noche no confirma ni descarta nada: las carreras comparten el mismo error nacional de las encuestas. Cuenta como una observación.
 4. Las carreras que tarden en resolverse (Alaska y Maine por voto preferencial, conteos largos) quedan abiertas hasta su resultado oficial.
+
+### 6c. Registro de la H2 (coaliciones después del escrutinio)
+
+| # | Votación | Mayoría | Bloque del favorito (escaños) | Vetos anotados antes | Favorito mercado (precio) | Rival (precio) | ¿Cumple? | Intuición (antes del resultado) | Dinero | Resultado | P&L |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| H2-1 | España, generales (29 nov 2026) | 176 de 350 | Por llenar con el escrutinio (PP + Vox; encuestas privadas: 187–190) | Por anotar antes de mirar el mercado: Junts y PNV han rechazado gobiernos con Vox | Feijóo ~90% (27 nov, según Felipe) | Sánchez (por llenar) | Por decidir con el escrutinio | Ver abajo | USD 10 real si cumple | | |
+| H2-P1 | Israel, Knesset (27 oct 2026) | 61 de 120 | Eisenkot: bloque de 48 + otros por verificar · Netanyahu: bloque de 53 | Por verificar | Eisenkot ~80% (27 nov, según Felipe; no verificado) | Netanyahu ~20% | Papel. Se opera solo si el bloque de Eisenkot no tiene una suma posible para llegar a 61 | No registrada | Ninguno (papel) | | |
+
+**Regla de España, escrita antes del escrutinio (27 nov):**
+
+| Escaños de PP + Vox | Acción |
+|---|---|
+| 176 o más | No se opera: el mercado está alineado |
+| Menos de 176, Feijóo depende de Junts o del PNV, y sigue con ≥65% | USD 10 a Sánchez, mantenido hasta la resolución |
+
+**Intuición de Felipe (27 nov, antes del resultado):** "PP y Vox no van a llegar a los 176." Sobre quién termina de presidente: el pueblo español quiere un cambio, pero no hacia la derecha del todo; si PP + Vox no llegan a 176, la más favorecida sería Ada Colau, y la segunda opción Pedro Sánchez. Si después del escrutinio Polymarket sigue siendo Feijóo contra Sánchez, la apuesta correcta es Sánchez, porque el PSOE, como fuerza grande, es el que más fácil reúne a los partidos pequeños.
+*Nota del Consejero:* según lo verificado hasta el 27 nov, Colau no encabeza ninguna lista al Congreso y no aparece como candidata a la investidura. Se registra la intuición tal como la dijo Felipe.
