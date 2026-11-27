@@ -1,6 +1,6 @@
 # MARKETING — Coliving La Clarita
 *Embudo semanal y registro de experimentos. Regla: UN cambio por semana, medido contra el embudo, para saber qué funcionó.*
-*Última actualización: 2026-10-14*
+*Última actualización: 2026-11-27*
 
 ---
 
@@ -98,3 +98,4 @@ Desde la línea base del 2 oct (970 clics) → +184 clics al 3 oct. Entre 2 y 3 
 - ~~Poner en el texto del anuncio "Entrega desde el 14 de octubre"~~ → la fecha del anuncio pasó a 1 nov (2026-10-06). Evaluar si además se pone en el texto.
 - Renovar el anuncio (experimento aparte, si bajan los mensajes).
 - Si en las visitas aparece "pensé que era independiente": reforzar "COLIVING" en el titular.
+- **Fotos de la zona de ropas ordenada con la lavadora actual (costo $0) — se toman el sáb 28 nov (2026-11-27).** Hipótesis: mostrar la lavandería sube los mensajes por cada 100 clics (Hab 3: ~3,5–4,3 vs. base 5,3). Evidencia previa débil: 1 de 18 interesados de la Hab 3 preguntó por ella. Antes de la foto: rejilla del sifón. Espacios comunes con muebles por sacar: todavía no se fotografían. Si se sube, es el único cambio al anuncio de esa semana. La lavadora nueva + monedero es inversión operativa, no de marketing (ver `finanzas/administracion_propiedad.md`).
