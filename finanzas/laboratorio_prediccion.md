@@ -123,45 +123,45 @@ Las filas marcadas como **referencia** son anteriores al sistema y **no cuentan*
 
 | Canasta | Carrera | Apuesta (precio) | Encuestas | Pago si gana | Resultado | P&L |
 |---|---|---|---|---|---|---|
-| A | Sen. Texas | Paxton (26¢) | D+2,2 a 3,7 | $38,46 | | |
-| A | Sen. Maine | Collins (28¢) | D+1,7 a 4,7 | $35,71 | | |
-| A | Gob. Ohio | Ramaswamy (17¢) | D+2,6 a 4,5 | $58,82 | | |
-| A | Sen. Ohio | Husted (28¢) | D+2,6 a 2,9 | $35,71 | | |
-| A | Sen. Carolina del Sur | Andrews (32¢) | Empate | $31,25 | | |
-| A | Sen. Nebraska | Osborn (28¢) | R+1,9 | $35,71 | | |
-| A | Gob. Nevada | Lombardo (25¢) | D+0,6 | $40,00 | | |
-| A | Gob. Kansas | Holscher (36¢) | D+0,1 | $27,78 | | |
-| B | Sen. Michigan | Rogers (20¢) | D+3,5 a 5,5 | $50,00 | | |
-| B | Gob. Florida | Jolly (36¢) | R+4,4 | $27,78 | | |
-| B | Sen. Minnesota | Tafoya (8¢) | D+6,2 | $125,00 | | |
-| B | Gob. Arizona | Biggs (7¢) | D+7,1 | $142,86 | | |
-| B | Sen. Florida | Nixon (14¢) | R+6,1 | $71,43 | | |
-| B | Sen. Georgia | Collins (3¢) | D+9,6 | $333,33 | | |
-| B | Gob. Michigan | James (5¢) | D+8,7 | $200,00 | | |
-| B | Sen. New Hampshire | Sununu (6¢) | D+8,8 | $166,67 | | |
-| B | Sen. Montana | Independiente, Bodnar (9¢) | Alme +7,9 sobre Bodnar (encuestas recientes divididas) | $111,11 | | |
-| C | Sen. Mississippi | Colom (14¢) | Sin dato | $71,43 | | |
+| A | Sen. Texas | Paxton (26¢) | D+2,2 a 3,7 | $38,46 | Ganó Talarico (D) | −$10,00 |
+| A | Sen. Maine | Collins (28¢) | D+1,7 a 4,7 | $35,71 | Ganó Troy Jackson (D) | −$10,00 |
+| A | Gob. Ohio | Ramaswamy (17¢) | D+2,6 a 4,5 | $58,82 | Ganó Acton (D) | −$10,00 |
+| A | Sen. Ohio | Husted (28¢) | D+2,6 a 2,9 | $35,71 | Ganó Sherrod Brown (D) | −$10,00 |
+| A | Sen. Carolina del Sur | Andrews (32¢) | Empate | $31,25 | ✅ Ganó Andrews (D) | +$21,25 |
+| A | Sen. Nebraska | Osborn (28¢) | R+1,9 | $35,71 | Ganó Ricketts (R) | −$10,00 |
+| A | Gob. Nevada | Lombardo (25¢) | D+0,6 | $40,00 | Ganó Ford (D) | −$10,00 |
+| A | Gob. Kansas | Holscher (36¢) | D+0,1 | $27,78 | ✅ Ganó Holscher (D), proyección de CNN; carrera cerrada | +$17,78 |
+| B | Sen. Michigan | Rogers (20¢) | D+3,5 a 5,5 | $50,00 | Ganó El-Sayed (D) | −$10,00 |
+| B | Gob. Florida | Jolly (36¢) | R+4,4 | $27,78 | Ganó Donalds (R) | −$10,00 |
+| B | Sen. Minnesota | Tafoya (8¢) | D+6,2 | $125,00 | Ganó Flanagan (D) | −$10,00 |
+| B | Gob. Arizona | Biggs (7¢) | D+7,1 | $142,86 | Ganó Hobbs (D) | −$10,00 |
+| B | Sen. Florida | Nixon (14¢) | R+6,1 | $71,43 | Ganó Moody (R) | −$10,00 |
+| B | Sen. Georgia | Collins (3¢) | D+9,6 | $333,33 | Ganó Ossoff (D) | −$10,00 |
+| B | Gob. Michigan | James (5¢) | D+8,7 | $200,00 | Ganó Benson (D) | −$10,00 |
+| B | Sen. New Hampshire | Sununu (6¢) | D+8,8 | $166,67 | Ganó Pappas (D) | −$10,00 |
+| B | Sen. Montana | Independiente, Bodnar (9¢) | Alme +7,9 sobre Bodnar (encuestas recientes divididas) | $111,11 | Ganó Alme (R); Bodnar 2.º | −$10,00 |
+| C | Sen. Mississippi | Colom (14¢) | Sin dato | $71,43 | ✅ Ganó Colom (D) | +$61,43 |
 
 **Agregadas a pedido de Felipe (2 nov).** Precios del agregador de Polymarket (polymarkettrader.com), corte 20:56 hora de Colombia.
 
 | Canasta | Carrera | Apuesta (precio) | Encuestas o referencia | Pago si gana | Resultado | P&L |
 |---|---|---|---|---|---|---|
-| A | Sen. Alaska | Sullivan (27,5¢) | D+1,2 a 2,3 | $36,36 | | |
-| A | Gob. Georgia | Jackson (30,5¢) | D+0,3; volumen $460k | $32,79 | | |
-| A | Gob. Oregon | Drazan (16,5¢) | Kotek +2 a Drazan +1; encuestas de sep-oct, viejas; volumen $268k | $60,61 | | |
-| C | Gob. Alaska | Wilson (10,5¢) | Sin dato | $95,24 | | |
-| C | Gob. Vermont | Janoo (29,9¢) | Sin dato | $33,44 | | |
-| D | Cámara CA-22 | Valadao (6,5¢) | Cook: empate | $153,85 | | |
-| D | Cámara FL-14 | Beltran (21,5¢) | Cook: empate | $46,51 | | |
-| D | Cámara FL-22 | Askar (26,5¢) | Cook: empate | $37,74 | | |
-| D | Cámara IA-02 | Mitchell (27,5¢) | Cook: empate | $36,36 | | |
-| D | Cámara MI-07 | Barrett (20,5¢) | Cook: empate | $48,78 | | |
-| D | Cámara MI-10 | Bouchard (25,5¢) | Cook: empate | $39,22 | | |
-| D | Cámara NC-01 | Buckhout (11,5¢) | Cook: empate | $86,96 | | |
-| D | Cámara OH-07 | Miller (12¢) | Cook: empate, sin verificar en la tabla | $83,33 | | |
-| D | Cámara TX-15 | Monica De La Cruz (11,5¢) | Cook: empate, sin verificar en la tabla | $86,96 | | |
-| D | Cámara TX-35 | Carlos De La Cruz (27,5¢) | Cook: empate, sin verificar en la tabla | $36,36 | | |
-| D | Cámara VA-01 | Wittman (32,5¢) | Cook: empate, sin verificar en la tabla | $30,77 | | |
+| A | Sen. Alaska | Sullivan (27,5¢) | D+1,2 a 2,3 | $36,36 | Ganó Peltola (D) | −$10,00 |
+| A | Gob. Georgia | Jackson (30,5¢) | D+0,3; volumen $460k | $32,79 | Ganó Bottoms (D) | −$10,00 |
+| A | Gob. Oregon | Drazan (16,5¢) | Kotek +2 a Drazan +1; encuestas de sep-oct, viejas; volumen $268k | $60,61 | Ganó Kotek (D) | −$10,00 |
+| C | Gob. Alaska | Wilson (10,5¢) | Sin dato | $95,24 | Ganó Kreiss-Tomkins (D), mayoría en 1.ª ronda | −$10,00 |
+| C | Gob. Vermont | Janoo (29,9¢) | Sin dato | $33,44 | Scott (R) adelante 52,4–45,8 con 100% escrutado (NBC); sin proyección formal encontrada | −$10,00 |
+| D | Cámara CA-22 | Valadao (6,5¢) | Cook: empate | $153,85 | Ganó Villegas (D) | −$10,00 |
+| D | Cámara FL-14 | Beltran (21,5¢) | Cook: empate | $46,51 | Ganó Castor (D) | −$10,00 |
+| D | Cámara FL-22 | Askar (26,5¢) | Cook: empate | $37,74 | Ganó Dandiya (D) | −$10,00 |
+| D | Cámara IA-02 | Mitchell (27,5¢) | Cook: empate | $36,36 | Ganó Lindsay James (D) | −$10,00 |
+| D | Cámara MI-07 | Barrett (20,5¢) | Cook: empate | $48,78 | Ganó Lawrence (D) | −$10,00 |
+| D | Cámara MI-10 | Bouchard (25,5¢) | Cook: empate | $39,22 | Ganó Hines (D) | −$10,00 |
+| D | Cámara NC-01 | Buckhout (11,5¢) | Cook: empate | $86,96 | Ganó Davis (D) | −$10,00 |
+| D | Cámara OH-07 | Miller (12¢) | Cook: empate, sin verificar en la tabla | $83,33 | Ganó Poindexter (D) | −$10,00 |
+| D | Cámara TX-15 | Monica De La Cruz (11,5¢) | Cook: empate, sin verificar en la tabla | $86,96 | Ganó Pulido (D) | −$10,00 |
+| D | Cámara TX-35 | Carlos De La Cruz (27,5¢) | Cook: empate, sin verificar en la tabla | $36,36 | Ganó Garcia (D) | −$10,00 |
+| D | Cámara VA-01 | Wittman (32,5¢) | Cook: empate, sin verificar en la tabla | $30,77 | Ganó Taylor (D), llamada de AP 5 nov | −$10,00 |
 
 - **Canasta A:** asimetría con encuestas dentro de 3 puntos en al menos un promedio; 11 apuestas, USD 110, aciertos esperados por precio 2,95. Es la hipótesis de la sección 1.
 - **Canasta B:** asimetría sin empate; 9 apuestas, USD 90, aciertos esperados 1,08.
@@ -171,7 +171,15 @@ Las filas marcadas como **referencia** son anteriores al sistema y **no cuentan*
 - **Montana** pasó de C a B al encontrar el promedio de FiftyPlusOne (antes de conocer el resultado).
 - **Quedaron fuera por no estar empatadas o no llegar a 65:** el resto de carreras con encuestas; Cámara con Cook en empate y favorito <65 (CO-05, KY-06, MI-04, MT-01, NY-17, PA-01, SC-01).
 
-**Se llena el lunes 9 nov** en el laboratorio, con los resultados disponibles hasta ese día.
+**Resultados llenados el 27 nov 2026** (se había previsto el 9 nov). Fuentes: NBC News, CBS News, PBS, Washington Post, VPM, Alaska Public Media. Son proyecciones de medios, no resultados certificados. Kansas (gobernador) y Vermont (gobernador) quedan marcados para confirmar.
+
+| Canasta | Apuestas | Aciertos | Esperados por precio | Pagos | P&L |
+|---|---|---|---|---|---|
+| A (empate + asimetría) | 11 | 2 (Andrews, Holscher) | 2,95 | $59,03 | −$50,97 (−46%) |
+| B (asimetría sin empate) | 9 | 0 | 1,08 | $0 | −$90,00 (−100%) |
+| C (sin encuestas) | 3 | 1 (Colom) | 0,54 | $71,43 | +$41,43 (+138%) |
+| D (Cámara, Cook en empate) | 11 | 0 | 2,23 | $0 | −$110,00 (−100%) |
+| **Total** | **34** | **3** | **6,80** | **$130,46** | **−$209,54 (−62%)** |
 
 **Cómo se lee (definido antes del resultado):**
 1. Métrica principal: aciertos frente a aciertos esperados, por canasta. El balance en dólares se reporta, pero no decide.
