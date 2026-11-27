@@ -181,6 +181,16 @@ Las filas marcadas como **referencia** son anteriores al sistema y **no cuentan*
 | D (Cámara, Cook en empate) | 11 | 0 | 2,23 | $0 | −$110,00 (−100%) |
 | **Total** | **34** | **3** | **6,80** | **$130,46** | **−$209,54 (−62%)** |
 
+**Lectura (27 nov):**
+- A acertó 2 de 2,95 esperados y B 0 de 1,08. A le ganó a B solo porque las dos quedaron por debajo de lo esperado. El que iba perdiendo en las carreras empatadas no superó su precio.
+- En las carreras empatadas el mercado favoreció a los demócratas (9 de las 11 apuestas de A eran por republicanos o por el independiente Osborn), y el resultado fue aún más demócrata: hubo una ola nacional. Las encuestas subestimaron al ganador y el mercado estuvo más cerca de la realidad, igual que en Colombia 2026.
+- No hubo sesgo del mercado hacia la derecha en EE. UU. Cuenta como una observación en contra de la versión global de la tesis. La de Latinoamérica sigue abierta.
+- Es una sola observación: las 34 carreras compartieron el mismo error nacional de las encuestas. El riesgo que deja ver es real: cuando la ola va en contra, se pierde en todas a la vez.
+
+**Intuición de Felipe (registrada después del resultado, el 27 nov):** antes de la votación esperaba que los demócratas arrasaran, por la baja popularidad del gobierno Trump y el ambiente generalizado, en EE. UU. y en el mundo, de castigo a los republicanos. Se sentía inseguro carrera por carrera, porque no seguía las noticias locales de cada estado, y lo hizo como ejercicio informativo. Su intuición general acertó; la regla mecánica, que apostaba contra la ola, perdió. Esta intuición no se escribió antes del resultado, así que no cuenta como dato de la columna B.
+
+**Lección:** el laboratorio se queda en lo que pide la sección 2: elecciones grandes de ejecutivo (presidenciales) y referendos de dos opciones. Las elecciones de mitad de mandato y las legislativas por distrito no entran, ni siquiera en papel: son muchas carreras con un mismo error nacional, sin información local para auditarlas.
+
 **Cómo se lee (definido antes del resultado):**
 1. Métrica principal: aciertos frente a aciertos esperados, por canasta. El balance en dólares se reporta, pero no decide.
 2. La pregunta: ¿la canasta A supera lo esperado por su precio más que la B?
